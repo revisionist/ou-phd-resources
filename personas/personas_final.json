@@ -1,0 +1,73 @@
+[
+   {
+      "id":"susan",
+      "name":"Susan",
+      "definition":{
+         "age":58,
+         "does":"I live in the Midlands in the UK and work as an administrator at the nearby university.  I'm married and have two children – unlike me they both went to university.  Since graduating one settled down quite close but the other lives and works in London.\nI have a few hobbies outside of work – baking, tennis and getting out into the local countryside.",
+         "feelThinkBelieve":"While I enjoy my job, it's not the most important thing in my life; I have no trouble switching off at the end of the day, even when it's been very busy.  When I socialise with work colleagues we rarely talk about work (otherwise I probably wouldn't socialise with them).\nI know my children lead busy lives now, but I miss seeing as much of them as I used to, particularly the youngest who is in London now.  They do try and keep in touch but I don't always know what they're up to or how they are doing.\nI really enjoy my tennis and spend a lot of time helping organise club events.\nI'm not always entirely on top of things in my personal life because I don't check my email often enough.",
+         "gender":"Female",
+         "technologyExperience":"I use a desktop computer at work for admin, email and maybe a little web browsing.  We have one at home too, but it's mostly my husband on that. I've had IT training at work and get along fine with computers – although I prefer to stay in my comfort zone. My son made me get one of those smartphones.  I didn't really see the point at first, but it is actually quite useful for staying in touch and organising things.\nI think I mostly use Facebook and WhatsApp as well as things like the weather app.  I admit I do use Facebook quite a lot, but there are a lot of stories about how much they know about you and what they do with that.  If it wasn't so handy, I'd use it a lot less.",
+         "problems":"Not as aware of her adult childrens' activities and day to day lives as she would like to be. \nBecause of relatively low level of engagement with computers at home, Susan sometimes misses items of news or things to act on – particularly when they come in via email or get lost in Facebook feeds.",
+         "needs":"Tools to help her track what is going on with friends, family and hobbies in social media without needing to log in all the time.\nAlso needs a way to ensure that she does not miss important emails.",
+         "existingSolutions":"Existing algorithms in social services that select content for users.\nEmail filtering.  \nNotification functionality in social media smartphone apps."
+      }
+   },
+   {
+      "id":"adam",
+      "name":"Adam",
+      "definition":{
+         "age":38,
+         "does":"I work in IT as a software consultant.  My employer is based in Berkshire but I work all over, depending on the customer.  I usually do quite short engagements.\nI have a long-term partner but no kids.\nI'm a keen cyclist and often organise group rides for my club.",
+         "feelThinkBelieve":"I'm a big fan of technology – I genuinely believe it helps humanity as long as we use it right.  I'm well aware that people like to complain about social media giants, fake news, privacy and all that but I think it's overblown.  If you configure your privacy settings right and apply a little critical thought about what you read I think it's not really a problem.\nOnline services and apps usually show me the right sort of stuff – again, I think because I've put in time to configure it.  Having said that, with all the information coming my way from both work and social angles I do get swamped sometimes.  If there was a way I could set up things to help I'd jump at it.\nI travel a lot for work, and this can make it harder to keep on top of things.  There's always an urgent email buried in among all the corporate spam that arrives while I'm not looking.",
+         "gender":"Male",
+         "technologyExperience":"I'm pretty good with technology, even if I do say so myself.  The field is so dynamic that things change all the time – I enjoy the challenge of keeping on top of it.  I manage well but occasionally get blindsided by something coming up that I've never heard of.\nI don't have a formal educational background in technology, instead I've learned most of what I know on the fly.  Stuff I would have been taught twenty years ago is mostly going to be irrelevant now anyway.",
+         "problems":"Very engaged with technology but still misses important things due to time and travel commitments.\nDoes not completely keep up on all the relevant technology news.",
+         "needs":"Tools to sift the wheat from the chaff, particularly for 'dumb' services such as email that are less likely to use an algorithm to help you.\nServices that reliably pick out important technology news that's relevant to the job – presenting the right amount of news at the right time.",
+         "existingSolutions":"Tools such as the Microsoft Outlook Focused Inbox and Gmail Inbox, although these are platform-specific.\nNews aggregator services (algorithmic/rule based as well as social driven services such as Reddit)"
+      }
+   },
+   {
+      "id":"phoebe",
+      "name":"Phoebe",
+      "definition":{
+         "age":23,
+         "does":"I'm a recent graduate working for an accountancy firm in London.  I'm on the management fast track, meaning that I move around many different parts of the business to learn how they work.\nI'm currently single, mainly because I have so little time to do things like organise and go on dates.\nMy undergraduate degree was in Chemistry, but I quickly realised that I didn't want to be in a lab for a living.",
+         "feelThinkBelieve":"I have a lot of university friends now scattered all around – I want to stay in touch via social media (and meet up when we can) but I don't always keep on top of what people are up to as many of them post a lot of rubbish on their feeds.\nI love my job but I feel my work consumes most of my time and I have trouble switching off.  There's always a project going on.\nWhile I have many social apps that I use a lot, I'm not convinced that that have my best interests at heart and I sometimes wonder if I share too much about myself with them.",
+         "gender":"Female",
+         "technologyExperience":"I guess I'm what people call a digital native.  Technology isn't a big thing in its own right for me, but I suppose I depend on it for everything – work and social.  While I happily admit that I don't use all the features on my phone (who does, really?), I am always keen to try out new apps and online services if they have something to offer me.  If I am really into a particlar app, I will take time to ensure that it works just so.\nI have a notebook computer for work, but I don't actually use it as much as I thought I would when I started – I mainly use it for typing things up and doing admin on the intranet (some of our admin apps don't work on mobile).  I use my phone for a lot of my work, particularly for communication and collaborating.  I only carry the one phone around with me for convenience, so it runs several work and personal apps.\nI mainly chat with people using an instant messenger.  I pride myself on being able to select a meme for every occasion (although I'm not sure that counts as 'technology experience').",
+         "problems":"Lack of time to stay on top of social media due to pressure of work.\nFinds it hard to switch off from work in personal time.",
+         "needs":"Find ways of keeping up with friends on social media that don't consume a lot of time wading through minutiae.\nHelp making a distinction between work and personal time when using a single device for both.",
+         "existingSolutions":"Existing algorithms in social services that select content for users.\nScheduled or manual 'do not disturb' features in apps used for work (i.e. Slack's Do Not Disturb hours)."
+      }
+   },
+   {
+      "definition":{
+         "age":49,
+         "gender":"Male",
+         "does":"I work as a client manager for a global consumer products company. You will have heard of us. My role is essentially to drive sales, but looking after existing customers and bringing new ones in. As many of my accounts are themselves global corporates, I end up doing a fair bit of international travel.\nI never went to university – it didn't interest me at the time – so I started my career at 18 just after A-levels.\nI'm divorced, with one son who lives with his mum but I see often.\nOutside work, I watch football and play golf.  I used to do it more the other way around when I was younger.",
+         "feelThinkBelieve":"I have a lot to stay on top of at work. I. sometimes miss things, but someone usually reminds me if it's urgent. I prefer not to miss things from important customers though, even if they are not urgent I like to give them a prompt reply. It can be difficult though, when you get things flying at you from all directions at all times. I'm on Facebook, Twitter and all that, like most people are. Not sure how I'd organise my social life without Facebook (how did I manage before?) I hear all the usual scare stories about social media giants, but they're a bit overblown by the media. I don't overshare, but I'm happy to put information out there – I think you get more out of it that way. Of course in an ideal world I'd be happy to have more control.",
+         "technologyExperience":"I don't think I'm held back by not having a degree. A lot of graduates joining my company haven't got a clue about the real business world anyway. Experience counts for a lot and I've always done well for getting stuck in with new things. I really believe that you get out what you're prepared to put in with technology. I'll put in the time when I can to get things set up right, tell it my preferences or whatever helps. In mainly use office tools like Word and Excel and communications tools such as Webex day to day. We also have a new CRM system that I have to use, as well as the old CRM system that we haven't completely migrated off yet, and the other CRM system that we also use, for reasons I don't fully undertstand. I travel a lot, so I'm pretty good at managing with a notebook and mobile.",
+         "problems":"Has to use multiple different systems that are not integrated with each other.  Receives many interruptions from different sources that need to be prioritised differently.",
+         "needs":"Methods to handle and prioritise incoming messages.",
+         "existingSolutions":"Email rules. Social media functionality. Features of bespoke applications that control notifications.",
+         "type":"PathyPersona"
+      },
+      "id":"kenton",
+      "name":"Kenton"
+   },
+   {
+      "id":"usha",
+      "name":"Usha",
+      "definition":{
+         "age":43,
+         "does":"I'm a senior partner in a legal practice in a medium market town in England.  My specialism is company law and I work mostly with small and medium enterprises in the local area.\nOutside of work, I enjoy horse riding and socialising.\nI'm married and have two school-age children.",
+         "feelThinkBelieve":"My work is very busy, as I usually handle several cases at once.  While I have a personal assistant who handles a lot of my calls and email, I'm frequently in direct contact with multiple clients over the course of a week, mostly by phone and email.\nWhile I'm pretty well organised and do manage to  stay on top of all this, I do find it quite trying when I'm trying to concentrate on something to get a lot of interruptions, which can happen.\nI enjoy switching off at the end of the day and getting back to my family.  I have a dedicated work mobile phone and that gets switched to do not disturb mode out of hours, so only emergencies get through to me.",
+         "gender":"Female",
+         "technologyExperience":"I would say that I'm competent with technology, it's an essential tool to do my job and organise my life.  It's also a useful way to stay in contact with extended family.\nI'm a moderate user of social media, both in a personal and professional capacity.  Most of my family and friends use Facebook to some degree and a lot of things that I'm involved with are organised there, so I need to use it for that .  I'm reticent to shame to much information about my family and personal life online though.  My practice maintains a Facebook page and Twitter account and I try to tweet reasonably regularly to maintain my professional profile.  I also use LinkedIn, mainly as a way of making and maintaining business contacts.\nI depend on my smartphone and laptop when I am oput of the office; I tend to use a desktop in the office.  I use phone and email a lot for my work, but I also increasingly use conferencing tools such as Skype and Webex to interact with clients (I will use whatever the client has a preference for, if they have one).",
+         "problems":"Being interrupted by incoming messages and notifications when trying to focus on something.\nMaintaining multiple social media channels (professional & personal) and staying on top of these.",
+         "needs":"Ways to manage/intercept interruptions coming from multiple sources.\nA more holistic approach to multiple social media sources, to manage both incoming and outgoing information.\nAbility to make a distinction between work and personal technology, particularly for interruptions.",
+         "existingSolutions":"Has a (human) personal assistant.\nExisting functionality provided by social media platforms.\nUses different mobile phones for work and personal.\n'Do not disturb feature' on phone."
+      }
+   }
+]
