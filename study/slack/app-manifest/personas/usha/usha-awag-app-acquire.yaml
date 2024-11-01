@@ -1,0 +1,48 @@
+display_information:
+  name: Awareness Agent Acquire (Usha)
+  description: Awareness Agent acquire bot for persona Usha
+  background_color: "#97179c"
+features:
+  bot_user:
+    display_name: Awareness Agent Listener
+    always_online: false
+oauth_config:
+  redirect_urls:
+    - https://usha.agent.awag.parse.net/service/slack/install/A06TE8DSHPD
+  scopes:
+    user:
+      - channels:history
+      - channels:read
+      - groups:history
+      - groups:read
+    bot:
+      - app_mentions:read
+      - channels:history
+      - channels:join
+      - channels:manage
+      - channels:read
+      - dnd:read
+      - emoji:read
+      - groups:history
+      - groups:read
+      - im:history
+      - im:read
+      - incoming-webhook
+      - links:read
+      - metadata.message:read
+      - mpim:history
+      - mpim:read
+      - team:read
+      - users.profile:read
+      - users:read
+settings:
+  event_subscriptions:
+    request_url: https://usha.agent.awag.parse.net/service/slack/acquire/events
+    bot_events:
+      - app_mention
+      - app_uninstalled
+      - message.channels
+      - message.groups
+  org_deploy_enabled: false
+  socket_mode_enabled: false
+  token_rotation_enabled: false

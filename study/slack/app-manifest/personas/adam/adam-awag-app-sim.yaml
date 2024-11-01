@@ -1,0 +1,52 @@
+display_information:
+  name: Awareness Agent Simulate (Adam)
+  description: Awareness Agent content simulator for persona Adam
+  background_color: "#917059"
+features:
+  bot_user:
+    display_name: Awareness Agent Sim
+    always_online: false
+oauth_config:
+  redirect_urls:
+    - https://adam.agent.awag.parse.net/service/slack/install/A06TEMX2BCJ
+  scopes:
+    user:
+      - channels:history
+      - channels:read
+      - channels:write
+      - chat:write
+      - groups:history
+      - groups:read
+      - groups:write
+    bot:
+      - app_mentions:read
+      - channels:history
+      - channels:join
+      - channels:manage
+      - channels:read
+      - chat:write
+      - chat:write.customize
+      - chat:write.public
+      - commands
+      - dnd:read
+      - emoji:read
+      - groups:history
+      - groups:read
+      - groups:write
+      - im:history
+      - im:read
+      - im:write
+      - incoming-webhook
+      - links:read
+      - links:write
+      - metadata.message:read
+      - mpim:history
+      - mpim:read
+      - mpim:write
+      - team:read
+      - users.profile:read
+      - users:read
+settings:
+  org_deploy_enabled: false
+  socket_mode_enabled: false
+  token_rotation_enabled: false
