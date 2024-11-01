@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Berrow Farm",
+        "also_known_as": [],
+        "type": "Company (Farm)",
+        "notes": "This is the farm near Ambridge where Neil Carter works as a pig manager",
+        "people": [
+            {
+                "name": "Justin Elliott",
+                "role": "Chair of Borchester Land, who own Berrow Farm"
+            },
+            {
+                "surname": "Jazzer McCreary",
+                "role": "Works with Neil at Berrow Farm"
+            }
+        ]
+    },
+    {
+        "name": "The Bull",
+        "also_known_as": [
+            "the pub"
+        ],
+        "type": "Company",
+        "notes": "This is the popular village pub in the village of Ambridge, where a lot of Kenton's family and friends live, work and socialise",
+        "people": [
+            {
+                "name": "Fallon Rogers",
+                "role": "Landlady"
+            },
+            {
+                "name": "Wayne Tucson",
+                "role": "Chef"
+            }
+        ]
+    }
+]

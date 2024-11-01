@@ -1,0 +1,62 @@
+[
+    {
+        "name": "football-friends",
+        "description": "People with whom Kenton shares an interest in English Football",
+        "members": [
+            {
+                "surname": "Thompson",
+                "firstname": "George",
+                "userid": "george.thompson",
+                "role": "Kenton plays golf with George, and they share an interest in football"
+            },
+            {
+                "surname": "Clarke",
+                "firstname": "Adam",
+                "userid": "adam.clarke",
+                "role": "Adam is into all sports"
+            },
+            {
+                "surname": "Hughes",
+                "firstname": "Benjamin",
+                "userid": "benjamin.hughes",
+                "role": "The group joker"
+            },
+            {
+                "surname": "Brooks",
+                "firstname": "Sophia",
+                "userid": "sophia.brooks",
+                "role": "Enthusiastic about sport and meeting up"
+            },
+            {
+                "surname": "Smith",
+                "firstname": "Olivia",
+                "userid": "olivia.smith",
+                "role": "Keen football analyst, enjoys discussing tactics"
+            },
+            {
+                "surname": "Taylor",
+                "firstname": "Liam",
+                "userid": "liam.taylor",
+                "role": "Avid fan of a rival team, brings lively debates"
+            },
+            {
+                "surname": "Walker",
+                "firstname": "Emily",
+                "userid": "emily.walker",
+                "role": "Often organizes football match viewings"
+            },
+            {
+                "surname": "Wright",
+                "firstname": "Harry",
+                "userid": "harry.wright",
+                "role": "Long-time friend and season ticket holder"
+            },
+            {
+                "surname": "Johnson",
+                "firstname": "Charlotte",
+                "userid": "charlotte.johnson",
+                "role": "Known for her passion for grassroots football"
+            }
+        ]
+    }
+]

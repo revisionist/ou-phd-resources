@@ -1,0 +1,14 @@
+{
+   "use_history":true,
+   "openai_model":"{{openai_model_sim}}",
+   "dramatis_personae":"{{kenton_football_dramatis_personae}}",
+   "entities":"{{kenton_football_entities}}",
+   "topics":[
+      {
+         "category":"kenton-football",
+         "enabled":true,
+         "items_multiplier":1,
+         "topic":"Chat between a group of friends who share an interest in football.  People mostly come from the fictional village of Ambridge in the county of Borsetshire, UK, or nearby.  The group often meet at the village pub (The Bull) to socialise and sometimes watch matches, but also watch the local team and some travel to league matches.  Topics generally relate football, but the chat will often veer to other topics including village gossip, current affairs and family news.  As well as the football clubs listed in the entities document, people may also mention locations in the main county town of Borchester, as well as, Penny Hassett, Loxley Barrett, Darrington, and the cathederal city of Felpersham.  There are some general jokes and light banter.  The tone of the messages should be informal British English."
+      }
+   ]
+}

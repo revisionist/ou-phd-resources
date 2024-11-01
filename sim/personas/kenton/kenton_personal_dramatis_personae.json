@@ -1,0 +1,152 @@
+[
+    {
+        "name": "family",
+        "description": "Members of Kenton's immediate family",
+        "members": [
+            {
+                "surname": "Archer",
+                "firstname": "Kathy",
+                "userid": "kathy",
+                "role": "Kenton's spouse; works in IT"
+            },
+            {
+                "surname": "Aldridge",
+                "firstname": "Brian",
+                "userid": "brian",
+                "role": "Kenton's father; runs Brookfield Farm"
+            },
+            {
+                "surname": "Aldridge",
+                "firstname": "Jennifer",
+                "userid": "jennifer",
+                "role": "Kenton's mother; runs Brookfield Farm"
+            },
+            {
+                "surname": "Aldridge",
+                "firstname": "Debbie",
+                "userid": "debbie",
+                "role": "Kenton's sister; lives and works abroad but they are close"
+            },
+            {
+                "surname": "Aldridge",
+                "firstname": "Kate",
+                "userid": "kate",
+                "role": "Kenton's sister; has reputation as black horse of family"
+            },
+            {
+                "surname": "Aldridge",
+                "firstname": "Phoebe",
+                "userid": "kate",
+                "role": "Kenton's youngest sister"
+            },
+            {
+                "surname": "Carter",
+                "firstname": "Alice",
+                "userid": "alice",
+                "role": "Kenton's younger sister; lives in London now"
+            },
+            {
+                "surname": "Archer",
+                "firstname": "Tony",
+                "userid": "tony",
+                "role": "Kenton's uncle; sometimes argues with Brian"
+            },
+            {
+                "surname": "Archer",
+                "firstname": "Lillian",
+                "userid": "lillian",
+                "role": "Kenton's aunt; is a lot of fun but sometimes difficult"
+            },
+            {
+                "surname": "Woolley",
+                "firstname": "Peggy",
+                "userid": "peggy",
+                "role": "Kenton's grandmother; family matriarch; lives at The Lodge, where people often drop in to visit her"
+            }
+        ]
+    },
+    {
+        "name": "friends",
+        "description": "Friends and acquaintances of Kenton and Kathy",
+        "members": [
+            {
+                "surname": "Grundy",
+                "firstname": "Will",
+                "userid": "will",
+                "role": "Does not get on with Ed Grundy"
+            },
+            {
+                "surname": "Grundy",
+                "firstname": "Ed",
+                "userid": "will",
+                "role": "Does not get on with Will Grundy"
+            },
+            {
+                "surname": "Carter",
+                "firstname": "Alice",
+                "userid": "alice",
+                "role": ""
+            },
+            {
+                "surname": "McCreary",
+                "firstname": "Jack",
+                "userid": "jazzer",
+                "role": "Also know as Jazzer"
+            },
+            {
+                "surname": "Hebden Lloyd",
+                "firstname": "Shula",
+                "userid": "shula",
+                "role": "Married to the local vicar"
+            },
+            {
+                "surname": "Pargetter",
+                "firstname": "Elizabeth",
+                "userid": "liz",
+                "role": "Owns the local stately home, mother of Freddie and Lily"
+            },
+            {
+                "surname": "Pargetter",
+                "firstname": "Freddie",
+                "userid": "freddie",
+                "role": "Son of Elizabeth Pargetter"
+            },
+            {
+                "surname": "Pargetter",
+                "firstname": "Lily",
+                "userid": "lily",
+                "role": "Daughter of Elizabeth Pargetter"
+            },
+            {
+                "surname": "Rogers",
+                "firstname": "Fallon",
+                "userid": "fallon",
+                "role": "Owns the local pub, the Black Bull"
+            },
+            {
+                "surname": "Burns",
+                "firstname": "Harrison",
+                "userid": "harrison",
+                "role": "Local police officer"
+            },
+            {
+                "surname": "Fairbrother",
+                "firstname": "Rex",
+                "userid": "rex",
+                "role": "Brother of Toby Fairbrother, local entrepreneur"
+            },
+            {
+                "surname": "Fairbrother",
+                "firstname": "Toby",
+                "userid": "toby",
+                "role": "Brother of Rex Fairbrother, local entrepreneur"
+            },
+            {
+                "surname": "Tucker",
+                "firstname": "Roy",
+                "userid": "roy",
+                "role": "Manager of Grey Gables Hotel"
+            }
+        ]
+    }
+]

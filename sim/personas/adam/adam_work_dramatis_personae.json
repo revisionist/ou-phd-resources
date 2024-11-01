@@ -1,0 +1,320 @@
+[
+    {
+        "name": "work-team",
+        "description": "Members of Adam's team at work in Borchester Software,  The team is called the Client Technology Group (CTG)",
+        "members": [
+            {
+                "surname": "Walker",
+                "firstname": "Charlotte",
+                "userid": "walkerc",
+                "role": "Adam's team manager"
+            },
+            {
+                "surname": "Takahashi",
+                "firstname": "Yumi",
+                "userid": "takahashiy",
+                "role": ""
+            },
+            {
+                "surname": "Ahmed",
+                "firstname": "Anjali",
+                "userid": "ahmeda",
+                "role": ""
+            },
+            {
+                "surname": "Khan",
+                "firstname": "Sienna",
+                "userid": "khans",
+                "role": ""
+            },
+            {
+                "surname": "Khan",
+                "firstname": "Jayden",
+                "userid": "khanj",
+                "role": "New starter in the team, recent graduate"
+            },
+            {
+                "surname": "Fedorov",
+                "firstname": "Freya",
+                "userid": "fedorovf",
+                "role": ""
+            },
+            {
+                "surname": "Singh",
+                "firstname": "Oscar",
+                "userid": "singho",
+                "role": "Close colleague to Adam, often work together"
+            },
+            {
+                "surname": "Edwards",
+                "firstname": "Isla",
+                "userid": "edwardsi",
+                "role": ""
+            },
+            {
+                "surname": "Smith",
+                "firstname": "Harper",
+                "userid": "smithh",
+                "role": ""
+            },
+            {
+                "surname": "Jones",
+                "firstname": "Amelia",
+                "userid": "jonesa",
+                "role": ""
+            }
+        ]
+    },
+    {
+        "name": "work-executives",
+        "description": "Members of the executive team of Borchester Software",
+        "members": [
+            {
+                "surname": "Johnson",
+                "firstname": "Liam",
+                "userid": "johnsonl",
+                "role": "CEO"
+            },
+            {
+                "surname": "Takahashi",
+                "firstname": "Yumi",
+                "userid": "takahashiy",
+                "role": "CTO"
+            },
+            {
+                "surname": "White",
+                "firstname": "Henry",
+                "userid": "whiteh",
+                "role": "CFO"
+            },
+            {
+                "surname": "Patel",
+                "firstname": "Layla",
+                "userid": "patell",
+                "role": "Head of Personnel"
+            }
+        ]
+    },
+    {
+        "name": "work-other",
+        "description": "Other employees of Borchester Software",
+        "members": [
+            {
+                "surname": "Chen",
+                "firstname": "Youssef",
+                "userid": "cheny",
+                "role": "Adam's manager's manager"
+            },
+            {
+                "surname": "Khan",
+                "firstname": "Mei",
+                "userid": "khanm",
+                "role": ""
+            },
+            {
+                "surname": "Taylor",
+                "firstname": "Noah",
+                "userid": "taylorn",
+                "role": ""
+            },
+            {
+                "surname": "Wilson",
+                "firstname": "Evelyn",
+                "userid": "wilsone",
+                "role": ""
+            },
+            {
+                "surname": "Evans",
+                "firstname": "William",
+                "userid": "evansw",
+                "role": ""
+            },
+            {
+                "surname": "Roberts",
+                "firstname": "Sophia",
+                "userid": "robertss",
+                "role": ""
+            },
+            {
+                "surname": "Wright",
+                "firstname": "Alexander",
+                "userid": "wrighta",
+                "role": ""
+            },
+            {
+                "surname": "White",
+                "firstname": "Henry",
+                "userid": "whiteh",
+                "role": ""
+            },
+            {
+                "surname": "Hughes",
+                "firstname": "Olivia",
+                "userid": "hugheso",
+                "role": ""
+            },
+            {
+                "surname": "Green",
+                "firstname": "Lucas",
+                "userid": "greenl",
+                "role": ""
+            },
+            {
+                "surname": "Hall",
+                "firstname": "Anastasia",
+                "userid": "halla",
+                "role": ""
+            },
+            {
+                "surname": "Lewis",
+                "firstname": "Igor",
+                "userid": "lewisi",
+                "role": ""
+            },
+            {
+                "surname": "Harris",
+                "firstname": "Camila",
+                "userid": "harrisc",
+                "role": ""
+            },
+            {
+                "surname": "Clarke",
+                "firstname": "Carlos",
+                "userid": "clarkec",
+                "role": ""
+            },
+            {
+                "surname": "Sharma",
+                "firstname": "Alejandro",
+                "userid": "sharmaa",
+                "role": ""
+            },
+            {
+                "surname": "Li",
+                "firstname": "Rashid",
+                "userid": "lir",
+                "role": ""
+            },
+            {
+                "surname": "Wang",
+                "firstname": "Fatima",
+                "userid": "wangf",
+                "role": ""
+            },
+            {
+                "surname": "Nguyen",
+                "firstname": "Dmitri",
+                "userid": "nguyend",
+                "role": ""
+            },
+            {
+                "surname": "Tran",
+                "firstname": "Sofia",
+                "userid": "trans",
+                "role": ""
+            },
+            {
+                "surname": "Garcia",
+                "firstname": "Sanjay",
+                "userid": "garcias",
+                "role": ""
+            },
+            {
+                "surname": "Martinez",
+                "firstname": "Abdul",
+                "userid": "martineza",
+                "role": ""
+            },
+            {
+                "surname": "Rodriguez",
+                "firstname": "Priya",
+                "userid": "rodriguezp",
+                "role": ""
+            },
+            {
+                "surname": "Lopez",
+                "firstname": "Kwame",
+                "userid": "lopezk",
+                "role": ""
+            },
+            {
+                "surname": "Gonzalez",
+                "firstname": "Takashi",
+                "userid": "gonzalezt",
+                "role": ""
+            },
+            {
+                "surname": "Perez",
+                "firstname": "Anjali",
+                "userid": "pereza",
+                "role": ""
+            },
+            {
+                "surname": "Sanchez",
+                "firstname": "Nour",
+                "userid": "sanchezn",
+                "role": ""
+            },
+            {
+                "surname": "Ramirez",
+                "firstname": "Zara",
+                "userid": "ramirezz",
+                "role": ""
+            },
+            {
+                "surname": "Suzuki",
+                "firstname": "Isla",
+                "userid": "suzukii",
+                "role": ""
+            },
+            {
+                "surname": "Takahashi",
+                "firstname": "Benjamin",
+                "userid": "takahashib",
+                "role": ""
+            },
+            {
+                "surname": "Tanaka",
+                "firstname": "Amelia",
+                "userid": "tanakaa",
+                "role": ""
+            },
+            {
+                "surname": "Watanabe",
+                "firstname": "Noah",
+                "userid": "watanaben",
+                "role": ""
+            },
+            {
+                "surname": "Ito",
+                "firstname": "Evelyn",
+                "userid": "itoe",
+                "role": ""
+            },
+            {
+                "surname": "Yamamoto",
+                "firstname": "William",
+                "userid": "yamamotow",
+                "role": ""
+            },
+            {
+                "surname": "Ivanov",
+                "firstname": "Sophia",
+                "userid": "ivanovs",
+                "role": ""
+            },
+            {
+                "surname": "Petrov",
+                "firstname": "Alexander",
+                "userid": "petrova",
+                "role": ""
+            },
+            {
+                "surname": "Sidorov",
+                "firstname": "Henry",
+                "userid": "sidorovh",
+                "role": ""
+            }
+        ]
+    }
+]

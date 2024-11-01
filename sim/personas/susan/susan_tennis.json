@@ -1,0 +1,20 @@
+{
+   "use_history":true,
+   "openai_model":"{{openai_model_sim}}",
+   "dramatis_personae":"{{susan_tennis_dramatis_personae}}",
+   "entities":"{{susan_tennis_entities}}",
+   "topics":[
+      {
+         "category":"susan-tennis-club",
+         "enabled":true,
+         "items_multiplier":3,
+         "topic":"Chat forum within an English tennis club, Felpersham Tennis Club, that our fictional protagonist Susan Carter is member and co-organiser for.  Members are from the areas around the cathederal city of Felpersham in Borsetshire where the club is located, including Abridge village where Susan lives, the main county town of Borchester, Penny Hassett and Loxley Barrett.  Topics generally relate to tennis club business (fixtures, club elections and meetings, evants at the clubhouse etc.), discussion about professional and amateur tennis competitions and other things you might expect members of a tennis club to discuss. Chat will often veer to other topics including current affairs, but there will often be someone along to remind people to stick vaguely to the topic.  There is a 'no politics' rule that is sometimes broken but quickly reprimanded.  There are some general jokes and light banter.  The local rival club Darrington Tennis will often get a mention.  Generate a range of messages to reflect the above and other topics; avoid generating duplicates or overly similar repeated messages.  The tone of the messages should be informal British English with British spellings."
+      },
+      {
+         "category":"susan-tennis-chat",
+         "enabled":true,
+         "items_multiplier":2,
+         "topic":"Chat between a group of friends who share an interest in tennis.  Our protagonist, susan, is a member of a tennis club which has its own discussion forum, but this is a separate group chat among friends.  People mostly come from the fictional village of Ambridge in the county of Borsetshire, UK, or nearby.  The group often meet at the tennis club where many are members (Felpersham Tennis Club) or village pub (The Bull) to socialise as well as actually playing tennis.  Tennis played is a mixture of social and competitive fixtures.  Topics often relate to tennis, but the chat will frequently veer to other topics including village gossip, current affairs and family news and you should generate a range of messages to reflect this.  Tennis-related discussion will often include arranging informal one to one or doubles matches, discussion about injuries or technique and speculating on the weather and court availability.  People may also mention locations in the main county town of Borchester, as well as, Penny Hassett, Loxley Barrett, Darrington, and the cathederal city of Felpersham where the club is based.  There are some general jokes and light banter; avoid generating duplicates or overly similar repeated messages.  The tone of the messages should be informal British English with British spellings."
+      }
+   ]
+}

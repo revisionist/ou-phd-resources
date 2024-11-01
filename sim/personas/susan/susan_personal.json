@@ -1,0 +1,26 @@
+{
+   "use_history":true,
+   "openai_model":"{{openai_model_sim}}",
+   "dramatis_personae":"{{susan_personal_dramatis_personae}}",
+   "entities":"{{susan_personal_entities}}",
+   "topics":[
+      {
+         "category":"susan-village",
+         "enabled":true,
+         "items_multiplier":3,
+         "topic":"General chat among residents of the fictional village of Ambridge in in the county of Borsetshire, UK, as seen by our protagonist, Susan Carter. The chat is a mostly lighthearted exchange between residents of Ambridge, covering topics including comings & goings around Ambridge, parking problems, postal service & parcel delivery (problems), recommendations for good tradespeople, social events, local crime and plenty of village gossip.  This chat is among a general village audience rather than one-to-one messages about individual arrangements.  A few of the messages should be of a nature that merits a prompts response, such as a request for assistance or information.  Nearby villages include Penny Hassett, Loxley Barrett, Darrington, Hollerton, Edgeley, Waterley Cross and Lakey Green.  The main local city is the cathederal city of Felpersham.  Some of these locations should occasionally be mentioned in messages.  In addition to the supplied list of people, you should make up identities as needed - the chat forum would contain maybe 50-30 members (although not all of these post messages often).  The tone of the messages should be informal British English."
+      },
+      {
+         "category":"susan-family",
+         "enabled":true,
+         "items_multiplier":2,
+         "topic":"General chat between members of a fictional British family, as seen by our protagonist, Susan Carter.  The chat is a lighthearted exchange between familiy members on a variety of topics, with some messages relating to logistics and meeting up but also plenty of village gossip.  A few of the messages should be of a nature that merits a prompts response, suh as a request for assistance or information.  Susan and Neil live in the village of Ambridge in Borsetshire, while family are dotted around local villages Penny Hassett, Loxley Barrett, Darrington, Hollerton, Edgeley, Waterley Cross and Lakey Green.  The main local city is the cathederal city of Felpersham.  The tone of the messages should be informal British English."
+      },
+      {
+         "category":"susan-neil",
+         "enabled":true,
+         "items_multiplier":2,
+         "topic":"Chat between our fictional protagonist, Susan Carter and her husband Neil.  The chat is a exchange a variety of topics, with some messages relating to logistics and meeting up but also discussing how their day is going and talking about family and work events.  Try and include reasonable variety.  Susan is an administrator in the Undergraduate Admissions Office at Borchester University, where she commutes to work 3 days a week and works from home 2 days.  Sometimes both Susan and Neil like to comment or complain about their day.  A small amount of messages should be of a type that might need a prompt or urgent response.  Susan and Neil live in the village of Ambridge, and Neil works with the pigs at nearby Berrow Farm, while family are dotted around local villages Ambridge, Penny Hassett, Loxley Barrett, Darrington, Hollerton, Edgeley, Waterley Cross and Lakey Green.  The main local city is the cathederal city of Felpersham.  The tone of the messages should be informal British English."
+      }
+   ]
+}

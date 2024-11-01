@@ -1,0 +1,38 @@
+{
+   "use_history":true,
+   "openai_model":"{{openai_model_sim}}",
+   "dramatis_personae":"{{adam_work_dramatis_personae}}",
+   "entities":"{{adam_work_entities}}",
+   "topics":[
+      {
+         "category":"adam-work-company-announce",
+         "enabled":true,
+         "items_multiplier":1,
+         "topic":"Corporate messenger application messages for the workplace of our fictional protagonist, Adam Macy.  The messages are exclusively internal coroprate announcements coming from the executive and senior leadership team of company that Adam works for, Borchester Software.  Generate messages that come from all of the exectives in the provided list.  Borchester Software is an international company with approximately 500 employees who are based mainly in the UK, USA, Canada, Japan and Germany.  Announcements can include (but are not limited to) industry topics, company-wide meetings, reminders about business conduct rules, customer contracts and acquisitions, new internal IT systems, and senior personnel changes.  Please ensure that each batch of generated content contains nessages that cover the whole range of topics.  While a list of some clients is provided, you should also generate fictional client names to reference in those messages that relate to clients.  You should also generate fictional internal team names to mention where necessary.  There must be variation in message topic and content; avoid re-using the same phrases.  The tone of the messages should be relatively formal business English with British spellings."
+      },
+      {
+         "category":"adam-work-company-general",
+         "enabled":true,
+         "items_multiplier":2,
+         "topic":"Corporate messenger application chat for the workplace of our fictional protagonist, Adam Macy.  The chat is general workplace discussion within company that Adam works for, Borchester Software (sometimes referred to by its initials), which is an international company with approximately 500 employees who are based mainly in the UK, USA, Canada, Japan and Germany.  Topics should include discussion about company announcements and products, upcoming events, business climate, general news (where appropriate for coroprate discussion) and other items people might choose to share with a company of this size.  This group chat is intended for discussions aimed at the whole company - it is not the correct place for team discussions, technical support requests, local office matters etc.   Message content should be unique and not duplicated.  While a list of some clients is provided, you should also generate fictional client names to reference in messages.  The tone of the messages should be informal/business English with British spellings."
+      },
+      {
+         "category":"adam-work-team-general",
+         "enabled":true,
+         "items_multiplier":3,
+         "topic":"Corporate messenger application chat for the work team of our fictional protagonist, Adam Macy.  The chat is general workplace discussion between members of the same IT consulting team that Adam is in.  The company that Adam works for is called Borchester Software (sometimes referred to by its initials) and his team of 10 people is called the Client Technology Group (CTG).  The team is spread all over. Topics should include client discussions, logistics, talking about out of work meetups and events, some office gossip and other topics that you might expect a distributed work team to discuss.  While a list of some clients is provided, you should also generate fictional client names to reference in messages.  Some of the messages should convey some sort of sense of urgency or need for a prompt response.  Message content should be unique and not duplicated.  The tone of the messages should be informal British English with British spellings."
+      },
+      {
+         "category":"adam-work-team-manager",
+         "enabled":true,
+         "items_multiplier":2,
+         "topic":"Corporate messenger application chat between our fictional protagonist, Adam Macy and his manager Charlotte Walker.  Adam works for Borchester Software (sometimes referred to by its initials) and is in a team of 10 people called the Client Technology Group (CTG), headed by Charlotte.  The team is spread all over.   This chat is just between Adam and his manager, and topics should include client discussions, logistics, and usual topics that a manager and their direct report might need to discuss.  In this scenario, Adam is a strong performer at work, but has a high workload with a lot of customer travel commitments.  While a list of some clients is provided, you should also generate fictional client names to reference in messages.  Some of the messages should convey some sort of sense of urgency or need for a prompt response.  The tone of the messages should be informal British English with British spellings."
+      },
+      {
+         "category":"adam-work-team-client",
+         "enabled":true,
+         "items_multiplier":2,
+         "topic":"Corporate messenger application chat for the work team of our fictional protagonist, Adam Macy.  The chat is workplace discussion between members of the same IT consulting team that Adam is in.  The company that Adam works for is called Borchester Software (sometimes referred to by its initials) and he is in a team of 10 people called the Client Technology Group (CTG).  The team is spread all over.  Other chats exist for more general topics, but this chat is specifically about issues, questions and logistics relating to client work.  For example, the team might talk about new client engagements, seek help with client technical problems or arrange meetings related to the clients.  Some of the messages should convey some sort of sense of urgency or need for a prompt response.  While a list of some clients is provided, you should also generate fictional client names to reference in messages.  The tone of the messages should be informal British English with British spellings."
+      }
+   ]
+}

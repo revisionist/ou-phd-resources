@@ -1,0 +1,74 @@
+[
+    {
+        "name": "frc-riding-members",
+        "description": "Members of Felpersham Riding Club, where Usha is an active member and participates in various equestrian events.",
+        "members": [
+            {
+                "surname": "Hart",
+                "firstname": "Jessica",
+                "userid": "jessica.hart",
+                "role": "Stables Manager"
+            },
+            {
+                "surname": "Turner",
+                "firstname": "Elliot",
+                "userid": "elliot.turner",
+                "role": "Head Veterinarian"
+            },
+            {
+                "surname": "Gill",
+                "firstname": "Simran",
+                "userid": "simran.gill",
+                "role": "Horse Trainer"
+            },
+            {
+                "surname": "Watson",
+                "firstname": "Clara",
+                "userid": "clara.watson",
+                "role": "Riding Instructor"
+            },
+            {
+                "surname": "Barnes",
+                "firstname": "Emily",
+                "userid": "emily.barnes",
+                "role": "Junior Veterinarian"
+            },
+            {
+                "surname": "Lewis",
+                "firstname": "Nathan",
+                "userid": "nathan.lewis",
+                "role": "Stable Hand"
+            },
+            {
+                "surname": "Patel",
+                "firstname": "Priya",
+                "userid": "priya.patel",
+                "role": "Riding friend and competitive show jumper"
+            },
+            {
+                "surname": "Khan",
+                "firstname": "Ayesha",
+                "userid": "ayesha.khan",
+                "role": "Farrier"
+            },
+            {
+                "surname": "Smith",
+                "firstname": "Oliver",
+                "userid": "oliver.smith",
+                "role": "Riding friend and dressage competitor"
+            },
+            {
+                "surname": "Evans",
+                "firstname": "Fiona",
+                "userid": "fiona.evans",
+                "role": "Equine nutrition specialist"
+            },
+            {
+                "surname": "Davies",
+                "firstname": "Sarah",
+                "userid": "sarah.davies",
+                "role": "Regular riding partner"
+            }
+        ]
+    }
+]

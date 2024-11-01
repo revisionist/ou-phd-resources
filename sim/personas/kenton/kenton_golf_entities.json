@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Goodtrees Golf Club",
+        "also_known_as": [
+            "GTCC"
+        ],
+        "type": "Club",
+        "notes": "A golf club that our subject, Kenton Archer is a member of.  This is the posh, expensive club in the area, known for being quite formal",
+        "people": []
+    },
+    {
+        "name": "Hunters Lane Golf Club",
+        "also_known_as": [
+            "Hunters Lane",
+            "HLGC"
+        ],
+        "type": "Club",
+        "notes": "A golf club that our subject, Kenton Archer is a member of.  This is the cheaper more accessible club in the area, where Kenton and friends play most often",
+        "people": []
+    },
+    {
+        "name": "The Bull Golf Society",
+        "also_known_as": [],
+        "type": "Organisation",
+        "notes": "Informal golf society consisting of Kenton and friends, named after the Bull pub where they often meet",
+        "people": []
+    }
+]

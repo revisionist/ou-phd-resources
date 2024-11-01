@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Felpersham Grammar School",
+        "also_known_as": [
+            "Felpersham Grammar",
+            "FGS"
+        ],
+        "type": "Location",
+        "notes": "The secondary school that Usha's children attend, which has a very strong education reputation and is quite oversubscribed",
+        "people": [
+            {
+                "name": "Emily Williams",
+                "role": "School head"
+            },
+            {
+                "surname": "Andrew Carter",
+                "role": "Head of Year"
+            },
+            {
+                "surname": "Susan Peters (Ms)",
+                "role": "Teacher of Ravi Franks"
+            },
+            {
+                "surname": "Edward Stone (Mr)",
+                "role": "Teacher of Amy Franks"
+            },
+            {
+                "surname": "Isobel Mitchell",
+                "role": "Chair of the PTA"
+            }
+        ]
+    },
+    {
+        "name": "Ambridge Village Hall",
+        "also_known_as": [
+            "the Hall"
+        ],
+        "type": "Location",
+        "notes": "Local village hall for Ambridge, where a lot of local activities take place",
+        "people": [
+            {
+                "name": "Neil Carter",
+                "role": "Parish council secretary; handles bookings"
+            },
+            {
+                "surname": "Lynda Snell",
+                "role": "Organiser of many events at the village hall"
+            }
+        ]
+    },
+    {
+        "name": "The Bull",
+        "also_known_as": [
+            "the pub"
+        ],
+        "type": "Company",
+        "notes": "This is the popular village pub in the village of Ambridge, where a lot of Kenton's family and friends live, work and socialise",
+        "people": [
+            {
+                "name": "Fallon Rogers",
+                "role": "Landlady"
+            },
+            {
+                "name": "Wayne Tucson",
+                "role": "Chef"
+            }
+        ]
+    }
+]

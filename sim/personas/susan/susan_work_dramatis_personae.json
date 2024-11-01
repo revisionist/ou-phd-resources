@@ -1,0 +1,290 @@
+[
+    {
+        "name": "work-team",
+        "description": "Members of Susan's team at work in Borchester University.  Susan works in the Undergraduate Admissions Office",
+        "members": [
+            {
+                "surname": "Baker",
+                "firstname": "Eleanor",
+                "userid": "bakere",
+                "role": "Susan's team manager"
+            },
+            {
+                "surname": "Patel",
+                "firstname": "Priya",
+                "userid": "patelp",
+                "role": "Admissions officer"
+            },
+            {
+                "surname": "Bains",
+                "firstname": "Sarina",
+                "userid": "bainss",
+                "role": "Enrollment specialist"
+            },
+            {
+                "surname": "Sharma",
+                "firstname": "Alisha",
+                "userid": "sharmaa",
+                "role": ""
+            },
+            {
+                "surname": "Carter",
+                "firstname": "Jayden",
+                "userid": "carterj",
+                "role": "New starter in the team, recent graduate"
+            },
+            {
+                "surname": "Iqbal",
+                "firstname": "Nadia",
+                "userid": "iqbaln",
+                "role": "Student liaison officer"
+            },
+            {
+                "surname": "Malik",
+                "firstname": "Zara",
+                "userid": "malikz",
+                "role": "Close colleague to Susan, often work together"
+            },
+            {
+                "surname": "Davies",
+                "firstname": "Lucy",
+                "userid": "daviesl",
+                "role": "Data analyst for student admissions"
+            },
+            {
+                "surname": "Evans",
+                "firstname": "Sophie",
+                "userid": "evanss",
+                "role": ""
+            },
+            {
+                "surname": "Choudhury",
+                "firstname": "Riya",
+                "userid": "choudhuryr",
+                "role": "Financial aid advisor"
+            }
+        ]
+    },
+    {
+        "name": "work-leaders",
+        "description": "Members of the senior leadership at Borchester University",
+        "members": [
+            {
+                "surname": "Mitchell",
+                "firstname": "Alice",
+                "userid": "mitchella",
+                "role": "Vice Chancellor"
+            },
+            {
+                "surname": "Nakamura",
+                "firstname": "Keiko",
+                "userid": "nakamurak",
+                "role": "Head of Administration"
+            },
+            {
+                "surname": "Gray",
+                "firstname": "Edward",
+                "userid": "graye",
+                "role": "Chair of University Senate"
+            },
+            {
+                "surname": "Kumar",
+                "firstname": "Neha",
+                "userid": "kumarn",
+                "role": "Head of Personnel"
+            },
+            {
+                "surname": "Thompson",
+                "firstname": "Elizabeth",
+                "userid": "thompsone",
+                "role": "Head of Undergraduate School"
+            }
+        ]
+    },
+    {
+        "name": "work-other",
+        "description": "Other employees of Borchester University",
+        "members": [
+            {
+                "surname": "Smith",
+                "firstname": "Emma",
+                "userid": "smithe",
+                "role": "Campus Security Officer"
+            },
+            {
+                "surname": "Brown",
+                "firstname": "Olivia",
+                "userid": "brown0",
+                "role": ""
+            },
+            {
+                "surname": "Patel",
+                "firstname": "Arjun",
+                "userid": "patela",
+                "role": ""
+            },
+            {
+                "surname": "Singh",
+                "firstname": "Nisha",
+                "userid": "singhn",
+                "role": "Research Administrator"
+            },
+            {
+                "surname": "Jones",
+                "firstname": "Charlotte",
+                "userid": "jonesc",
+                "role": ""
+            },
+            {
+                "surname": "Kaur",
+                "firstname": "Simran",
+                "userid": "kaurs",
+                "role": ""
+            },
+            {
+                "surname": "Gupta",
+                "firstname": "Priya",
+                "userid": "guptap",
+                "role": ""
+            },
+            {
+                "surname": "Malhotra",
+                "firstname": "Ananya",
+                "userid": "malhotraa",
+                "role": "IT Support Specialist"
+            },
+            {
+                "surname": "Davies",
+                "firstname": "Emily",
+                "userid": "daviese",
+                "role": ""
+            },
+            {
+                "surname": "Evans",
+                "firstname": "Lily",
+                "userid": "evansl",
+                "role": ""
+            },
+            {
+                "surname": "Chopra",
+                "firstname": "Karan",
+                "userid": "choprak",
+                "role": "Faculty Liaison"
+            },
+            {
+                "surname": "Roberts",
+                "firstname": "Isabella",
+                "userid": "robertsi",
+                "role": ""
+            },
+            {
+                "surname": "Walker",
+                "firstname": "Eva",
+                "userid": "walkere",
+                "role": ""
+            },
+            {
+                "surname": "Ahmed",
+                "firstname": "Zoya",
+                "userid": "ahmedz",
+                "role": ""
+            },
+            {
+                "surname": "Rahman",
+                "firstname": "Fatima",
+                "userid": "rahmanf",
+                "role": "Student Services Coordinator"
+            },
+            {
+                "surname": "Green",
+                "firstname": "Freya",
+                "userid": "greenf",
+                "role": ""
+            },
+            {
+                "surname": "Nair",
+                "firstname": "Deepa",
+                "userid": "naird",
+                "role": ""
+            },
+            {
+                "surname": "Morgan",
+                "firstname": "Lola",
+                "userid": "morganl",
+                "role": ""
+            },
+            {
+                "surname": "Kumar",
+                "firstname": "Isha",
+                "userid": "kumari",
+                "role": ""
+            },
+            {
+                "surname": "Lee",
+                "firstname": "Hana",
+                "userid": "leeh",
+                "role": "Academic Advisor"
+            },
+            {
+                "surname": "Thomas",
+                "firstname": "Sofia",
+                "userid": "thomass",
+                "role": ""
+            },
+            {
+                "surname": "Clarke",
+                "firstname": "Emily",
+                "userid": "clarkee",
+                "role": "Library Assistant"
+            },
+            {
+                "surname": "Sharma",
+                "firstname": "Priya",
+                "userid": "sharmap",
+                "role": "Laboratory Technician"
+            },
+            {
+                "surname": "Khan",
+                "firstname": "Saira",
+                "userid": "khans",
+                "role": ""
+            },
+            {
+                "surname": "Taylor",
+                "firstname": "Ian",
+                "userid": "taylori",
+                "role": ""
+            },
+            {
+                "surname": "Patel",
+                "firstname": "Anita",
+                "userid": "patela",
+                "role": "Cultural Affairs Coordinator"
+            },
+            {
+                "surname": "Ahmed",
+                "firstname": "Faisal",
+                "userid": "ahmedf",
+                "role": ""
+            },
+            {
+                "surname": "Morris",
+                "firstname": "Julia",
+                "userid": "morrisj",
+                "role": ""
+            },
+            {
+                "surname": "Gupta",
+                "firstname": "Ravi",
+                "userid": "guptar",
+                "role": "Event Planning Specialist"
+            },
+            {
+                "surname": "Jones",
+                "firstname": "Lucy",
+                "userid": "jonesl",
+                "role": ""
+            }
+        ]
+    }
+]

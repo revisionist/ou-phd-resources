@@ -1,0 +1,132 @@
+[
+    {
+        "name": "Felpersham Law",
+        "also_known_as": [],
+        "type": "Employer",
+        "notes": "Felpersham Law is a small legal practice located in the cathederal city of Felpersham in Borsetshire.  Our protagonist, Usha Franks, is one of the three partners, specialising in company law.  The practice deals with a mix of clients including farms, local small businesses and individuals.  Some staff work some of the time from home, but the majority are in the Felpersham offices when not visiting clients",
+        "people": []
+    },
+    {
+        "name": "Meadowview Farms",
+        "also_known_as": [
+            "MVF"
+        ],
+        "type": "Client",
+        "notes": "Meadowview Farms is a local agricultural client specializing in dairy and crop farming. They frequently seek legal advice from Felpersham Law for land disputes, environmental compliance, and inheritance planning. The farm has been operational for over three generations and is one of the largest in the region.",
+        "people": [
+            {
+                "name": "Edward Harper",
+                "role": "Owner"
+            },
+            {
+                "name": "Sarah Harper",
+                "role": "Financial Manager"
+            }
+        ]
+    },
+    {
+        "name": "Borsetshire County Council",
+        "also_known_as": [
+            "BCC"
+        ],
+        "type": "External",
+        "notes": "The local government authority for the area in which Felpersham Law operates. The Council's planning office works closely with the law firm on property development permissions and local zoning law changes.",
+        "people": [
+            {
+                "name": "Richard Ford",
+                "role": "Planning Officer"
+            }
+        ]
+    },
+    {
+        "name": "Riverbank Legal Services",
+        "also_known_as": [
+            "RLS"
+        ],
+        "type": "Competitor",
+        "notes": "A competing law firm in the same region as Felpersham Law. Known for its strong litigation team and a focus on criminal law, which sometimes crosses paths with Felpersham's family and property law cases.",
+        "people": [
+            {
+                "name": "Anna Green",
+                "role": "Senior Partner"
+            }
+        ]
+    },
+    {
+        "name": "GreenTech Innovations",
+        "type": "Client",
+        "notes": "A technology startup focused on developing sustainable agricultural equipment. Felpersham Law assists them with patent filings, intellectual property rights, and corporate law matters.",
+        "people": [
+            {
+                "name": "Ravi Naidu",
+                "role": "CEO"
+            }
+        ]
+    },
+    {
+        "name": "Highfield Estate",
+        "type": "Client",
+        "notes": "A large estate comprising several properties and considerable farmland. They rely on Felpersham Law for estate planning, conveyancing, and legal issues related to land ownership and management.",
+        "people": [
+            {
+                "name": "Barbara Ellis",
+                "role": "Owner"
+            }
+        ]
+    },
+    {
+        "name": "Felpersham Crown Court",
+        "type": "External",
+        "notes": "The primary judiciary entity where Felpersham Law's cases are often adjudicated. The court handles everything from family law to civil disputes.",
+        "people": [
+            {
+                "name": "Laura Mitchell",
+                "role": "Judge"
+            },
+            {
+                "name": "Simon Clarke",
+                "role": "Clerk"
+            }
+        ]
+    },
+    {
+        "name": "Borchester County Court",
+        "type": "External",
+        "notes": "The main county court for Borsetshire.",
+        "people": [
+            {
+                "name": "Andrew Evers",
+                "role": "Judge"
+            },
+            {
+                "name": "Janet Beasley",
+                "role": "Clerk"
+            }
+        ]
+    },
+    {
+        "name": "Regional Farmers' Cooperative",
+        "type": "External",
+        "notes": "An association that represents the interests of local farmers, often collaborating with Felpersham Law on agricultural regulations, subsidies, and legal workshops.",
+        "people": [
+            {
+                "name": "Tom Reid",
+                "role": "Environmental Officer"
+            }
+        ]
+    },
+    {
+        "name": "Borchester Legal Services",
+        "also_known_as": [
+            "BLS"
+        ],
+        "type": "Competitor",
+        "notes": "A large legal company that is trying to encroach on smaller firms' clients, offering aggressive rates and extensive services. Known for its corporate and high-stakes litigation branches.",
+        "people": [
+            {
+                "name": "Elizabeth Morrison",
+                "role": "Managing Partner"
+            }
+        ]
+    }
+]

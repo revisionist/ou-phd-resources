@@ -1,0 +1,26 @@
+{
+   "use_history":true,
+   "openai_model":"{{openai_model_sim}}",
+   "dramatis_personae":"{{kenton_personal_dramatis_personae}}",
+   "entities":"{{kenton_personal_entities}}",
+   "topics":[
+      {
+         "category":"kenton-family",
+         "enabled":true,
+         "items_multiplier":1,
+         "topic":"Chat between members of the family of our protagnoist, Kenton.  The chat is a lighthearted exchange between familiy members on a variety of topics, with some messages relating to logistics and meeting up.  A small amount of messages should be of a type that might need a prompt or urgent response.  Kenton and Kathy live in the village of Ambridge, and work in the county town of Borchester in Borsetshire, while family are dotted around local villages Penny Hassett, Loxley Barrett, Darrington, Hollerton, Edgeley, Waterley Cross and Lakey Green.  The main local city is the cathederal city of Felpersham.  The tone of the messages should be informal British English."
+      },
+      {
+         "category":"kenton-friends",
+         "enabled":true,
+         "items_multiplier":1,
+         "topic":"Chat between a group of friends.  People mostly come from the fictional village of Ambridge in the county of Borsetshire, UK, or nearby.  Some of the group often meet at the village pub (The Bull) to socialise.  Chat will cover a wide range of topics, including village gossip, current affairs and family news, as well as making arrangements and sharing personal news.  People may also mention locations in the main county town of Borchester, as well as, Penny Hassett, Loxley Barrett, Darrington, and the cathederal city of Felpersham.  There are some general jokes and light banter.  The tone of the messages should be informal British English."
+      },
+      {
+         "category":"kenton-kathy",
+         "enabled":true,
+         "items_multiplier":1,
+         "topic":"Chat between our fictional protagonist, Kenton and his wife Kathy Archer.  The chat is a exchange a variety of topics, with some messages relating to logistics and meeting up but also discussing how their day is going and talking about family and work events.  Try and include reasonable variety.  Kenton is a client manager for a global consumer products company, who often works long hours and has to travel, which sometimes causes tension.  A small amount of messages should be of a type that might need a prompt or urgent response.  Kenton and Kathy live in the village of Ambridge, and work in the county town of Borchester in Borsetshire, while family are dotted around local villages Ambridge, Penny Hassett, Loxley Barrett, Darrington, Hollerton, Edgeley, Waterley Cross and Lakey Green.  The main local city is the cathederal city of Felpersham.  The tone of the messages should be informal British English."
+      }
+   ]
+}

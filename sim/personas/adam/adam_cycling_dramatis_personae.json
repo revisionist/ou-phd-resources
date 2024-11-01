@@ -1,0 +1,338 @@
+[
+    {
+        "name": "bwcc-chat-members",
+        "description": "Members of Adam's cycle team Borchester Wheelers",
+        "members": [
+            {
+                "surname": "Thompson",
+                "firstname": "George",
+                "userid": "george.thompson",
+                "role": "Club president"
+            },
+            {
+                "surname": "Clarke",
+                "firstname": "Adam",
+                "userid": "adam.clarke",
+                "role": "Big figure with a reputation for being a very strong rider"
+            },
+            {
+                "surname": "Hughes",
+                "firstname": "Benjamin",
+                "userid": "benjamin.hughes",
+                "role": "Road racing coordninator"
+            },
+            {
+                "surname": "Wilson",
+                "firstname": "Ethan",
+                "userid": "ethan.wilson",
+                "role": "Virtual (Zwift) racing coordninator"
+            },
+            {
+                "surname": "Smith",
+                "firstname": "Daniel",
+                "userid": "daniel.smith",
+                "role": "Zwift racing team-mate of Adam"
+            },
+            {
+                "surname": "Thomas",
+                "firstname": "Max",
+                "userid": "max.thomas",
+                "role": "Zwift racing team-mate of Adam"
+            },
+            {
+                "surname": "Walker",
+                "firstname": "James",
+                "userid": "james.walker",
+                "role": "Zwift racing team-mate of Adam"
+            },
+            {
+                "surname": "Roberts",
+                "firstname": "Jack",
+                "userid": "jack.roberts",
+                "role": "Zwift racing team-mate of Adam"
+            },
+            {
+                "surname": "Thompson",
+                "firstname": "Zachary",
+                "userid": "zachary.thompson",
+                "role": ""
+            },
+            {
+                "surname": "Wright",
+                "firstname": "Mohammed",
+                "userid": "mohammed.wright",
+                "role": "Zwift racing team-mate of Adam"
+            },
+            {
+                "surname": "Brown",
+                "firstname": "Muhammad",
+                "userid": "muhammad.brown",
+                "role": "Club membership secretary"
+            },
+            {
+                "surname": "Walker",
+                "firstname": "Zachary",
+                "userid": "zachary.walker",
+                "role": ""
+            },
+            {
+                "surname": "White",
+                "firstname": "Harry",
+                "userid": "harry.white",
+                "role": "Keen cycle racer"
+            },
+            {
+                "surname": "Evans",
+                "firstname": "Mason",
+                "userid": "mason.evans",
+                "role": "Club joker"
+            },
+            {
+                "surname": "Thomas",
+                "firstname": "Sebastian",
+                "userid": "sebastian.thomas",
+                "role": "Organiser of Sunday rides/ride leader"
+            },
+            {
+                "surname": "Lewis",
+                "firstname": "Joseph",
+                "userid": "joseph.lewis",
+                "role": ""
+            },
+            {
+                "surname": "Lopez",
+                "firstname": "Phoebe",
+                "userid": "phoebe.lopez",
+                "role": "Organiser of Sunday rides/ride leader"
+            },
+            {
+                "surname": "Martinez",
+                "firstname": "Lola",
+                "userid": "lola.martinez",
+                "role": "Organiser of Sunday rides/ride leader"
+            },
+            {
+                "surname": "Li",
+                "firstname": "Maya",
+                "userid": "maya.li",
+                "role": ""
+            },
+            {
+                "surname": "Kaur",
+                "firstname": "Isabella",
+                "userid": "isabella.kaur",
+                "role": ""
+            },
+            {
+                "surname": "Perez",
+                "firstname": "Ivy",
+                "userid": "ivy.perez",
+                "role": ""
+            },
+            {
+                "surname": "Li",
+                "firstname": "Maya",
+                "userid": "maya.li",
+                "role": ""
+            },
+            {
+                "surname": "Ali",
+                "firstname": "Jasmine",
+                "userid": "jasmine.ali",
+                "role": ""
+            },
+            {
+                "surname": "Takahashi",
+                "firstname": "Maya",
+                "userid": "maya.takahashi",
+                "role": ""
+            },
+            {
+                "surname": "Garcia",
+                "firstname": "Chloe",
+                "userid": "chloe.garcia",
+                "role": ""
+            },
+            {
+                "surname": "Singh",
+                "firstname": "Eva",
+                "userid": "eva.singh",
+                "role": ""
+            },
+            {
+                "surname": "Green",
+                "firstname": "Alexander",
+                "userid": "alexander.green",
+                "role": ""
+            },
+            {
+                "surname": "Hughes",
+                "firstname": "Benjamin",
+                "userid": "benjamin.hughes",
+                "role": ""
+            },
+            {
+                "surname": "Taylor",
+                "firstname": "Jacob",
+                "userid": "jacob.taylor",
+                "role": ""
+            },
+            {
+                "surname": "Smith",
+                "firstname": "Adam",
+                "userid": "adam.smith",
+                "role": ""
+            },
+            {
+                "surname": "Edwards",
+                "firstname": "Max",
+                "userid": "max.edwards",
+                "role": ""
+            },
+            {
+                "surname": "Thompson",
+                "firstname": "Riley",
+                "userid": "riley.thompson",
+                "role": ""
+            },
+            {
+                "surname": "Evans",
+                "firstname": "Jack",
+                "userid": "jack.evans",
+                "role": ""
+            },
+            {
+                "surname": "Roberts",
+                "firstname": "Benjamin",
+                "userid": "benjamin.roberts",
+                "role": ""
+            },
+            {
+                "surname": "Hall",
+                "firstname": "Edward",
+                "userid": "edward.hall",
+                "role": ""
+            },
+            {
+                "surname": "Hall",
+                "firstname": "Jacob",
+                "userid": "jacob.hall",
+                "role": ""
+            },
+            {
+                "surname": "Thomas",
+                "firstname": "Oliver",
+                "userid": "oliver.thomas",
+                "role": ""
+            },
+            {
+                "surname": "Jones",
+                "firstname": "Finley",
+                "userid": "finley.jones",
+                "role": ""
+            },
+            {
+                "surname": "Roberts",
+                "firstname": "Zachary",
+                "userid": "zachary.roberts",
+                "role": ""
+            },
+            {
+                "surname": "Smith",
+                "firstname": "Logan",
+                "userid": "logan.smith",
+                "role": ""
+            },
+            {
+                "surname": "Evans",
+                "firstname": "Mason",
+                "userid": "mason.evans",
+                "role": ""
+            },
+            {
+                "surname": "Green",
+                "firstname": "Muhammad",
+                "userid": "muhammad.green",
+                "role": ""
+            },
+            {
+                "surname": "Lewis",
+                "firstname": "Sebastian",
+                "userid": "sebastian.lewis",
+                "role": ""
+            },
+            {
+                "surname": "Clarke",
+                "firstname": "Daniel",
+                "userid": "daniel.clarke",
+                "role": ""
+            },
+            {
+                "surname": "Jones",
+                "firstname": "Alfie",
+                "userid": "alfie.jones",
+                "role": ""
+            },
+            {
+                "surname": "Roberts",
+                "firstname": "Mohammed",
+                "userid": "mohammed.roberts",
+                "role": ""
+            },
+            {
+                "surname": "White",
+                "firstname": "Zachary",
+                "userid": "zachary.white",
+                "role": ""
+            },
+            {
+                "surname": "Thomas",
+                "firstname": "Harry",
+                "userid": "harry.thomas",
+                "role": ""
+            },
+            {
+                "surname": "Green",
+                "firstname": "Archie",
+                "userid": "archie.green",
+                "role": ""
+            },
+            {
+                "surname": "Li",
+                "firstname": "Millie",
+                "userid": "millie.li",
+                "role": ""
+            },
+            {
+                "surname": "Wang",
+                "firstname": "Charlotte",
+                "userid": "charlotte.wang",
+                "role": ""
+            },
+            {
+                "surname": "Wang",
+                "firstname": "Alice",
+                "userid": "alice.wang",
+                "role": ""
+            },
+            {
+                "surname": "Wang",
+                "firstname": "Isabelle",
+                "userid": "isabelle.wang",
+                "role": ""
+            },
+            {
+                "surname": "Rodriguez",
+                "firstname": "Isabelle",
+                "userid": "isabelle.rodriguez",
+                "role": ""
+            },
+            {
+                "surname": "Suzuki",
+                "firstname": "Emily",
+                "userid": "emily.suzuki",
+                "role": ""
+            }
+        ]
+    }
+]

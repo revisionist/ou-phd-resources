@@ -1,0 +1,32 @@
+{
+   "use_history":true,
+   "openai_model":"{{openai_model_sim}}",
+   "dramatis_personae":"{{usha_work_dramatis_personae}}",
+   "entities":"{{usha_work_entities}}",
+   "topics":[
+      {
+         "category":"usha-work-office",
+         "enabled":true,
+         "items_multiplier":3,
+         "topic":"Company messenger application chat at the Felpersham Law, the workplace of our fictional protagonist, Usha Franks.  This chat is general workplace discussion among staff.  Topics should include discussions related to work in general but not specific client details.  This can include cover, logistical arrangements, daily office opening and closing, lunch arrangements, work social events and other topcis that you might expect to be discussed in a small company.  While a list of some colleagues and clients is provided, you should also generate fictional names to reference in messages.  Usha herself lives in the nearby village of Ambridge.  Message content should be unique and not duplicated.  The tone of the messages should be informal British English with British spellings."
+      },
+      {
+         "category":"usha-work-partners",
+         "enabled":true,
+         "items_multiplier":1,
+         "topic":"Company messenger application chat at the Felpersham Law, the workplace of our fictional protagonist, Usha Franks.  This chat is discussion between the three partners including Usha.  Topics in this chat should include discussions related to the individuals work as partners of the practice.  This can include the strategy and performance of the partnership, staff issues, problems or opportunities with clients, concern about competitors and other leadership topics.  Discussion of client issues should be at a higher level rather than details, focussing only on things that might affect the client relationship - the partners have different areas of specialisation and would not generally discuss day to day client matters among themselves.  As it is a private chat between the three partners they will be candid about issues and people.  Some messages may concern social topics or trivia.  A subset of the messages should be of the type that might expect a prompt response.  While a list of some colleagues and clients is provided, you should also generate fictional names to reference in messages.  Usha herself lives in the nearby village of Ambridge.  Message content should be unique and not duplicated.  The tone of the messages should be informal British English with British spellings."
+      },
+      {
+         "category":"usha-work-pa",
+         "enabled":true,
+         "items_multiplier":2,
+         "topic":"Company messenger application chat at the Felpersham Law, the workplace of our fictional protagonist, Usha Franks.  This chat is discussion between Ushal and her personal assistant Evan Thomas.  Only include messages from these two people.  Topics in this chat should include discussions related to Usha's client work, organising her diary and other similar items that would come up between a partner in a solicitor's practice and her personal assistant.  Some messages may concern social topics or trivia.  A subset of the messages should be of the type that might expect a prompt response.  While a list of some colleagues and clients is provided, you should also generate fictional names to reference in messages.  Usha herself lives in the nearby village of Ambridge.  Message content should be unique and not duplicated.  The tone of the messages should be informal British English with British spellings."
+      },
+      {
+         "category":"usha-work-clients",
+         "enabled":true,
+         "items_multiplier":2,
+         "topic":"Business communications (email/messages) at the Felpersham Law, the workplace of our fictional protagonist, Usha Franks.  These messages are communications directly between Usha and various clients that she is working with.  Topics in this chat should include discussions related to the clients' cases and other similar items that would come up between a partner in a solicitor's practice and her clients  A few messages may concern social topics or trivia where Usha has a long relationship with the client.  A subset of the messages should be of the type that might expect a prompt response.  While a list of some colleagues and clients is provided, you should also generate fictional names to reference in messages.  Usha herself lives in the nearby village of Ambridge.  Message content should be unique and not duplicated.  Ensure that you produce incoming messages from clients.  The tone of the messages should be British English with British spellings."
+      }
+   ]
+}

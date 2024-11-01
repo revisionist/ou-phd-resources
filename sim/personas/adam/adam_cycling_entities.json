@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Borchester Wheelers Cycling Club",
+        "also_known_as": [
+            "BWCC",
+            "Borchester Wheelers",
+            "the Wheelers"
+        ],
+        "type": "Club",
+        "notes": "The cycling club that our subject, Adam Macy is a member of",
+        "people": []
+    },
+    {
+        "name": "Darrington Dynamos",
+        "also_known_as": [
+            "Dynamo"
+        ],
+        "type": "Club",
+        "notes": "Darrington Dynamos are BWCC's big local rivals",
+        "people": []
+    },
+    {
+        "name": "Zwift Racing League",
+        "also_known_as": [
+            "ZRL"
+        ],
+        "type": "Organisation",
+        "notes": "ZRL organises the Zwift racing league that BWCC participates in",
+        "people": []
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Felpersham Tennis Club",
+        "also_known_as": [
+            "FTC",
+            "Felpersham Tennis Soc",
+            "Felpers"
+        ],
+        "type": "Club",
+        "notes": "The tennis club that our subject, Susan Carter is a member of",
+        "people": []
+    },
+    {
+        "name": "Darrington Tennis",
+        "also_known_as": [
+            "Darrington"
+        ],
+        "type": "Club",
+        "notes": "Darrington Tennis are Felpersham Tennis Club's big local rivals",
+        "people": [
+            {
+                "name": "Evelyn Saunders",
+                "role": "Darrington Tennis's best player"
+            }
+        ]
+    },
+    {
+        "name": "Borsetshire Tennis League",
+        "also_known_as": [
+            "BTL"
+        ],
+        "type": "Organisation",
+        "notes": "The Borsetshire Tennis League is the county tennis leage that Felpersham Tennis Club competes in.  Susan often organises BTL fixtures.",
+        "people": [
+            {
+                "name": "James Hampshire",
+                "role": "President"
+            },
+            {
+                "name": "Eric Williams",
+                "role": "Fixtures secretary"
+            }
+        ]
+    }
+]

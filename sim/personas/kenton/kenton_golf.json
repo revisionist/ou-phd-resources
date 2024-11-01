@@ -1,0 +1,14 @@
+{
+   "use_history":true,
+   "openai_model":"{{openai_model_sim}}",
+   "dramatis_personae":"{{kenton_golf_dramatis_personae}}",
+   "entities":"{{kenton_golf_entities}}",
+   "topics":[
+      {
+         "category":"kenton-golf",
+         "enabled":true,
+         "items_multiplier":1,
+         "topic":"Chat between a group of friends who play golf together.  People mostly come from the fictional village of Ambridge in the county of Borsetshire, UK, or nearby.  The group socialise together around golf, but also the village pub, The Bull.  Topics generally relate to arranging meetups to play golf, but the chat will often veer to other topics including village gossip, current affairs and family news.  As well as the golf clubs listed in the entities document, people may also mention locations in the main county town of Borchester, as well as, Penny Hassett, Loxley Barrett, Darrington, and the cathederal city of Felpersham.  There are some general jokes and light banter.  The tone of the messages should be informal British English."
+      }
+   ]
+}

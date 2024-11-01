@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Felpersham Riding Club",
+        "also_known_as": [
+            "FRC"
+        ],
+        "type": "Club",
+        "notes": "A local riding club where Usha practices and competes in equestrian events. The club offers lessons, training sessions, and hosts competitive events, fostering a community of horse enthusiasts.",
+        "people": [
+            {
+                "name": "Jessica Hart",
+                "role": "Stables Manager"
+            },
+            {
+                "name": "Clara Watson",
+                "role": "Riding Instructor"
+            }
+        ]
+    },
+    {
+        "name": "Borchester Equine Veterinary Clinic",
+        "also_known_as": [
+            "BEVC"
+        ],
+        "type": "Service Provider",
+        "notes": "A well-known veterinary clinic specializing in equine health. The clinic provides regular health check-ups, emergency care, and specialized treatments for horses at Felpersham Riding Club and surrounding areas.",
+        "people": [
+            {
+                "name": "Elliot Turner",
+                "role": "Head Veterinarian"
+            },
+            {
+                "name": "Emily Barnes",
+                "role": "Junior Veterinarian"
+            }
+        ]
+    },
+    {
+        "name": "Borsetshire Horse Shows",
+        "also_known_as": [
+            "BHS"
+        ],
+        "type": "Event Organizer",
+        "notes": "Organizer of major horse shows and equestrian events in the region. They coordinate competitions that range from local club events to higher-level championships, often attended by members of the Felpersham Riding Club.",
+        "people": []
+    },
+    {
+        "name": "Darrington Saddlery",
+        "type": "Retailer",
+        "notes": "A retailer providing a wide range of equestrian gear and apparel. They supply everything from saddles and bridles to riding clothes and safety equipment. Known for their quality products and expert advice.",
+        "people": []
+    },
+    {
+        "name": "Felpersham Farriers",
+        "type": "Service Provider",
+        "notes": "Provides farrier services to the Felpersham Riding Club and other horse owners in the area. They specialize in shoeing sport horses and dealing with hoof health issues.",
+        "people": [
+            {
+                "name": "Oliver Smith",
+                "role": "Farrier"
+            }
+        ]
+    },
+    {
+        "name": "Borsetshire Equestrian Feed and Supply",
+        "type": "Supplier",
+        "notes": "A key supplier of horse feed, supplements, and general stable supplies in Borsetshire. They cater to the nutritional needs of the horses at Felpersham Riding Club and other local stables.",
+        "people": [
+            {
+                "name": "Fiona Evans",
+                "role": "Equine nutrition specialist"
+            }
+        ]
+    }
+]

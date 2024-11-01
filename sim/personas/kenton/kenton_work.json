@@ -1,0 +1,38 @@
+{
+   "use_history":true,
+   "openai_model":"{{openai_model_sim}}",
+   "dramatis_personae":"{{kenton_work_dramatis_personae}}",
+   "entities":"{{kenton_work_entities}}",
+   "topics":[
+      {
+         "category":"kenton-work-company-announce",
+         "enabled":true,
+         "items_multiplier":1,
+         "topic":"Corporate messenger application messages within the employer of our fictional protagonist, Kenton Archer. The messages are exclusively internal coroprate announcements coming from the executive and senior leadership team of company that Kenton works for, ICG.  Generate messages that come from all of the exectives in the provided list.  Messages should occasionally refer to the company's international operations, R&D, production facilities etc. Refer to the countries that these are located in. Message content should be unique and not duplicated. While a list of some clients is provided, you should also generate fictional client names to reference in messages. The tone of the messages should be formal business international English."
+      },
+      {
+         "category":"kenton-work-company-general",
+         "enabled":true,
+         "items_multiplier":2,
+         "topic":"Corporate messenger application chat within the employer of our fictional protagonist, Kenton Archer.  The chat is general workplace discussion within the company that Kenton works for, ICG.  The chat is at the overall company level and not individual teams, so should mostly not refer to in-country topics.  Topics should include discussion about company announcements and products, upcoming events, business climate, general news (where appropriate for coroprate discussion) and other items people might choose to share with a company of this size. This group chat is intended for discussions aimed at the whole company - it is not the correct place for team discussions, technical support requests etc.  Messages should occasionally refer to the company's international operations, R&D, production facilities etc.  Refer to the countries that these are located in.  Message content should be unique and not duplicated. While a list of some clients is provided, you should also generate fictional client names to reference in messages. The tone of the messages should be informal/business international English."
+      },
+      {
+         "category":"kenton-work-team-client",
+         "enabled":true,
+         "items_multiplier":1,
+         "topic":"Corporate messenger application chat for the work team of our fictional protagonist, Kenton Archer.  The chat is client-related workplace discussion between members of the same business development (sales) team that Kenton is in within ICG.  The team is spread all over. Topics should include client discussions, logistics, problem solving/assistance and other topics that a distributed team might discuss relating to their client base.  Some of the messages should be of a type that might need a prompt or urgent response.  While a list of some clients is provided, you should also generate fictional client names to reference in messages.  Message content should be unique and not duplicated.  The tone of the messages should be informal British English."
+      },
+      {
+         "category":"kenton-work-team-general",
+         "enabled":true,
+         "items_multiplier":2,
+         "topic":"Corporate messenger application chat for the work team of our fictional protagonist, Kenton Archer.  The chat is general workplace discussion between members of the same business development (sales) team that Kenton is in within ICG.  The team is spread all over. Topics should include client discussions, logistics, talking about out of work meetups and events and other topcis that you might expect a distributed work team to discuss.  While a list of some clients is provided, you should also generate fictional client names to reference in messages.  Message content should be unique and not duplicated.  The tone of the messages should be informal British English."
+      },
+      {
+         "category":"kenton-work-team-manager",
+         "enabled":true,
+         "items_multiplier":1,
+         "topic":"Corporate messenger application chat between our fictional protagonist, Kenton Archer and his manager Evelyn Baker, who heads up the business development (sales) team that Kenton is in within ICG.  The team is spread all over.   This chat is just between Kenton and his manager, and topics should include client discussions, logistics, and usual topics that a manager and their direct report might need to discuss.  Some of the messages should be of a type that would normally need a prompt or urgent response.  In this scenario, Kenton is a strong performer at work, but has a high workload with a lot of customer travel commitments.  While a list of some clients is provided, you should also generate fictional client names to reference in messages.  The tone of the messages should be informal British English."
+      }
+   ]
+}

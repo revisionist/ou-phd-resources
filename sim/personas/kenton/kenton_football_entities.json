@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Riverdale Rovers",
+        "also_known_as": [
+            "RRFC"
+        ],
+        "type": "Football Club",
+        "notes": "A fictional English Premier League football club based in a historic city. Known for their skillful play and dedicated fan base.",
+        "people": []
+    },
+    {
+        "name": "Crestwood City",
+        "also_known_as": [
+            "CCFC"
+        ],
+        "type": "Football Club",
+        "notes": "Another fictional English Premier League club, famous for their aggressive tactics and a strong youth development program.",
+        "people": []
+    },
+    {
+        "name": "Ambridge FC",
+        "also_known_as": [],
+        "type": "Local Football Club",
+        "notes": "A local football club where Kenton Archer and friends follow and support. Known for its community spirit and being a hub for local football enthusiasts.",
+        "people": []
+    }
+]

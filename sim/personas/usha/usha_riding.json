@@ -1,0 +1,20 @@
+{
+   "use_history":true,
+   "openai_model":"{{openai_model_sim}}",
+   "dramatis_personae":"{{usha_riding_dramatis_personae}}",
+   "entities":"{{usha_riding_entities}}",
+   "topics":[
+      {
+         "category":"usha-riding-chat",
+         "enabled":true,
+         "items_multiplier":1,
+         "topic":"General chat between a group of friends with a shared interest in horse riding, including our protagonist Usha Franks.  Most of those on the chat are members of Felpersham Riding Club and some stable their horses there.  Club members mostly come from the fictional villages of Ambridge and Darrington in the county of Borsetshire, or nearby, although some come from the cathederal city of Felpersham where Usha practices as a solicitor.  This is a social chat between friends and acquaintances that share a common interest.  Topics generally relate to all aspects of recreational and competitive horse riding, with many messages also being about meeting up for rides.  Some but not all ride competitively (i.e. dressage), while most are social riders.  There are some non-horse related messages such as general jokes and light chat.  Message content should be unique and not duplicated. The tone of the messages should be informal British English with British spellings."
+      },
+      {
+         "category":"usha-riding-stables",
+         "enabled":true,
+         "items_multiplier":1,
+         "topic":"General chat for people associated with Felpersham Riding Club and its stables, including our protagonist Usha Franks.  The chat is used for communication between members of Felpersham Riding Club and also for announcements and information from club officials and stable managers. Usha stables her horse there.  Club members mostly come from the fictional villages of Ambridge and Darrington in the county of Borsetshire, or nearby, although some come from the cathederal city of Felpersham where Usha practices as a solicitor.  Topics generally relate to all aspects of recreational and competitive horse riding, with many messages also being about club matters and announcements about competitions, events and happenings at the stables.  Message content should be unique and not duplicated. The tone of the messages should be informal British English with British spellings."
+      }
+   ]
+}

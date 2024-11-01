@@ -1,0 +1,62 @@
+[
+    {
+        "name": "golf-friends",
+        "description": "People with whom Kenton plays golf (and sometimes does non-golf activities with such as visiting the pub)",
+        "members": [
+            {
+                "surname": "Thompson",
+                "firstname": "George",
+                "userid": "george.thompson",
+                "role": "Kenton's most frequent golfing partner"
+            },
+            {
+                "surname": "Clarke",
+                "firstname": "Adam",
+                "userid": "adam.clarke",
+                "role": "Big figure with a reputation as a very competitive golfer"
+            },
+            {
+                "surname": "Hughes",
+                "firstname": "Benjamin",
+                "userid": "benjamin.hughes",
+                "role": "As much a joker as a golfer"
+            },
+            {
+                "surname": "Baker",
+                "firstname": "William",
+                "userid": "william.baker",
+                "role": "Known for his strategic play and calm demeanor"
+            },
+            {
+                "surname": "Morgan",
+                "firstname": "Oliver",
+                "userid": "oliver.morgan",
+                "role": "Regular at the club and an old school friend of Kenton"
+            },
+            {
+                "surname": "Hill",
+                "firstname": "Emily",
+                "userid": "emily.hill",
+                "role": "The most recent member of the group, quickly improving"
+            },
+            {
+                "surname": "Brooks",
+                "firstname": "Sophia",
+                "userid": "sophia.brooks",
+                "role": "Enthusiastic about golf, often organizes group events"
+            },
+            {
+                "surname": "Foster",
+                "firstname": "James",
+                "userid": "james.foster",
+                "role": "Known for his patience and excellent golfing advice"
+            },
+            {
+                "surname": "Carter",
+                "firstname": "Charlotte",
+                "userid": "charlotte.carter",
+                "role": "Loves friendly competition, often bets on games"
+            }
+        ]
+    }
+]

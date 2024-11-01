@@ -1,0 +1,248 @@
+[
+    {
+        "name": "work-office",
+        "description": "Staff of Felpersham Law, the small law practice where Usha is one of the three partners, specialising in company law",
+        "members": [
+            {
+                "surname": "Franks",
+                "firstname": "Usha",
+                "userid": "franksu",
+                "role": "Partner - specialising in company law"
+            },
+            {
+                "surname": "Williams",
+                "firstname": "Anna",
+                "userid": "williamsa",
+                "role": "Partner - specialising in family law"
+            },
+            {
+                "surname": "Edwards",
+                "firstname": "James",
+                "userid": "edwardsj",
+                "role": "Partner - specialising in commercial property"
+            },
+            {
+                "surname": "Thomas",
+                "firstname": "Evan",
+                "userid": "thomase",
+                "role": "PA to Usha Franks"
+            },
+            {
+                "surname": "Kaur",
+                "firstname": "Simran",
+                "userid": "kaurs",
+                "role": "PA to Anna Williams"
+            },
+            {
+                "surname": "Thomas",
+                "firstname": "Megan",
+                "userid": "thomasm",
+                "role": "PA to James Edwards"
+            },
+            {
+                "surname": "Ali",
+                "firstname": "Sana",
+                "userid": "alis",
+                "role": "Senior Solicitor"
+            },
+            {
+                "surname": "Roberts",
+                "firstname": "Jessica",
+                "userid": "robertsj",
+                "role": "Junior Solicitor"
+            },
+            {
+                "surname": "Gill",
+                "firstname": "Raj",
+                "userid": "gillr",
+                "role": "Paralegal"
+            },
+            {
+                "surname": "Hughes",
+                "firstname": "Oliver",
+                "userid": "hugheso",
+                "role": "Paralegal"
+            },
+            {
+                "surname": "Lee",
+                "firstname": "Daniel",
+                "userid": "leed",
+                "role": "Legal Secretary"
+            },
+            {
+                "surname": "O'Connor",
+                "firstname": "Fiona",
+                "userid": "oconnorf",
+                "role": "Office Manager"
+            },
+            {
+                "surname": "Chopra",
+                "firstname": "Vikram",
+                "userid": "choprav",
+                "role": "IT Support Specialist"
+            },
+            {
+                "surname": "Mohammed",
+                "firstname": "Leila",
+                "userid": "mohammedl",
+                "role": "Receptionist"
+            },
+            {
+                "surname": "Johnson",
+                "firstname": "Sam",
+                "userid": "johnsons",
+                "role": "Receptionist"
+            }
+        ]
+    },
+    {
+        "name": "work-clients",
+        "description": "Some prominent or regular individual clients of Felpersham Law",
+        "members": [
+            {
+                "surname": "Green",
+                "firstname": "Helen",
+                "userid": "greenh",
+                "role": "Client for real estate transactions"
+            },
+            {
+                "surname": "Khan",
+                "firstname": "Amir",
+                "userid": "khana",
+                "role": "Client for business incorporation and legal compliance"
+            },
+            {
+                "surname": "Taylor",
+                "firstname": "Fiona",
+                "userid": "taylorf",
+                "role": "Client for family law matters, particularly divorce and custody arrangements"
+            },
+            {
+                "surname": "Naidu",
+                "firstname": "Ravi",
+                "userid": "naidur",
+                "role": "Client seeking legal advice on intellectual property and patents"
+            },
+            {
+                "surname": "Morris",
+                "firstname": "Sarah",
+                "userid": "morriss",
+                "role": "Client engaged in ongoing employment litigation"
+            },
+            {
+                "surname": "Singh",
+                "firstname": "Dev",
+                "userid": "singhd",
+                "role": "Client using legal services for personal injury claims"
+            },
+            {
+                "surname": "Wilson",
+                "firstname": "George",
+                "userid": "wilsong",
+                "role": "Regular client for contract negotiations and disputes"
+            },
+            {
+                "surname": "Harper",
+                "firstname": "Edward",
+                "userid": "harper",
+                "role": "Farmer needing legal support for land disputes and agricultural regulations"
+            },
+            {
+                "surname": "Ellis",
+                "firstname": "Barbara",
+                "userid": "ellisb",
+                "role": "Landowner dealing with inheritance and estate planning"
+            },
+            {
+                "surname": "Wright",
+                "firstname": "Ian",
+                "userid": "wrighti",
+                "role": "Client with multiple farming properties, requires conveyancing services"
+            },
+            {
+                "surname": "Webb",
+                "firstname": "Clara",
+                "userid": "webbc",
+                "role": "Client for family law services, focusing on inheritance disputes"
+            },
+            {
+                "surname": "Morgan",
+                "firstname": "Julie",
+                "userid": "morganj",
+                "role": "Farmer seeking advice on environmental compliance and land use"
+            },
+            {
+                "surname": "Owen",
+                "firstname": "Peter",
+                "userid": "owenp",
+                "role": "Landowner requiring legal assistance for property development permissions"
+            },
+            {
+                "surname": "Foster",
+                "firstname": "Lucas",
+                "userid": "fosterl",
+                "role": "Farmer needing assistance with agricultural subsidies and legal claims"
+            },
+            {
+                "surname": "Turner",
+                "firstname": "Samantha",
+                "userid": "turners",
+                "role": "Client needing support for family-owned farm succession planning"
+            },
+            {
+                "surname": "Hill",
+                "firstname": "Christopher",
+                "userid": "hillc",
+                "role": "Landowner involved in local planning law and disputes"
+            },
+            {
+                "surname": "Bailey",
+                "firstname": "Robert",
+                "userid": "baileyr",
+                "role": "Client for conveyancing and property boundary disputes"
+            }
+        ]
+    },
+    {
+        "name": "work-external",
+        "description": "Individuals in external bodies or organisations that Felpersham Law deal with",
+        "members": [
+            {
+                "surname": "Mitchell",
+                "firstname": "Laura",
+                "userid": "mitchelll",
+                "role": "County Court Judge frequently overseeing cases involving Felpersham Law"
+            },
+            {
+                "surname": "Ford",
+                "firstname": "Richard",
+                "userid": "fordr",
+                "role": "Local council planning officer liaising on property development cases"
+            },
+            {
+                "surname": "Pearce",
+                "firstname": "Judith",
+                "userid": "pearcej",
+                "role": "Registrar at the family court, interacts regularly with Felpersham Law's family law department"
+            },
+            {
+                "surname": "Ahmed",
+                "firstname": "Nasir",
+                "userid": "ahmedn",
+                "role": "Business advisor at the local chamber of commerce, collaborates on commercial law issues"
+            },
+            {
+                "surname": "White",
+                "firstname": "Catherine",
+                "userid": "whitec",
+                "role": "Legal aid coordinator, works with Felpersham Law on pro bono cases"
+            },
+            {
+                "surname": "Reid",
+                "firstname": "Tom",
+                "userid": "reidt",
+                "role": "Environmental officer in the local government, consults on cases with environmental impacts"
+            }
+        ]
+    }
+]

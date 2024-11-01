@@ -1,0 +1,122 @@
+[
+    {
+        "name": "family",
+        "description": "Members of Usha's immediate family",
+        "members": [
+            {
+                "surname": "Franks",
+                "firstname": "alan",
+                "userid": "alan",
+                "role": "Usha's husband; works locally in Ambridge as an accountant"
+            },
+            {
+                "surname": "Franks",
+                "firstname": "Amy",
+                "userid": "amy",
+                "role": "Usha's step-daughter"
+            },
+            {
+                "surname": "Franks",
+                "firstname": "Ravi",
+                "userid": "ravi",
+                "role": "Usha and Alan's son"
+            },
+            {
+                "surname": "Gupta",
+                "firstname": "Deepak",
+                "userid": "deepak",
+                "role": "Usha's father"
+            },
+            {
+                "surname": "Gupta",
+                "firstname": "Shiv",
+                "userid": "shiv",
+                "role": "Usha's brother"
+            },
+            {
+                "surname": "Khanna",
+                "firstname": "Satya",
+                "userid": "satya",
+                "role": "Usha's aunt"
+            }
+        ]
+    },
+    {
+        "name": "friends",
+        "description": "Friends and acquaintances of Usha and Alan",
+        "members": [
+            {
+                "surname": "Hebden Lloyd",
+                "firstname": "Shula",
+                "userid": "shula",
+                "role": "Colleague of Alan Franks"
+            },
+            {
+                "surname": "Aldridge",
+                "firstname": "Brian",
+                "userid": "brian",
+                "role": "Runs local Brookfield Farm"
+            },
+            {
+                "surname": "Aldridge",
+                "firstname": "Jennifer",
+                "userid": "jennifer",
+                "role": "Runs Brookfield Farm, spouse of Brian"
+            },
+            {
+                "surname": "McCreary",
+                "firstname": "Jack",
+                "userid": "jazzer",
+                "role": "Also know as Jazzer; works at Berrow Farm"
+            },
+            {
+                "surname": "Pargetter",
+                "firstname": "Elizabeth",
+                "userid": "liz",
+                "role": "Owns the local stately home, mother of Freddie and Lily"
+            },
+            {
+                "surname": "Pargetter",
+                "firstname": "Freddie",
+                "userid": "freddie",
+                "role": "Son of Elizabeth Pargetter"
+            },
+            {
+                "surname": "Pargetter",
+                "firstname": "Lily",
+                "userid": "lily",
+                "role": "Daughter of Elizabeth Pargetter"
+            },
+            {
+                "surname": "Rogers",
+                "firstname": "Fallon",
+                "userid": "fallon",
+                "role": "Owns the local pub, the Black Bull"
+            },
+            {
+                "surname": "Burns",
+                "firstname": "Harrison",
+                "userid": "harrison",
+                "role": "Local police officer"
+            },
+            {
+                "surname": "Fairbrother",
+                "firstname": "Rex",
+                "userid": "rex",
+                "role": "Brother of Toby Fairbrother, local entrepreneur"
+            },
+            {
+                "surname": "Fairbrother",
+                "firstname": "Toby",
+                "userid": "toby",
+                "role": "Brother of Rex Fairbrother, local entrepreneur"
+            },
+            {
+                "surname": "Snell",
+                "firstname": "Lynda",
+                "userid": "lynda",
+                "role": "Well-connected and enthusiastic member of the Abridge local community, married to Robert Snell"
+            }
+        ]
+    }
+]

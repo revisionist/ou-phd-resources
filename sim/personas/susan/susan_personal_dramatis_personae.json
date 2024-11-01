@@ -1,0 +1,122 @@
+[
+    {
+        "name": "family",
+        "description": "Members of Susan's immediate family",
+        "members": [
+            {
+                "surname": "Carter",
+                "firstname": "Neil",
+                "userid": "neil",
+                "role": "Susan's husband; works as a pig farmer at a local farm"
+            },
+            {
+                "surname": "Grundy",
+                "firstname": "Emma",
+                "userid": "emma",
+                "role": "Susan and Neil's daughter, married to Ed Grundy"
+            },
+            {
+                "surname": "Grundy",
+                "firstname": "Ed",
+                "userid": "ed",
+                "role": "Susan and Neil's son in law, married to Emma"
+            },
+            {
+                "surname": "Carter",
+                "firstname": "Christopher",
+                "userid": "chris",
+                "role": "Susan and Neil's son, married to Alice Carter"
+            },
+            {
+                "surname": "Aldridge",
+                "firstname": "Alice",
+                "userid": "alice",
+                "role": "Susan and Neil's daughter in law, married to Christopher"
+            },
+            {
+                "surname": "Grundy",
+                "firstname": "George",
+                "userid": "george",
+                "role": "Susan's grandson; son of Emma and Ed Grundy"
+            }
+        ]
+    },
+    {
+        "name": "friends",
+        "description": "Friends and acquaintances of Susan and Neil",
+        "members": [
+            {
+                "surname": "Aldridge",
+                "firstname": "Brian",
+                "userid": "brian",
+                "role": "Alice Aldridge's father; runs Brookfield Farm"
+            },
+            {
+                "surname": "Aldridge",
+                "firstname": "Jennifer",
+                "userid": "jennifer",
+                "role": "Alice Aldridge's mother; runs Brookfield Farm"
+            },
+            {
+                "surname": "McCreary",
+                "firstname": "Jack",
+                "userid": "jazzer",
+                "role": "Also know as Jazzer; works with Neil at Berrow Farm"
+            },
+            {
+                "surname": "Hebden Lloyd",
+                "firstname": "Shula",
+                "userid": "shula",
+                "role": "Married to the local vicar"
+            },
+            {
+                "surname": "Pargetter",
+                "firstname": "Elizabeth",
+                "userid": "liz",
+                "role": "Owns the local stately home, mother of Freddie and Lily"
+            },
+            {
+                "surname": "Pargetter",
+                "firstname": "Freddie",
+                "userid": "freddie",
+                "role": "Son of Elizabeth Pargetter"
+            },
+            {
+                "surname": "Pargetter",
+                "firstname": "Lily",
+                "userid": "lily",
+                "role": "Daughter of Elizabeth Pargetter"
+            },
+            {
+                "surname": "Rogers",
+                "firstname": "Fallon",
+                "userid": "fallon",
+                "role": "Owns the local pub, the Black Bull"
+            },
+            {
+                "surname": "Burns",
+                "firstname": "Harrison",
+                "userid": "harrison",
+                "role": "Local police officer"
+            },
+            {
+                "surname": "Fairbrother",
+                "firstname": "Rex",
+                "userid": "rex",
+                "role": "Brother of Toby Fairbrother, local entrepreneur"
+            },
+            {
+                "surname": "Fairbrother",
+                "firstname": "Toby",
+                "userid": "toby",
+                "role": "Brother of Rex Fairbrother, local entrepreneur"
+            },
+            {
+                "surname": "Tucker",
+                "firstname": "Roy",
+                "userid": "roy",
+                "role": "Manager of Grey Gables Hotel"
+            }
+        ]
+    }
+]

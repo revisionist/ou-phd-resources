@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Borchester Software",
+        "also_known_as": [
+            "BIS"
+        ],
+        "type": "Company",
+        "notes": "Adam Macy works for Borchester Software as an IT consultant; Adam and Ian may mention this entity",
+        "people": [
+            {
+                "name": "Charlotte Walker",
+                "role": "Adam's manager"
+            },
+            {
+                "name": "Oscar Singh",
+                "role": "Colleague who Adam often works with"
+            },
+            {
+                "name": "Liam Johnson",
+                "role": "CEO of the company"
+            },
+            {
+                "name": "Andy Smithy",
+                "role": "Customer contact at Collosal Widgets, one of Borchester Software's main customers"
+            }
+        ]
+    },
+    {
+        "name": "Grey Gables Hotel",
+        "also_known_as": [
+            "Grey Gables",
+            "the Gables"
+        ],
+        "type": "Company",
+        "notes": "This is the hotel in Ambridge where Ian Craig works as a chef",
+        "people": [
+            {
+                "name": "Roy Tucker",
+                "role": "Ian's manager"
+            },
+            {
+                "name": "Lynda Snell",
+                "role": "Receptionist"
+            }
+        ]
+    },
+    {
+        "name": "The Bull",
+        "also_known_as": [
+            "the pub"
+        ],
+        "type": "Company",
+        "notes": "This is the popular village pub in the village of Ambridge, where a lot of Adam and Ian's family and friends live, work and socialise",
+        "people": [
+            {
+                "name": "Fallon Rogers",
+                "role": "Landlady"
+            },
+            {
+                "name": "Wayne Tucson",
+                "role": "Chef"
+            }
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+{
+   "use_history":true,
+   "openai_model":"{{openai_model_sim}}",
+   "dramatis_personae":"{{adam_cycling_dramatis_personae}}",
+   "entities":"{{adam_cycling_entities}}",
+   "topics":[
+      {
+         "category":"adam-cycling-club-general",
+         "enabled":true,
+         "items_multiplier":3,
+         "topic":"General chat between members of a fictional British cyling club the 'Borchester Wheelers ' (also called BWCC).  Club members mostly come from the fictional town of Borchester in Borsetshire, UK, or nearby.  Topics generally relate to all aspects of cycling but in particular club rides, cycle sport, cycle commuting, and maintenance.  For your reference, the club does its big cycle rides on a Sunday morning at 9am (people meet at the car park of a cafe called 'Spoke & Brew' as the club does not have a physical clubhouse).  Popular destinations for club rides include the villages/towns of Ambridge, Penny Hassett, Loxley Barrett, Darrington, Hollerton, Edgeley, Waterley Cross and Lakey Green, and sometimes as far afield as the cathederal city of Felpersham.  Club rides could be of the sporting, social or coffee shop variety, and there is a monthly new joiners ride. Some members commute to work by bike and occasionally meet to do their commutes together.  Doing laps of Borchester Park is a popular weekend and after work activity, although people often complain about the car traffic there.  Many members also cycle on the virtual platform Zwift, although there are different chat groups dedicated to this.  People will often discuss any professional cycle races that are happening at the time, as well as occasionally other sports such as rugby or football.  People will sometimes chide members to stay on topic if they stray too far into other sports.  Sometimes people will send messages reminding members to look at some topic posted on the club's web forum.  There are some general jokes and light banter.  The tone of the messages should be informal British English with British spellings."
+      },
+      {
+         "category":"adam-cycling-club-zwift",
+         "enabled":true,
+         "items_multiplier":2,
+         "topic":"Chat between members of a fictional British cyling club the 'Borchester Wheelers ' (also called BWCC).  Club members mostly come from the fictional town of Borchester in Borsetshire, UK, or nearby.  This chat is specifically to discuss the virtual cycling platform Zwift, which many members use, and is not the place to discuss outdoor riding.  Main topics for Zwift include the Zwift Racing League (ZRL) where the club fields several teams, equipment, technical issues related to Zwift, and nutrition/hydration strategies (beetroot juice is popular).  Zwift racing is organised into categories A-C based on rider power/weight and this is often controversial, with people having been known to engage in 'sandbagging' so that they can compete in a lower category with more success.  Club members often joke with each other in a lighthearted way about sandbagging.  Other running jokes involve the excessive use of spreadsheets and the power or otherwise of various riders.  Many messages relate to organising people into teams to compete.  For your reference, the club does its big 'real life' cycle rides on Sundays - popular destinations for club rides include the villages/towns of Ambridge, Penny Hassett, Loxley Barrett, Darrington, Hollerton, Edgeley, Waterley Cross and Lakey Green, and sometimes as far afield as the cathederal city of Felpersham.  Sometimes non-Zwift messages appear in the chat, which is mostly tolerated.  There are some general jokes and light banter.  The tone of the messages should be informal British English with British spellings."
+      }
+   ]
+}

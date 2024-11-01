@@ -1,0 +1,215 @@
+[
+    {
+        "name": "Borchester Software Ltd.",
+        "also_known_as": [
+            "BIS",
+            "Borchester Software"
+        ],
+        "type": "Employer",
+        "notes": "Borchester Software is the employer of the subject, Adam Macy",
+        "people": []
+    },
+    {
+        "name": "Colossal Widgets Ltd.",
+        "also_known_as": [
+            "ColWidgets"
+        ],
+        "type": "Client",
+        "notes": "This is one of Borchester Software's biggest customers",
+        "people": [
+            {
+                "name": "Freddie Widget",
+                "role": "CEO"
+            },
+            {
+                "name": "Andy Smithy",
+                "role": "Main customer contact"
+            }
+        ]
+    },
+    {
+        "name": "Big Information Systems Inc",
+        "also_known_as": [
+            "BIS",
+            "BigSys"
+        ],
+        "type": "Competitor",
+        "notes": "This is one of Borchester Software's biggest business competitors",
+        "people": [
+            {
+                "name": "Thomas T Big",
+                "role": "CEO"
+            },
+            {
+                "name": "Evan Fournier",
+                "role": "Top salesperson"
+            }
+        ]
+    },
+    {
+        "name": "Tiny Widgets Company",
+        "also_known_as": [
+            "TWC"
+        ],
+        "type": "Client",
+        "notes": "This is a small client that Borchester Software has recently acquired",
+        "people": [
+            {
+                "name": "Justin Sprocket",
+                "role": "CEO"
+            },
+            {
+                "name": "Susan Williams",
+                "role": "Main customer contact"
+            },
+            {
+                "name": "Mary Parker",
+                "role": "Technical contact"
+            }
+        ]
+    },
+    {
+        "name": "MegaTech Solutions Ltd.",
+        "also_known_as": [
+            "MTS"
+        ],
+        "type": "Supplier",
+        "notes": "A key supplier of hardware components to Borchester Software",
+        "people": [
+            {
+                "name": "Samantha Green",
+                "role": "Account Manager"
+            },
+            {
+                "name": "Lucas Grey",
+                "role": "Supply Chain Coordinator"
+            }
+        ]
+    },
+    {
+        "name": "Innovative Cloud Services LLC",
+        "also_known_as": [
+            "ICS"
+        ],
+        "type": "Partner",
+        "notes": "Strategic partner for cloud services and solutions",
+        "people": [
+            {
+                "name": "Irene Holmes",
+                "role": "Partnership Manager"
+            },
+            {
+                "name": "Daniel Sun",
+                "role": "Technical Lead"
+            }
+        ]
+    },
+    {
+        "name": "NextGen Mobile Corp.",
+        "also_known_as": [
+            "NGM"
+        ],
+        "type": "Competitor",
+        "notes": "Competes with Borchester Software in the mobile solutions sector",
+        "people": [
+            {
+                "name": "Mia Tang",
+                "role": "Chief Marketing Officer"
+            },
+            {
+                "name": "Omar Khan",
+                "role": "Product Development Head"
+            }
+        ]
+    },
+    {
+        "name": "Advanced Robotics Enterprises",
+        "also_known_as": [
+            "ARE"
+        ],
+        "type": "Client",
+        "notes": "A fast-growing client interested in advanced software solutions for robotics",
+        "people": [
+            {
+                "name": "Leah Connors",
+                "role": "CEO"
+            },
+            {
+                "name": "Raj Patel",
+                "role": "Chief Technology Officer"
+            }
+        ]
+    },
+    {
+        "name": "Green Energy Innovations",
+        "also_known_as": [
+            "GEI"
+        ],
+        "type": "Client",
+        "notes": "Focuses on sustainable energy solutions and is a new client of Borchester Software",
+        "people": [
+            {
+                "name": "Hannah Ming",
+                "role": "CEO"
+            },
+            {
+                "name": "Carlos Rodriguez",
+                "role": "Head of Research"
+            }
+        ]
+    },
+    {
+        "name": "Oceanic Research Corp.",
+        "also_known_as": [
+            "ORC"
+        ],
+        "type": "Client",
+        "notes": "Specializes in marine research and has been using Borchester Software's data analysis tools",
+        "people": [
+            {
+                "name": "Emily Dawson",
+                "role": "Lead Scientist"
+            },
+            {
+                "name": "Mark Stevens",
+                "role": "Operations Manager"
+            }
+        ]
+    },
+    {
+        "name": "Urban Development Group",
+        "also_known_as": [
+            "UDG"
+        ],
+        "type": "Client",
+        "notes": "Engaged in urban planning and infrastructure projects, recently partnered with Borchester Software for smart city solutions",
+        "people": [
+            {
+                "name": "Neil Kapoor",
+                "role": "CEO"
+            },
+            {
+                "name": "Sara Johnson",
+                "role": "Head of Technology Partnerships"
+            }
+        ]
+    },
+    {
+        "name": "Future Health Systems",
+        "also_known_as": [
+            "FHS"
+        ],
+        "type": "Client",
+        "notes": "A healthcare company focusing on innovative health tech solutions, using Borchester Software's software for patient data management",
+        "people": [
+            {
+                "name": "Angela White",
+                "role": "CEO"
+            },
+            {
+                "name": "David Kim",
+                "role": "IT Director"
+            }
+        ]
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "name": "International Consumer Goods",
+        "also_known_as": [
+            "ConsumerCo",
+            "ICG"
+        ],
+        "type": "Employer",
+        "notes": "International Consumer Goods or ICG is the employer of the subject, Kenton Archer. This is an international company with approximately 4000 employees who are based mainly in the UK, USA, Japan, Switzerland, and India. Head office is in Switzerland and there are local branches in most western and Asian countries. Much manufacturing is done in India although some also in Europe. Most R&D is done in the UK and Switzerland. Kenton works in a team of 7 people in the UK called the Business Development Group (BDG), which is responsible for developing new business relationships with customers and partners",
+        "people": []
+    },
+    {
+        "name": "Fresco Superstores",
+        "also_known_as": [
+            "Frescos"
+        ],
+        "type": "Client",
+        "notes": "This is one of ICG's biggest customers in the UK",
+        "people": [
+            {
+                "name": "Jack Conan",
+                "role": "CEO"
+            },
+            {
+                "name": "Fred Smithy",
+                "role": "Main customer contact"
+            }
+        ]
+    },
+    {
+        "name": "Consumer Products Conglomerate Ltd",
+        "also_known_as": [
+            "CPCL"
+        ],
+        "type": "Competitor",
+        "notes": "This is one of ICG's biggest business competitors",
+        "people": [
+            {
+                "name": "Evan Wilson",
+                "role": "Top salesperson"
+            }
+        ]
+    },
+    {
+        "name": "LADL",
+        "also_known_as": [],
+        "type": "Client",
+        "notes": "Kenton is trying to win this German-based supermarket chain as a customer",
+        "people": [
+            {
+                "name": "Hans Schopenhauer",
+                "role": "CEO"
+            },
+            {
+                "name": "Johanna Trosiener",
+                "role": "Head office customer contact"
+            },
+            {
+                "name": "Susan Parker",
+                "role": "UK customer contact"
+            }
+        ]
+    },
+    {
+        "name": "AquaClean",
+        "type": "Product",
+        "description": "A multi-purpose, eco-friendly cleaning solution designed for household use."
+    },
+    {
+        "name": "EnergizePlus",
+        "type": "Product",
+        "description": "A high-energy, low-sugar protein bar targeted at athletes and fitness enthusiasts."
+    },
+    {
+        "name": "SilkSkin",
+        "type": "Product",
+        "description": "A dermatologically-tested moisturizing cream for sensitive skin types."
+    },
+    {
+        "name": "BreezeAir",
+        "type": "Product",
+        "description": "A smart, energy-efficient air purifier for home and office environments."
+    },
+    {
+        "name": "QuickCook",
+        "type": "Product",
+        "description": "An advanced, multi-functional kitchen appliance for quick and healthy meal preparations."
+    },
+    {
+        "name": "Globemart",
+        "type": "Client",
+        "notes": "A large retail chain with stores across the USA, known for a wide range of consumer goods."
+    },
+    {
+        "name": "Sunshine Electronics",
+        "type": "Client",
+        "notes": "Specializes in consumer electronic products, with a strong presence in the European market."
+    },
+    {
+        "name": "EcoHome Stores",
+        "type": "Client",
+        "notes": "A UK-based retail chain focusing on eco-friendly and sustainable household products."
+    },
+    {
+        "name": "DailyNeeds Inc.",
+        "type": "Competitor",
+        "notes": "A fast-growing company in the consumer goods sector, competing directly with ICG in multiple markets."
+    },
+    {
+        "name": "HealthFirst Global",
+        "type": "Competitor",
+        "notes": "A multinational corporation specializing in health and wellness products, competing with ICG's health-related product lines."
+    }
+]

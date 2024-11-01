@@ -1,0 +1,242 @@
+[
+    {
+        "name": "work-team",
+        "description": "Members of Kenton's team at work in International Consumer Goods. The team is called the Business Development Group (BDG)",
+        "members": [
+            {
+                "surname": "Baker",
+                "firstname": "Evelyn",
+                "userid": "bakere",
+                "role": "Adam's team manager"
+            },
+            {
+                "surname": "Miyazaki",
+                "firstname": "Haruto",
+                "userid": "miyazakih",
+                "role": ""
+            },
+            {
+                "surname": "Ali",
+                "firstname": "Nisha",
+                "userid": "alin",
+                "role": ""
+            },
+            {
+                "surname": "Rajput",
+                "firstname": "Aryan",
+                "userid": "rajputa",
+                "role": ""
+            },
+            {
+                "surname": "Rajput",
+                "firstname": "Riya",
+                "userid": "rajputr",
+                "role": "New starter in the team, recent graduate"
+            },
+            {
+                "surname": "Ivanova",
+                "firstname": "Mila",
+                "userid": "ivanovam",
+                "role": ""
+            },
+            {
+                "surname": "Patel",
+                "firstname": "Arjun",
+                "userid": "patela",
+                "role": "Close colleague to Adam, often work together"
+            },
+            {
+                "surname": "Williams",
+                "firstname": "Zoe",
+                "userid": "williamsz",
+                "role": ""
+            },
+            {
+                "surname": "Brown",
+                "firstname": "Mason",
+                "userid": "brownm",
+                "role": ""
+            },
+            {
+                "surname": "Davis",
+                "firstname": "Ava",
+                "userid": "davisa",
+                "role": ""
+            }
+        ]
+    },
+    {
+        "name": "work-executives",
+        "description": "Members of the executive team of International Consumer Goods",
+        "members": [
+            {
+                "surname": "Anderson",
+                "firstname": "Ethan",
+                "userid": "andersone",
+                "role": "CEO"
+            },
+            {
+                "surname": "Miyazaki",
+                "firstname": "Haruto",
+                "userid": "miyazakih",
+                "role": "CTO"
+            },
+            {
+                "surname": "Black",
+                "firstname": "Oliver",
+                "userid": "blacko",
+                "role": "CFO"
+            },
+            {
+                "surname": "Shah",
+                "firstname": "Aria",
+                "userid": "shaha",
+                "role": "Head of Personnel"
+            }
+        ]
+    },
+    {
+        "name": "work-other",
+        "description": "Other employees of International Consumer Goods",
+        "members": [
+            {
+                "surname": "Kim",
+                "firstname": "Daniel",
+                "userid": "kimd",
+                "role": "Adam's manager's manager"
+            },
+            {
+                "surname": "Rajput",
+                "firstname": "Sara",
+                "userid": "rajputs",
+                "role": ""
+            },
+            {
+                "surname": "Carter",
+                "firstname": "Lucas",
+                "userid": "carterl",
+                "role": ""
+            },
+            {
+                "surname": "Hill",
+                "firstname": "Emma",
+                "userid": "hille",
+                "role": ""
+            },
+            {
+                "surname": "Thompson",
+                "firstname": "Jack",
+                "userid": "thompsonj",
+                "role": ""
+            },
+            {
+                "surname": "Phillips",
+                "firstname": "Lily",
+                "userid": "phillipsl",
+                "role": ""
+            },
+            {
+                "surname": "Morris",
+                "firstname": "Benjamin",
+                "userid": "morrisb",
+                "role": ""
+            },
+            {
+                "surname": "Black",
+                "firstname": "Oliver",
+                "userid": "blacko",
+                "role": ""
+            },
+            {
+                "surname": "Scott",
+                "firstname": "Sophia",
+                "userid": "scotts",
+                "role": ""
+            },
+            {
+                "surname": "Parker",
+                "firstname": "Ryan",
+                "userid": "parkerr",
+                "role": ""
+            },
+            {
+                "surname": "Murphy",
+                "firstname": "Charlotte",
+                "userid": "murphyc",
+                "role": ""
+            },
+            {
+                "surname": "Stewart",
+                "firstname": "Ivan",
+                "userid": "stewarti",
+                "role": ""
+            },
+            {
+                "surname": "Ross",
+                "firstname": "Camila",
+                "userid": "rossc",
+                "role": ""
+            },
+            {
+                "surname": "Martin",
+                "firstname": "Grace",
+                "userid": "marting",
+                "role": "Lead Graphic Designer"
+            },
+            {
+                "surname": "Garcia",
+                "firstname": "Ethan",
+                "userid": "garciae",
+                "role": "Senior Project Manager"
+            },
+            {
+                "surname": "Clark",
+                "firstname": "Aisha",
+                "userid": "clarka",
+                "role": "Head of Digital Marketing"
+            },
+            {
+                "surname": "Fernandez",
+                "firstname": "Lucas",
+                "userid": "fernandezl",
+                "role": "IT Security Specialist"
+            },
+            {
+                "surname": "Robinson",
+                "firstname": "Olivia",
+                "userid": "robinsono",
+                "role": "Customer Relations Coordinator"
+            },
+            {
+                "surname": "Kim",
+                "firstname": "Jason",
+                "userid": "kimj",
+                "role": "Supply Chain Analyst"
+            },
+            {
+                "surname": "Lee",
+                "firstname": "Sophie",
+                "userid": "lees",
+                "role": "Quality Assurance Lead"
+            },
+            {
+                "surname": "Wilson",
+                "firstname": "Mia",
+                "userid": "wilsonm",
+                "role": "Human Resources Advisor"
+            },
+            {
+                "surname": "Lopez",
+                "firstname": "David",
+                "userid": "lopezd",
+                "role": "Corporate Communications Manager"
+            },
+            {
+                "surname": "Hernandez",
+                "firstname": "Sarah",
+                "userid": "hernandezs",
+                "role": "Environmental Compliance Officer"
+            }
+        ]
+    }
+]

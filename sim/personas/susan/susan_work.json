@@ -1,0 +1,32 @@
+{
+   "use_history":true,
+   "openai_model":"{{openai_model_sim}}",
+   "dramatis_personae":"{{susan_work_dramatis_personae}}",
+   "entities":"{{susan_work_entities}}",
+   "topics":[
+      {
+         "category":"susan-work-university-announce",
+         "enabled":true,
+         "items_multiplier":1,
+         "topic":"Corporate messenger application chat within the employer of our fictional protagonist, Susan Carter. The messages are exclusively internal university announcements coming from the senior leadership team and PR office of the university that Susan works for, Borchester University.  Generate messages that come from all of the senior leaders in the provided list as well as from an anonymous PR account or from Alumni Relations.  Messages should occasionally refer to the university's academic achievements, rankings, campuses, faculty changes etc. Message content should be unique and not duplicated. Try and use a good range of content, making up names of internal and external entities such as campuses, buildings, research centres, funding bodies, business partnerships, alumni organisations and government entities.  The tone of the messages should be formal business British English with British spellings."
+      },
+      {
+         "category":"susan-work-university-general",
+         "enabled":true,
+         "items_multiplier":2,
+         "topic":"Workplace messenger application chat within the employer of our fictional protagonist, Susan Carter.  The chat is general workplace discussion within the university that Susan works for, Borchester University.  The chat is at the overall university staff level and not individual teams, so should mostly not refer to in-team topics.  Topics should include discussion about university announcements and courses, upcoming events, academic climate, general news (where appropriate for university staff discussion) and other items people might choose to share with anorganisation of this size. This group chat is intended for discussions aimed at the whole university administration - it is not the correct place for team discussions, technical support requests etc.  Messages should occasionally refer to the university's international operations, locations, facilities etc.  Some messages might be complaints, compliments or other discussion on univeristy policies, changes, facilities, catering etc. as well as some external events; avoid generating duplicates or overly similar repeated messages.  The tone of the messages should be informal/professional British English with British spellings."
+      },
+      {
+         "category":"susan-work-team-general",
+         "enabled":true,
+         "items_multiplier":3,
+         "topic":"Corporate messenger application chat for the work team of our fictional protagonist, Susan Carter.  The chat is general workplace discussion between members of Susan's team in the Undergraduate Admissions Office at Borchester University.  The team is half working in the office and half remote working (some people alternate between the two).  About half of the team is part-time.  Topics should include discussions about work (admissions queries, processes, asking for help or cover etc.), logistics, talking about out of work meetups and events and other topcis that you might expect a work team to discuss.  Some of the messages should imply a sense of urgency, such as a request for timely assistance, while most should be more relaxed.  While a list of some colleagues in other parts of the university is provided, you should also generate fictional names to reference in messages; avoid generating duplicates or overly similar repeated messages.  The tone of the messages should be informal British English with British spellings."
+      },
+      {
+         "category":"susan-work-team-manager",
+         "enabled":true,
+         "items_multiplier":2,
+         "topic":"Corporate messenger application chat between our fictional protagonist, Susan Carter and her manager Eleanor Baker, who heads up the Undergraduate Admissions Office at Borchester University where susan works.  It conly includes messages between Susan Carter and Eleanor Baker.  The team is half working in the office and half remote working (some people alternate between the two).  About half of the team is part-time.  This chat is just between Susan and her manager, and topics should include admissions-related discussions, logistics, and usual topics that a manager and their direct report might need to discuss.  Some of the messages should be of a type that would normally need a prompt or urgent response.  In this scenario, Susan is a solid performer at work, but has a high workload and not all of her colleagues pull their weight equally; avoid generating duplicates or overly similar repeated messages.  The tone of the messages should be informal/professional British English with British spellings."
+      }
+   ]
+}

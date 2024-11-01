@@ -1,0 +1,26 @@
+{
+   "use_history":true,
+   "openai_model":"{{openai_model_sim}}",
+   "dramatis_personae":"{{adam_personal_dramatis_personae}}",
+   "entities":"{{adam_personal_entities}}",
+   "topics":[
+      {
+         "category":"adam-family-group-chat",
+         "enabled":true,
+         "items_multiplier":2,
+         "topic":"General chat between members of a fictional British family, as seen by our protagonist, Adam Macy.  The chat is a lighthearted exchange between familiy members on a variety of topics, with some messages relating to logistics and meeting up.  Other topics might include village gossip, family personal and work happenings and milestones, and requests for assistance or favours, Adam and Ian live in the county town of Borchester in Borsetshire, while family are dotted around local villages Penny Hassett, Loxley Barrett, Darrington, Hollerton, Edgeley, Waterley Cross and Lakey Green.  The main local city is the cathederal city of Felpersham.  The tone of the messages should be informal British English with British spellings."
+      },
+      {
+         "category":"adam-friends-chat",
+         "enabled":true,
+         "items_multiplier":2,
+         "topic":"General chat between a group of friends of our protagonist, Adam Macy and his partner Ian Craig.  The chat is a lighthearted exchange between friends on a variety of topics that a group of young to middle aged adult friends might discuss.  This would include but is not limited to jokes, meeting arrangements, discussion about what people have been doing, world affairs and local gossip.  Adam and Ian live in the county town of Borchester in Borsetshire, while friends are dotted around local villages Ambridge, Penny Hassett, Loxley Barrett, Darrington, Hollerton, Edgeley, Waterley Cross and Lakey Green.  The main local city is the cathederal city of Felpersham.  Chat participants should be limited to only Adam, Ian and the supplied list of friends (not any family or work colleagues), although messages may refer to any individual.  The tone of the messages should be informal British English with some light banter using British spellings."
+      },
+      {
+         "category":"adam-ian-chat",
+         "enabled":true,
+         "items_multiplier":1,
+         "topic":"Chat between our fictional protagonist, Adam Macy and his civil partner Ian Craig.  The chat is a exchange a variety of topics, with some messages relating to logistics and meeting up but also discussing how their day is going and talking about family and work events/gossip.  Try and include reasonable variety.  Adam is an IT consultant, who often works long hours and has to travel, which sometimes causes tension.  Adam and Ian live in the county town of Borchester in Borsetshire, while family are dotted around local villages Ambridge, Penny Hassett, Loxley Barrett, Darrington, Hollerton, Edgeley, Waterley Cross and Lakey Green.  The main local city is the cathederal city of Felpersham.  The tone of the messages should be informal British English with British spellings."
+      }
+   ]
+}
