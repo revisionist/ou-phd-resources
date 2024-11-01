@@ -1,0 +1,14 @@
+{
+    "id": "susan",
+    "name": "Susan",
+    "definition": {
+        "age": 58,
+        "does": "I live in the Midlands in the UK and work as an administrator at the nearby university.  I'm married and have two children \u2013 unlike me they both went to university.  Since graduating one settled down quite close but the other lives and works in London.\nI have a few hobbies outside of work \u2013 baking, tennis and getting out into the local countryside.",
+        "feelThinkBelieve": "While I enjoy my job, it's not the most important thing in my life; I have no trouble switching off at the end of the day, even when it's been very busy.  When I socialise with work colleagues we rarely talk about work (otherwise I probably wouldn't socialise with them).\nI know my children lead busy lives now, but I miss seeing as much of them as I used to, particularly the youngest who is in London now.  They do try and keep in touch but I don't always know what they're up to or how they are doing.\nI really enjoy my tennis and spend a lot of time helping organise club events.\nI'm not always entirely on top of things in my personal life because I don't check my email often enough.",
+        "gender": "Female",
+        "technologyExperience": "I use a desktop computer at work for admin, email and maybe a little web browsing.  We have one at home too, but it's mostly my husband on that. I've had IT training at work and get along fine with computers \u2013 although I prefer to stay in my comfort zone. My son made me get one of those smartphones.  I didn't really see the point at first, but it is actually quite useful for staying in touch and organising things.\nI think I mostly use Facebook and WhatsApp as well as things like the weather app.  I admit I do use Facebook quite a lot, but there are a lot of stories about how much they know about you and what they do with that.  If it wasn't so handy, I'd use it a lot less.",
+        "problems": "Not as aware of her adult childrens' activities and day to day lives as she would like to be. \nBecause of relatively low level of engagement with computers at home, Susan sometimes misses items of news or things to act on \u2013 particularly when they come in via email or get lost in Facebook feeds.",
+        "needs": "Tools to help her track what is going on with friends, family and hobbies in social media without needing to log in all the time.\nAlso needs a way to ensure that she does not miss important emails.",
+        "existingSolutions": "Existing algorithms in social services that select content for users.\nEmail filtering.  \nNotification functionality in social media smartphone apps."
+    }
+}

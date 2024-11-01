@@ -1,0 +1,14 @@
+{
+    "id": "phoebe",
+    "name": "Phoebe",
+    "definition": {
+        "age": 23,
+        "does": "I'm a recent graduate working for an accountancy firm in London.  I'm on the management fast track, meaning that I move around many different parts of the business to learn how they work.\nI'm currently single, mainly because I have so little time to do things like organise and go on dates.\nMy undergraduate degree was in Chemistry, but I quickly realised that I didn't want to be in a lab for a living.",
+        "feelThinkBelieve": "I have a lot of university friends now scattered all around \u2013 I want to stay in touch via social media (and meet up when we can) but I don't always keep on top of what people are up to as many of them post a lot of rubbish on their feeds.\nI love my job but I feel my work consumes most of my time and I have trouble switching off.  There's always a project going on.\nWhile I have many social apps that I use a lot, I'm not convinced that that have my best interests at heart and I sometimes wonder if I share too much about myself with them.",
+        "gender": "Female",
+        "technologyExperience": "I guess I'm what people call a digital native.  Technology isn't a big thing in its own right for me, but I suppose I depend on it for everything \u2013 work and social.  While I happily admit that I don't use all the features on my phone (who does, really?), I am always keen to try out new apps and online services if they have something to offer me.  If I am really into a particlar app, I will take time to ensure that it works just so.\nI have a notebook computer for work, but I don't actually use it as much as I thought I would when I started \u2013 I mainly use it for typing things up and doing admin on the intranet (some of our admin apps don't work on mobile).  I use my phone for a lot of my work, particularly for communication and collaborating.  I only carry the one phone around with me for convenience, so it runs several work and personal apps.\nI mainly chat with people using an instant messenger.  I pride myself on being able to select a meme for every occasion (although I'm not sure that counts as 'technology experience').",
+        "problems": "Lack of time to stay on top of social media due to pressure of work.\nFinds it hard to switch off from work in personal time.",
+        "needs": "Find ways of keeping up with friends on social media that don't consume a lot of time wading through minutiae.\nHelp making a distinction between work and personal time when using a single device for both.",
+        "existingSolutions": "Existing algorithms in social services that select content for users.\nScheduled or manual 'do not disturb' features in apps used for work (i.e. Slack's Do Not Disturb hours)."
+    }
+}

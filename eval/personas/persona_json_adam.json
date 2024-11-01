@@ -1,0 +1,14 @@
+{
+    "id": "adam",
+    "name": "Adam",
+    "definition": {
+        "age": 38,
+        "does": "I work in IT as a software consultant.  My employer is based in Berkshire but I work all over, depending on the customer.  I usually do quite short engagements.\nI have a long-term partner but no kids.\nI'm a keen cyclist and often organise group rides for my club.",
+        "feelThinkBelieve": "I'm a big fan of technology \u2013 I genuinely believe it helps humanity as long as we use it right.  I'm well aware that people like to complain about social media giants, fake news, privacy and all that but I think it's overblown.  If you configure your privacy settings right and apply a little critical thought about what you read I think it's not really a problem.\nOnline services and apps usually show me the right sort of stuff \u2013 again, I think because I've put in time to configure it.  Having said that, with all the information coming my way from both work and social angles I do get swamped sometimes.  If there was a way I could set up things to help I'd jump at it.\nI travel a lot for work, and this can make it harder to keep on top of things.  There's always an urgent email buried in among all the corporate spam that arrives while I'm not looking.",
+        "gender": "Male",
+        "technologyExperience": "I'm pretty good with technology, even if I do say so myself.  The field is so dynamic that things change all the time \u2013 I enjoy the challenge of keeping on top of it.  I manage well but occasionally get blindsided by something coming up that I've never heard of.\nI don't have a formal educational background in technology, instead I've learned most of what I know on the fly.  Stuff I would have been taught twenty years ago is mostly going to be irrelevant now anyway.",
+        "problems": "Very engaged with technology but still misses important things due to time and travel commitments.\nDoes not completely keep up on all the relevant technology news.",
+        "needs": "Tools to sift the wheat from the chaff, particularly for 'dumb' services such as email that are less likely to use an algorithm to help you.\nServices that reliably pick out important technology news that's relevant to the job \u2013 presenting the right amount of news at the right time.",
+        "existingSolutions": "Tools such as the Microsoft Outlook Focused Inbox and Gmail Inbox, although these are platform-specific.\nNews aggregator services (algorithmic/rule based as well as social driven services such as Reddit)"
+    }
+}

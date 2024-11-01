@@ -1,0 +1,67 @@
+{
+    "items": [
+        {
+            "classifications": [
+                {
+                    "available": [
+                        "not",
+                        "other",
+                        "running"
+                    ],
+                    "name": "running",
+                    "desc": "Is this item about sports, and if it is, what type of sport?",
+                    "selected": "not"
+                },
+                {
+                    "available": [
+                        "personal",
+                        "professional"
+                    ],
+                    "name": "pers-prof",
+                    "desc": "Is this item related to my professional work or personal interests?",
+                    "selected": "professional"
+                },
+                {
+                    "available": [
+                        "not",
+                        "oss"
+                    ],
+                    "name": "open-source",
+                    "desc": "Is this item specifically about Open Source Software (OSS)?",
+                    "selected": "oss"
+                }
+            ],
+            "itemId": "39fe0b1b-56ac-472a-b479-6e64127c36b9",
+            "sent": "2023-09-12T13:17:15.430Z",
+            "source": {
+                "channel": "UK news | The Guardian",
+                "originator": "UK news | The Guardian",
+                "type": "RSS item"
+            },
+            "summary": "<p>Labour promised to keep triple lock in 2019 manifesto but deputy leader says \u2018we\u2019re in a very different place\u2019 now</p><p><strong>Rayner</strong> says Labour will update trade union laws to make them fit for the 21st century.</p><p>The laws affecting union reps and officials do not take into account technological advancements, she says.</p><p>First, we will update regulations to outlaw the use of predictive technologies for blacklisting and safeguard against singling out workers for mistreatment or the sack without any evidence of human interaction.</p><p>Second, we will act to end the loophole that allows employers to pass the dirty work down to third party contractors, so that any third party found to be carrying out blacklisting can legally be held to account.</p> <a href=\"https://www.theguardian.com/politics/live/2023/sep/12/angela-rayner-rishi-sunak-tory-labour-keir-starmer-tuc-latest-politics-updates-live\">Continue reading...</a>",
+            "title": "Angela Rayner refuses to say Labour committed to keeping triple lock for pensions \u2013 UK politics live"
+        }
+    ],
+    "persona": {
+        "definition": {
+            "age": 58,
+            "does": "I live in the Midlands in the UK and work as an administrator at the nearby university.  I'm married and have two children \u2013 unlike me they both went to university.  Since graduating one settled down quite close but the other lives and works in London.  I have a few hobbies outside of work \u2013 baking, tennis and getting out into the local countryside.",
+            "existingSolutions": "Existing algorithms in social services that select content for users.  Email filtering.  Notification functionality in social media smartphone apps.",
+            "feelThinkBelieve": "While I enjoy my job, it's not the most important thing in my life; I have no trouble switching off at the end of the day, even when it's been very busy.  When I socialise with work colleagues we rarely talk about work (otherwise I probably wouldn't socialise with them).  I know my children lead busy lives now, but I miss seeing as much of them as I used to, particularly the youngest who is in London now.  They do try and keep in touch but I don't always know what they're up to or how they are doing.  I really enjoy my tennis and spend a lot of time helping organise club events.  I'm not always entirely on top of things in my personal life because I don't check my email often enough.",
+            "gender": "Female",
+            "needs": "Tools to help her track what is going on with friends, family and hobbies in social media without needing to log in all the time.  A way to ensure that she does not miss important emails.",
+            "problems": "Not as aware of her adult childrens' activities and day to day lives as she would like to be.  Because of relatively low level of engagement with computers at home, Susan sometimes misses items of news or things to act on \u2013 particularly when they come in via email or get lost in Facebook feeds.",
+            "technologyExperience": "I use a desktop computer at work for admin, email and maybe a little web browsing.  We have one at home too, but it's mostly my husband on that. I've had IT training at work and get along fine with computers \u2013 although I prefer to stay in my comfort zone. My son made me get one of those smartphones.  I didn't really see the point at first, but it is actually quite useful for staying in touch and organising things.  I think I mostly use Facebook and WhatsApp as well as things like the weather app.  I admit I do use Facebook quite a lot, but there are a lot of stories about how much they know about you and what they do with that.  If it wasn't so handy, I'd use it a lot less.",
+            "type": "PathyPersona"
+        },
+        "id": "susan",
+        "name": "Susan"
+    },
+    "perspectives": [
+        {
+            "id": "classification-1",
+            "name": "Classification",
+            "text": "Has this item been correctly classified - put into the appropriate channel?"
+        }
+    ]
+}

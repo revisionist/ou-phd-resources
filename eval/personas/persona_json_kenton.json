@@ -1,0 +1,15 @@
+{
+    "definition": {
+        "age": 49,
+        "gender": "Male",
+        "does": "I work as a client manager for a global consumer products company. You will have heard of us. My role is essentially to drive sales, but looking after existing customers and bringing new ones in. As many of my accounts are themselves global corporates, I end up doing a fair bit of international travel.\nI never went to university \u2013 it didn't interest me at the time \u2013 so I started my career at 18 just after A-levels.\nI'm divorced, with one son who lives with his mum but I see often.\nOutside work, I watch football and play golf.  I used to do it more the other way around when I was younger.",
+        "feelThinkBelieve": "I have a lot to stay on top of at work. I. sometimes miss things, but someone usually reminds me if it's urgent. I prefer not to miss things from important customers though, even if they are not urgent I like to give them a prompt reply. It can be difficult though, when you get things flying at you from all directions at all times. I'm on Facebook, Twitter and all that, like most people are. Not sure how I'd organise my social life without Facebook (how did I manage before?) I hear all the usual scare stories about social media giants, but they're a bit overblown by the media. I don't overshare, but I'm happy to put information out there \u2013 I think you get more out of it that way. Of course in an ideal world I'd be happy to have more control.",
+        "technologyExperience": "I don't think I'm held back by not having a degree. A lot of graduates joining my company haven't got a clue about the real business world anyway. Experience counts for a lot and I've always done well for getting stuck in with new things. I really believe that you get out what you're prepared to put in with technology. I'll put in the time when I can to get things set up right, tell it my preferences or whatever helps. In mainly use office tools like Word and Excel and communications tools such as Webex day to day. We also have a new CRM system that I have to use, as well as the old CRM system that we haven't completely migrated off yet, and the other CRM system that we also use, for reasons I don't fully undertstand. I travel a lot, so I'm pretty good at managing with a notebook and mobile.",
+        "problems": "Has to use multiple different systems that are not integrated with each other.  Receives many interruptions from different sources that need to be prioritised differently.",
+        "needs": "Methods to handle and prioritise incoming messages.",
+        "existingSolutions": "Email rules. Social media functionality. Features of bespoke applications that control notifications.",
+        "type": "PathyPersona"
+    },
+    "id": "kenton",
+    "name": "Kenton"
+}

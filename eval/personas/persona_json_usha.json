@@ -1,0 +1,14 @@
+{
+    "id": "usha",
+    "name": "Usha",
+    "definition": {
+        "age": 43,
+        "does": "I'm a senior partner in a legal practice in a medium market town in England.  My specialism is company law and I work mostly with small and medium enterprises in the local area.\nOutside of work, I enjoy horse riding and socialising.\nI'm married and have two school-age children.",
+        "feelThinkBelieve": "My work is very busy, as I usually handle several cases at once.  While I have a personal assistant who handles a lot of my calls and email, I'm frequently in direct contact with multiple clients over the course of a week, mostly by phone and email.\nWhile I'm pretty well organised and do manage to  stay on top of all this, I do find it quite trying when I'm trying to concentrate on something to get a lot of interruptions, which can happen.\nI enjoy switching off at the end of the day and getting back to my family.  I have a dedicated work mobile phone and that gets switched to do not disturb mode out of hours, so only emergencies get through to me.",
+        "gender": "Female",
+        "technologyExperience": "I would say that I'm competent with technology, it's an essential tool to do my job and organise my life.  It's also a useful way to stay in contact with extended family.\nI'm a moderate user of social media, both in a personal and professional capacity.  Most of my family and friends use Facebook to some degree and a lot of things that I'm involved with are organised there, so I need to use it for that .  I'm reticent to shame to much information about my family and personal life online though.  My practice maintains a Facebook page and Twitter account and I try to tweet reasonably regularly to maintain my professional profile.  I also use LinkedIn, mainly as a way of making and maintaining business contacts.\nI depend on my smartphone and laptop when I am oput of the office; I tend to use a desktop in the office.  I use phone and email a lot for my work, but I also increasingly use conferencing tools such as Skype and Webex to interact with clients (I will use whatever the client has a preference for, if they have one).",
+        "problems": "Being interrupted by incoming messages and notifications when trying to focus on something.\nMaintaining multiple social media channels (professional & personal) and staying on top of these.",
+        "needs": "Ways to manage/intercept interruptions coming from multiple sources.\nA more holistic approach to multiple social media sources, to manage both incoming and outgoing information.\nAbility to make a distinction between work and personal technology, particularly for interruptions.",
+        "existingSolutions": "Has a (human) personal assistant.\nExisting functionality provided by social media platforms.\nUses different mobile phones for work and personal.\n'Do not disturb feature' on phone."
+    }
+}
