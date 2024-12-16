@@ -1,0 +1,273 @@
+{
+  "$id":"https://parse.net/awag/0.1/record-evaluation-data.schema.json",
+  "$schema":"http://json-schema.org/2020-12/schema#",
+  "title":"AwAg Evaluation Data Recording",
+  "description":"Contains the results of the evaluation of one or more Content Items for a given evaluationPersona.  This data is intended to be submitted to the awagdata /eval/record-evaluation-data service",
+  "type":"object",
+  "properties":{
+    "agent":{
+      "title":"Agent ID",
+      "description":"Agent ID for the agent performing the operation",
+      "type":"string"
+    },
+    "evaluationPersona":{
+      "$ref":"https://parse.net/awag/0.1/persona.schema.json"
+    },
+    "evaluationPerspectives":{
+      "title":"Evaluation Perspectives",
+      "description":"The list of perspectives used for evaluating items",
+      "type":"array",
+      "items":{
+        "$ref":"https://parse.net/awag/0.1/perspective.schema.json"
+      }
+    },
+    "items":{
+      "title":"Evaluated Items",
+      "description":"An array of completed evaluations for Content Items",
+      "type":"array",
+      "items":{
+        "type":"object",
+        "properties":{
+          "itemId":{
+            "title":"Content Item ID",
+            "type":"string"
+          },
+          "tags":{
+            "title":"Tags",
+            "description":"The Output Tags to apply to this Content Item evaluation",
+            "type":"array",
+            "items":{
+              "type":"string"
+            }
+          },
+          "classifications":{
+            "title":"Classifications",
+            "description":"The classifications that are associated with this Content Item - these are what was evaluated",
+            "type":"array",
+            "items":{
+              "type":"object",
+              "properties":{
+                "title":"Classification Name",
+                "description":"The name of the classification",
+                "classificationName":{
+                  "type":"string"
+                },
+                "classificationValue":{
+                  "title":"Classification Value",
+                  "description":"The selected value of the classification that was evaluated",
+                  "type":"string"
+                },
+                "classificationOptions":{
+                  "title":"Classification Options",
+                  "description":"List of the available values that this classifciation could have had",
+                  "type":"array",
+                  "items":{
+                    "type":"string"
+                  }
+                }
+              },
+              "required":[
+                "classificationName",
+                "classificationValue",
+                "classificationOptions"
+              ]
+            }
+          },
+          "evaluateSourceType":{
+            "title":"Evaluate Item Source Type",
+            "description":"The source type for this evaluated item - such as 'RSS Item'",
+            "type":"string"
+          },
+          "evaluateSourceOriginator":{
+            "title":"Evaluate Item Source Originator",
+            "description":"The originator of this evaluated item - such as an RSS provider",
+            "type":"string"
+          },
+          "evaluateSourceChannel":{
+            "title":"Evaluate Item Source Channel",
+            "description":"The channel or other subdivision that this evaluated item was published to",
+            "type":"string"
+          },
+          "evaluateTimeText":{
+            "title":"Evaluate Time Text",
+            "description":"An ISO 8601 compliant textual representation of the datetime of publication of the evaluated item",
+            "type":"string"
+          },
+          "evaluateTimeMs":{
+            "title":"Evaluate Time MS",
+            "description":"The datetime of publication of the evaluated item expressed as milliseconds since the epoch",
+            "type":"number"
+          },
+          "evaluateTitle":{
+            "title":"Evaluate Title",
+            "description":"The Title property of the evaluated item - this is content used for classification that was part of the evaluation",
+            "type":"string"
+          },
+          "evaluateText":{
+            "title":"Evaluate Text",
+            "description":"The Text (body/content) property of the evaluated item - this is content used for classification that was part of the evaluation",
+            "type":"string"
+          },
+          "evaluationResponses":{
+            "title":"Evaluation Responses",
+            "description":"The evaluation results for this item, organised by Perspective nested within Classification",
+            "type":"array",
+            "items":{
+              "type":"object",
+              "properties":{
+                "classificationName":{
+                  "title":"Evaluated Classification Name",
+                  "description":"The name of the classification",
+                  "type":"string"
+                },
+                "perspectives":{
+                  "type":"array",
+                  "items":{
+                    "title":"Evaluated Perspectuve",
+                    "description":"The evaluation results by Perspective for this Classification",
+                    "type":"object",
+                    "properties":{
+                      "perspectiveId":{
+                        "title":"Perspective ID",
+                        "description":"The ID of the Perspective used for this evaluation",
+                        "type":"string"
+                      },
+                      "evaluationLikertVal":{
+                        "title":"Evaluation Likert Value",
+                        "description":"The evaluation result as a Likert value (modes 1 & 2)",
+                        "minimum":1,
+                        "maximum":5,
+                        "type":"integer"
+                      },
+                      "evaluationLikertText":{
+                        "title":"Evaluation Likert Text",
+                        "description":"The textual version of the evaluation Likert value",
+                        "type":"string"
+                      },
+                      "evaluationAgreement":{
+                        "title":"Evaluation Agreement",
+                        "description":"The evaluation result as an AGREE/DISAGREE string (mode 3)",
+                        "enum":[
+                          "AGREE",
+                          "DISAGREE"
+                        ],
+                        "type":"string"
+                      },
+                      "evaluationText":{
+                        "title":"Evaluation Text",
+                        "description":"A textual version of the evaluation",
+                        "type":"string"
+                      }
+                    },
+                    "required":[
+                      "perspectiveId",
+                      "evaluationText"
+                    ],
+                    "oneOf":[
+                      {
+                        "required":[
+                          "evaluationAgreement"
+                        ]
+                      },
+                      {
+                        "required":[
+                          "evaluationLikertVal",
+                          "evaluationLikertText"
+                        ]
+                      }
+                    ]
+                  }
+                }
+              },
+              "required":[
+                "classificationName",
+                "perspectives"
+              ]
+            }
+          }
+        },
+        "required":[
+          "itemId",
+          "tags",
+          "classifications",
+          "evaluateSourceType",
+          "evaluateSourceOriginator",
+          "evaluateSourceChannel",
+          "evaluateTimeText",
+          "evaluateTimeMs",
+          "evaluateText",
+          "evaluationResponses"
+        ]
+      }
+    },
+    "context":{
+      "title":"Context",
+      "description":"Additional contextual information to be recorded alongside the evaluation",
+      "type":"object",
+      "properties":{
+        "contextId":{
+          "title":"Context ID",
+          "description":"A unique identifier for this evaluation job",
+          "type":"string"
+        },
+        "evaluationItems":{
+          "title":"Evaluation Items",
+          "description":"An array of the evaluated items in their fuller native format containing full information, provided for general information or to allow the evaluation to be re-run with a differently constructed request",
+          "type":"array",
+          "items":{
+            "type":"object"
+          }
+        },
+        "openaiApiCompletionsQueryInfo":{
+          "title":"OpenAI Completions Query Information",
+          "description":"Details of the OpenAI Completions API query, including parameters and full prompt information, as well as the response state",
+          "type":"object",
+          "properties":{
+            "maxTokens":{
+              "title":"Max Tokens",
+              "description":"Parameter: maximum tokens limit for query",
+              "type":"integer"
+            },
+            "model":{
+              "title":"Model",
+              "description":"Parameter: model to use for query",
+              "type":"string"
+            },
+            "temperature":{
+              "title":"Temperature",
+              "description":"Parameter: temperature",
+              "type":"number"
+            },
+            "promptText":{
+              "title":"Prompt Text",
+              "description":"The full text part of the prompt supplied to the API",
+              "type":"string"
+            },
+            "promptQueryJson":{
+              "title":"Prompt Query JSON",
+              "description":"The full prompt supplied to the API in JSON format",
+              "type":"object"
+            },
+            "queryState":{
+              "title":"Query State",
+              "description":"The query state taken from the OpenAI response, including response code, actual token usage etc.",
+              "type":"object"
+            }
+          }
+        }
+      },
+      "required":[
+        "contextId",
+        "evaluationItems",
+        "openaiApiCompletionsQueryInfo"
+      ]
+    }
+  },
+  "required":[
+    "agent",
+    "evaluationPersona",
+    "evaluationPerspectives",
+    "items",
+    "context"
+  ]
+}

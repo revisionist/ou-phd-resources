@@ -1,0 +1,76 @@
+{
+   "$id":"https://parse.net/awag/0.1/persona.schema.json",
+   "$schema":"https://json-schema.org/draft/2020-12/schema",
+   "type":"object",
+   "title":"Awareness Agent Evaluation Persona",
+   "description":"Object representing a request to evaluate one or more items in the role of the specified persona from the supplied perspectives",
+   "properties":{
+      "name":{
+         "title":"Persona Name",
+         "description":"The name given to this persona",
+         "type":"string"
+      },
+      "id":{
+         "title":"Persona ID",
+         "description":"The internal ID for this persona (ignore)",
+         "type":"string"
+      },
+      "definition":{
+         "title":"Evaluation Persona Definition",
+         "description":"The definition of this persona",
+         "type":"object",
+         "properties":{
+            "type":{
+               "title":"Persona Type",
+               "description":"Internal identifier of the persona type (ignore)",
+               "type":"string"
+            },
+            "age":{
+               "title":"Age",
+               "description":"The age of the persona",
+               "type":"integer"
+            },
+            "gender":{
+               "title":"Gender",
+               "description":"What gender does this persona identify as",
+               "type":"string"
+            },
+            "does":{
+               "title":"Does",
+               "description":"What does this persona do in their work and personal life",
+               "type":"string"
+            },
+            "feelThinkBelieve":{
+               "title":"Feel/Think/Believe",
+               "description":"What does this persona feel, think and believe; what is their outlook on life, priorities etc",
+               "type":"string"
+            },
+            "technologyExperience":{
+               "title":"Technology Experience",
+               "description":"What experience does this persona have with technology",
+               "type":"string"
+            },
+            "problems":{
+               "title":"Problems",
+               "description":"What problems does this persona encounter",
+               "type":"string"
+            },
+            "needs":{
+               "title":"Needs",
+               "description":"What needs does this persona have",
+               "type":"string"
+            },
+            "existingSolutions":{
+               "title":"Existing Solutions",
+               "description":"What solutions does this persona currently employ to address their problems and meet their needs",
+               "type":"string"
+            }
+         }
+      }
+   },
+   "required":[
+      "id",
+      "name",
+      "definition"
+   ]
+}

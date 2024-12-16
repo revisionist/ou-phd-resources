@@ -1,0 +1,29 @@
+{
+  "$id":"https://parse.net/awag/0.1/perspective.schema.json",
+  "$schema":"http://json-schema.org/2020-12/schema#",
+  "title":"Awareness Agent Evaluation Perspective",
+  "description":"Object representing an evaluation perspective.",
+  "type":"object",
+  "properties":{
+    "perspectiveId":{
+      "title":"Perspective ID",
+      "description":"A string identifying the perspective",
+      "type":"string"
+    },
+    "perspectiveName":{
+      "title":"Perspective Name",
+      "description":"The name of the perspective",
+      "type":"string"
+    },
+    "perspectiveText":{
+      "title":"Perspective Text",
+      "description":"Textual description of the perspective to apply",
+      "type":"string"
+    }
+  },
+  "required":[
+    "perspectiveId",
+    "perspectiveName",
+    "perspectiveText"
+  ]
+}

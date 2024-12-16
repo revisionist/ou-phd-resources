@@ -1,0 +1,87 @@
+{
+  "$id":"https://parse.net/awag/0.1/record-evaluation-failure.schema.json",
+  "$schema":"http://json-schema.org/2020-12/schema#",
+  "title":"AwAg Evaluation Failure Recording",
+  "description":"Contains the details of an evaluation failure, including the query state, context, and relevant persona information.",
+  "type":"object",
+  "properties":{
+    "agent":{
+      "title":"Agent ID",
+      "type":"string",
+      "description":"Agent ID for the agent performing the operation"
+    },
+    "queryState":{
+      "title":"Query State",
+      "description":"The query state taken from the OpenAI response, including response code, finish reason, actual token usage etc.",
+      "type":"object"
+    },
+    "maxTokens":{
+      "title":"Max Tokens",
+      "type":"integer"
+    },
+    "model":{
+      "title":"Model",
+      "type":"string",
+      "description":"The OpenAI model used for the query"
+    },
+    "promptQueryJson":{
+      "title":"Prompt Query JSON",
+      "description":"The full prompt supplied to the API in JSON format",
+      "type":"object"
+    },
+    "contextIdentifier":{
+      "title":"Context ID",
+      "type":"string",
+      "description":"Unique Context ID for the query"
+    },
+    "evaluationPersona":{
+      "$ref":"https://parse.net/awag/0.1/persona.schema.json"
+    },
+    "evaluationPerspectives":{
+      "title":"Evaluation Perspectives",
+      "description":"The list of perspectives used for evaluating items",
+      "type":"array",
+      "items":{
+        "$ref":"https://parse.net/awag/0.1/perspective.schema.json"
+      }
+    },
+    "responseText":{
+      "title":"Response Text",
+      "type":"string",
+      "description":"The raw response text received back from OpenAI - this may or may not be parseable JSON"
+    },
+    "items":{
+      "title":"Evaluated Item IDs",
+      "type":"array",
+      "items":{
+        "type":"string"
+      },
+      "description":"List of Content Item IDs involved in the query"
+    },
+    "itemCount":{
+      "title":"Item Count",
+      "type":"integer",
+      "description":"Count of Content Items in the query"
+    },
+    "statusCode":{
+      "title":"Status Code",
+      "type":"integer",
+      "description":"HTTP status code of the response"
+    }
+  },
+  "required":[
+    "agent",
+    "queryState",
+    "maxTokens",
+    "model",
+    "promptQueryJson",
+    "contextIdentifier",
+    "evaluationPersona",
+    "evaluationPerspectives",
+    "responseText",
+    "rawReponseText",
+    "items",
+    "itemCount",
+    "statusCode"
+  ]
+}
