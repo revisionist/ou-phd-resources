@@ -1,0 +1,32 @@
+{
+   "use_history": true,
+   "openai_model": "{{openai_model_sim}}",
+   "dramatis_personae": "{{phoebe_work_dramatis_personae}}",
+   "entities":"{{phoebe_work_entities}}",
+   "topics":[
+      {
+         "category":"phoebe-work-team",
+         "enabled": true,
+         "items_multiplier": 2,
+         "topic":"Company messenger application chat at Brightstone Accountancy Firm, the workplace of our fictional protagonist, Phoebe Aldridge.  This chat is general workplace discussion among members of Phoebe's immediate work team, consisting of her manager and fellow fast-track graduates.  Topics should include discussions related to work in general but not specific client details.  This can include client-related discussions such as requests for help, lunch arrangements, work social events and other topics that you might expect to be discussed in a team within a large London accountancy firm.  While a list of some colleagues and clients is provided, you should also generate fictional names to reference in messages.  Phoebe lives in London, where the company has its main offices.  Message content should be unique and not duplicated.  The tone of the messages should be informal British English with British spellings."
+      },
+      {
+         "category":"phoebe-work-fasttrack",
+         "enabled": true,
+         "items_multiplier": 2,
+         "topic":"Company messenger application chat at Brightstone Accountancy Firm, the workplace of our fictional protagonist, Phoebe Aldridge.  This chat is workplace discussion relating to the fast track programme that Phoebe is on.  Members of the chat include fast track participants, mentors, and administrators.  Topics should relate to the programme and include requests for advice, discussion of experiences, talk about job rotations, and social gatherings.  Include in the messages some announcements from fast track leadership or administrators; these announcements should range from low importance to high importance/urgent.  While a list of some colleagues and clients is provided, you should also generate fictional names to reference in messages.  Phoebe lives in London, where the company has its main offices.  Message content should be unique and not duplicated.  The tone of the messages should be informal British English with British spellings."
+      },
+      {
+         "category":"phoebe-work-manager",
+         "enabled": true,
+         "items_multiplier": 2,
+         "topic":"Company messenger application chat at Brightstone Accountancy Firm, the workplace of our fictional protagonist, Phoebe Aldridge.  This chat is workplace discussion between Phoebe and her manager Megan Foster.  Include only messages by Phoebe and Megan in this chat.  Topics should be the usual ones you would expect an employee and manager to discuss.  Messages should range from low importance to high importance/urgent.  While a list of some colleagues and clients is provided, you should also generate fictional names to reference in messages.  Phoebe lives in London, where the company has its main offices; she sometimes needs to travel for work.  Message content should be unique and not duplicated.  The tone of the messages should be informal British English with British spellings."
+      },
+      {
+         "category":"phoebe-work-announce",
+         "enabled": true,
+         "items_multiplier": 1,
+         "topic":"Company messenger application chat at Brightstone Accountancy Firm, the workplace of our fictional protagonist, Phoebe Aldridge.  This chat is company-wide internal announcements, with messages only coming from senior leadership (or their assistants) or an impersonal announcements account.  Topics include client-related announcements (i.e. new clients, project successes), senior appointments, compliance-related communications, recognising individual successes etc.  Messages should range from low importance to high importance/urgent.  While a list of some colleagues and clients is provided, you should also generate fictional names to reference in messages.  Message content should be unique and not duplicated.  The tone of the messages should be formal British business English with British spellings."
+      }
+   ]
+}

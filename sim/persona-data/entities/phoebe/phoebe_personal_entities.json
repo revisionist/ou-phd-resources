@@ -1,0 +1,95 @@
+[
+   {
+      "name":"Brightstone Accountancy Firm",
+      "also_known_as":[
+         "Brightstone",
+         "BAF"
+      ],
+      "type":"Company",
+      "notes":"Phoebe works for Brightstone Accountancy Firm in London, where she is on the management fast track",
+      "people":[
+         {
+            "name":"Tom Bradley",
+            "role":"Colleague and friend on the fast-track programme"
+         },
+         {
+            "name":"Megan Foster",
+            "role":"Phoebe's manager"
+         },
+         {
+            "name":"Priya Patel",
+            "role":"Finance Analyst and close colleague"
+         },
+         {
+            "name":"Zara Taylor",
+            "role":"Graduate trainee and team member"
+         }
+      ]
+   },
+   {
+      "name":"Borsetshire University",
+      "also_known_as":[
+         "BU"
+      ],
+      "type":"University",
+      "notes":"Phoebe attended the University of Borsetshire, studying chemistry. She has strong ties to her university friends",
+      "people":[
+         {
+            "name":"Sophie Davies",
+            "role":"University friend and chemistry lab partner"
+         },
+         {
+            "name":"Hassan Malik",
+            "role":"University friend; shared study group"
+         },
+         {
+            "name":"Linda Nguyen",
+            "role":"University flatmate and close friend"
+         },
+         {
+            "name":"Chris Robinson",
+            "role":"Shared university housing and weekend trips friend"
+         }
+      ]
+   },
+   {
+      "name":"The Crown",
+      "also_known_as":[
+         "The Crown Pub"
+      ],
+      "type":"Venue",
+      "notes":"A favourite pub in London where Phoebe and her friends often meet after work",
+      "people":[
+         {
+            "name":"Alice Carter",
+            "role":"Phoebe's sister who occasionally joins these gatherings"
+         }
+      ]
+   },
+   {
+      "name":"The Vine Chelsea Garden",
+      "also_known_as":[
+         "The Vine",
+         "Chelsea Garden"
+      ],
+      "type":"Venue",
+      "notes":"A social spot where Phoebe and her university friends meet for brunch or celebrations",
+      "people":[
+         
+      ]
+   },
+   {
+      "name":"Soho House",
+      "also_known_as":[
+         "Soho"
+      ],
+      "type":"Venue",
+      "notes":"A members-only club in London where Phoebe sometimes attends events or socialises with work colleagues",
+      "people":[
+         {
+            "name":"Zara Taylor",
+            "role":"Colleague who often attends events with Phoebe"
+         }
+      ]
+   }
+]

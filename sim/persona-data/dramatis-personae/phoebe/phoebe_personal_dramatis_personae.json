@@ -1,0 +1,200 @@
+[
+   {
+      "name":"family",
+      "description":"Members of Phoebe's immediate family",
+      "members":[
+         {
+            "surname":"Craig",
+            "firstname":"Ian",
+            "userid":"ian",
+            "role":"Phoebe's brother-in-law; works as chef in Grey Gables Hotel"
+         },
+         {
+            "surname":"Aldridge",
+            "firstname":"Brian",
+            "userid":"brian",
+            "role":"Phoebe's father; runs Brookfield Farm"
+         },
+         {
+            "surname":"Aldridge",
+            "firstname":"Jennifer",
+            "userid":"jennifer",
+            "role":"Phoebe's mother; runs Brookfield Farm"
+         },
+         {
+            "surname":"Aldridge",
+            "firstname":"Adam",
+            "userid":"adam",
+            "role":"Phoebe's older brother; married to Ian"
+         },
+         {
+            "surname":"Aldridge",
+            "firstname":"Debbie",
+            "userid":"debbie",
+            "role":"Phoebe's sister; lives and works abroad but they are close"
+         },
+         {
+            "surname":"Aldridge",
+            "firstname":"Kate",
+            "userid":"kate",
+            "role":"Phoebe's sister; has reputation as black horse of family"
+         },
+         {
+            "surname":"Carter",
+            "firstname":"Alice",
+            "userid":"alice",
+            "role":"Phoebe's younger sister; lives in London now"
+         },
+         {
+            "surname":"Archer",
+            "firstname":"Tony",
+            "userid":"tony",
+            "role":"Phoebe's uncle; sometimes argues with Brian"
+         },
+         {
+            "surname":"Archer",
+            "firstname":"Lillian",
+            "userid":"lillian",
+            "role":"Phoebe's aunt; is a lot of fun but sometimes difficult"
+         },
+         {
+            "surname":"Woolley",
+            "firstname":"Peggy",
+            "userid":"peggy",
+            "role":"Phoebe's grandmother; family matriarch; lives at The Lodge, where people often drop in to visit her"
+         }
+      ]
+   },
+   {
+      "name":"friends-borsetshire",
+      "description":"Friends and acquaintances of Phoebe Aldridge from her family home area of Borsetshire",
+      "members":[
+         {
+            "surname":"Grundy",
+            "firstname":"Will",
+            "userid":"will",
+            "role":"Childhood friend; now works locally in Ambridge"
+         },
+         {
+            "surname":"Grundy",
+            "firstname":"Ed",
+            "userid":"ed",
+            "role":"Childhood friend; sibling of Will Grundy"
+         },
+         {
+            "surname":"McCreary",
+            "firstname":"Jack",
+            "userid":"jazzer",
+            "role":"Also know as Jazzer; local musician"
+         },
+         {
+            "surname":"Hebden Lloyd",
+            "firstname":"Shula",
+            "userid":"shula",
+            "role":"Longtime family friend"
+         },
+         {
+            "surname":"Pargetter",
+            "firstname":"Elizabeth",
+            "userid":"liz",
+            "role":"Owns the local stately home, mother of Freddie and Lily"
+         },
+         {
+            "surname":"Pargetter",
+            "firstname":"Freddie",
+            "userid":"freddie",
+            "role":"Friend from school; son of Elizabeth Pargetter"
+         },
+         {
+            "surname":"Pargetter",
+            "firstname":"Lily",
+            "userid":"lily",
+            "role":"Friend from school; daughter of Elizabeth Pargetter"
+         },
+         {
+            "surname":"Rogers",
+            "firstname":"Fallon",
+            "userid":"fallon",
+            "role":"Owns the local pub, the Black Bull"
+         },
+         {
+            "surname":"Burns",
+            "firstname":"Harrison",
+            "userid":"harrison",
+            "role":"Local police officer"
+         },
+         {
+            "surname":"Fairbrother",
+            "firstname":"Rex",
+            "userid":"rex",
+            "role":"Childhood acquaintance; local entrepreneur"
+         },
+         {
+            "surname":"Fairbrother",
+            "firstname":"Toby",
+            "userid":"toby",
+            "role":"Childhood acquaintance; sibling of Rex Fairbrother"
+         },
+         {
+            "surname":"Tucker",
+            "firstname":"Roy",
+            "userid":"roy",
+            "role":"Manager of Grey Gables Hotel"
+         }
+      ]
+   },
+   {
+      "name":"friends-university",
+      "description":"University friends Phoebe stays in touch with",
+      "members":[
+         {
+            "surname":"Davies",
+            "firstname":"Sophie",
+            "userid":"sophie_d",
+            "role":"Close university friend and chemistry lab partner"
+         },
+         {
+            "surname":"Malik",
+            "firstname":"Hassan",
+            "userid":"hmalik",
+            "role":"University friend; shared study group"
+         },
+         {
+            "surname":"Nguyen",
+            "firstname":"Linda",
+            "userid":"lnguyen",
+            "role":"University friend; flatmate"
+         },
+         {
+            "surname":"Robinson",
+            "firstname":"Chris",
+            "userid":"crobinson",
+            "role":"Shared university housing and weekend trips friend"
+         }
+      ]
+   },
+   {
+      "name":"friends-work",
+      "description":"Work friends Phoebe is close to",
+      "members":[
+         {
+            "surname":"Foster",
+            "firstname":"Megan",
+            "userid":"mfoster",
+            "role":"Colleague and friend on the fast-track program"
+         },
+         {
+            "surname":"Patel",
+            "firstname":"Priya",
+            "userid":"ppatel",
+            "role":"Close work friend and finance analyst"
+         },
+         {
+            "surname":"Taylor",
+            "firstname":"Zara",
+            "userid":"ztaylor",
+            "role":"Graduate trainee and work friend"
+         }
+      ]
+   }
+]

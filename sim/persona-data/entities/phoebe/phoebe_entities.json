@@ -1,0 +1,88 @@
+[
+    {
+        "name": "Brightstone Accountancy Firm",
+        "also_known_as": [
+            "Brightstone",
+            "BAF"
+        ],
+        "type": "Employer",
+        "notes": "Phoebe's accountancy firm in London where she is on the management fast track. It offers rotational roles across departments for career growth.",
+        "people": [
+            {
+                "name": "James Carter",
+                "role": "Senior Manager and Phoebe's mentor"
+            },
+            {
+                "name": "Laura Mitchell",
+                "role": "Head of HR"
+            },
+            {
+                "name": "Megan Foster",
+                "role": "Colleague on the fast-track program"
+            }
+        ]
+    },
+    {
+        "name": "Fast Track Alumni Network",
+        "type": "Group",
+        "notes": "An internal group at Brightstone where current and past fast-track employees share advice, updates, and opportunities.",
+        "people": [
+            {
+                "name": "Aiden Turner",
+                "role": "Alumni representative"
+            },
+            {
+                "name": "Sarah Green",
+                "role": "Management trainer"
+            }
+        ]
+    },
+    {
+        "name": "Felix & Co.",
+        "type": "Client",
+        "notes": "A medium-sized retail client that Phoebe worked with during one of her rotations.",
+        "people": [
+            {
+                "name": "Tom Jacobs",
+                "role": "Finance Director"
+            },
+            {
+                "name": "Emily Clarke",
+                "role": "Account Manager"
+            }
+        ]
+    },
+    {
+        "name": "University of Manchester Chemistry Society",
+        "also_known_as": [
+            "UM ChemSoc"
+        ],
+        "type": "Alumni Group",
+        "notes": "Phoebe's university society where she still keeps in touch with old classmates and participates in alumni events.",
+        "people": [
+            {
+                "name": "Sophie Davies",
+                "role": "Friend and society treasurer"
+            },
+            {
+                "name": "Hassan Malik",
+                "role": "Fellow alumni and friend"
+            }
+        ]
+    },
+    {
+        "name": "Wimbledon Tennis Club",
+        "type": "Club",
+        "notes": "Phoebe\u2019s occasional recreational activity with friends.",
+        "people": [
+            {
+                "name": "John Blake",
+                "role": "Tennis coach"
+            },
+            {
+                "name": "Rachel Moore",
+                "role": "Social committee organizer"
+            }
+        ]
+    }
+]

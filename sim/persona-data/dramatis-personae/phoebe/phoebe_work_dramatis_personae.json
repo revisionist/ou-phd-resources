@@ -1,0 +1,236 @@
+[
+   {
+      "name":"work-team",
+      "description":"Phoebe's immediate team and manager, mainly fast track graduates and direct colleagues.",
+      "members":[
+         {
+            "surname":"Foster",
+            "firstname":"Megan",
+            "userid":"mfoster",
+            "role":"Phoebe's manager"
+         },
+         {
+            "surname":"Patel",
+            "firstname":"Priya",
+            "userid":"ppatel",
+            "role":"Finance Analyst"
+         },
+         {
+            "surname":"Bradley",
+            "firstname":"Tom",
+            "userid":"tbradley",
+            "role":"Fast Track colleague"
+         },
+         {
+            "surname":"Taylor",
+            "firstname":"Zara",
+            "userid":"ztaylor",
+            "role":"Graduate Analyst"
+         },
+         {
+            "surname":"Lee",
+            "firstname":"Chris",
+            "userid":"clee",
+            "role":"Data Specialist"
+         },
+         {
+            "surname":"Walker",
+            "firstname":"Tanya",
+            "userid":"twalker",
+            "role":"Junior Accountant"
+         },
+         {
+            "surname":"Parker",
+            "firstname":"Elliot",
+            "userid":"eparker",
+            "role":"Fast Track colleague"
+         }
+      ]
+   },
+   {
+      "name":"work-exec",
+      "description":"Company leadership, executives, and key decision-makers",
+      "members":[
+         {
+            "surname":"Harris",
+            "firstname":"George",
+            "userid":"gharris",
+            "role":"Leading Partner"
+         },
+         {
+            "surname":"Carter",
+            "firstname":"James",
+            "userid":"jcarter",
+            "role":"Senior Manager and Phoebe's mentor"
+         },
+         {
+            "surname":"Mitchell",
+            "firstname":"Laura",
+            "userid":"lmitchell",
+            "role":"Head of HR"
+         },
+         {
+            "surname":"Evans",
+            "firstname":"Daniel",
+            "userid":"devans",
+            "role":"Head of Risk Management"
+         },
+         {
+            "surname":"Wright",
+            "firstname":"Sophia",
+            "userid":"swright",
+            "role":"Senior Consultant"
+         },
+         {
+            "surname":"Scott",
+            "firstname":"Olivia",
+            "userid":"oscott",
+            "role":"PA to George Harris"
+         },
+         {
+            "surname":"Reid",
+            "firstname":"Alex",
+            "userid":"areid",
+            "role":"Head of Compliance"
+         },
+         {
+            "surname":"Thompson",
+            "firstname":"Emma",
+            "userid":"ethompson",
+            "role":"Chief Operating Officer"
+         },
+         {
+            "surname":"Khan",
+            "firstname":"Amir",
+            "userid":"akhan",
+            "role":"Chief Financial Officer"
+         }
+      ]
+   },
+   {
+      "name":"work-other",
+      "description":"Other employees in the company Phoebe interacts with occasionally",
+      "members":[
+         {
+            "surname":"Nguyen",
+            "firstname":"Alex",
+            "userid":"anguyen",
+            "role":"IT Manager"
+         },
+         {
+            "surname":"Wilson",
+            "firstname":"Hannah",
+            "userid":"hwilson",
+            "role":"Junior Auditor"
+         },
+         {
+            "surname":"Clark",
+            "firstname":"David",
+            "userid":"dclark",
+            "role":"Project Coordinator"
+         },
+         {
+            "surname":"Brown",
+            "firstname":"Jessica",
+            "userid":"jbrown",
+            "role":"Office Administrator"
+         },
+         {
+            "surname":"Smith",
+            "firstname":"Oliver",
+            "userid":"osmith",
+            "role":"Marketing Specialist"
+         },
+         {
+            "surname":"Garcia",
+            "firstname":"Maria",
+            "userid":"mgarcia",
+            "role":"Recruitment Officer"
+         },
+         {
+            "surname":"Ahmed",
+            "firstname":"Laila",
+            "userid":"lahmed",
+            "role":"Finance Assistant"
+         },
+         {
+            "surname":"Jones",
+            "firstname":"Ethan",
+            "userid":"ejones",
+            "role":"Accounts Payable Clerk"
+         },
+         {
+            "surname":"Taylor",
+            "firstname":"Rebecca",
+            "userid":"rtaylor",
+            "role":"Accounts Receivable Clerk"
+         },
+         {
+            "surname":"Lewis",
+            "firstname":"Henry",
+            "userid":"hlewis",
+            "role":"Internal Auditor"
+         },
+         {
+            "surname":"Martin",
+            "firstname":"Grace",
+            "userid":"gmartin",
+            "role":"Junior Accountant"
+         },
+         {
+            "surname":"Walker",
+            "firstname":"Sophie",
+            "userid":"swalker",
+            "role":"Payroll Specialist"
+         },
+         {
+            "surname":"White",
+            "firstname":"Daniel",
+            "userid":"dwhite",
+            "role":"Tax Consultant"
+         },
+         {
+            "surname":"Green",
+            "firstname":"Rachel",
+            "userid":"rgreen",
+            "role":"Corporate Trainer"
+         },
+         {
+            "surname":"Turner",
+            "firstname":"Samuel",
+            "userid":"sturner",
+            "role":"IT Support Technician"
+         },
+         {
+            "surname":"Lopez",
+            "firstname":"Anna",
+            "userid":"alopez",
+            "role":"Legal Advisor"
+         },
+         {
+            "surname":"Davis",
+            "firstname":"Nathan",
+            "userid":"ndavis",
+            "role":"Business Analyst"
+         },
+         {
+            "surname":"Hill",
+            "firstname":"Freya",
+            "userid":"fhill",
+            "role":"Operations Assistant"
+         },
+         {
+            "surname":"Bell",
+            "firstname":"Matthew",
+            "userid":"mbell",
+            "role":"Junior Consultant"
+         },
+         {
+            "surname":"Ward",
+            "firstname":"Ella",
+            "userid":"eward",
+            "role":"Project Intern"
+         }
+      ]
+   }
+]
