@@ -1,0 +1,1 @@
+These are empty versions of the Awareness Agent and Object Store databases, containing table structures but no data.  A full version of the AwAg database containing data for the study is located at: https://doi.org/10.21954/ou.rd.28238225
