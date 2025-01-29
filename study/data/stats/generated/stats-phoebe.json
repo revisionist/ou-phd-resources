@@ -1,0 +1,2578 @@
+{
+    "filters":{
+        "agent_id":"27fd8525-d4dc-4acb-ae0f-3d93c3f4344f",
+        "tag_main":"phase2",
+        "tags_eval":[
+            "phase2-vanilla4-mode2-01",
+            "phase2-vanilla4o-mode2-01",
+            "phase2-vanilla4-mode3-01",
+            "phase2-vanilla4o-mode3-01"
+        ],
+        "persona_id":null,
+        "perspective_id":null
+    },
+    "statistics":{
+        "percent_of_classification_manual_agrees":{
+            "ALL":{
+                "ALL":{
+                    "count_items":3876,
+                    "count_agree":3535,
+                    "percentage_agree":91.2,
+                    "dataset_size":7750
+                },
+                "friend-group":{
+                    "count_items":646,
+                    "count_agree":575,
+                    "percentage_agree":89.01,
+                    "dataset_size":1291
+                },
+                "personal-interested":{
+                    "count_items":646,
+                    "count_agree":567,
+                    "percentage_agree":87.77,
+                    "dataset_size":1292
+                },
+                "urgency":{
+                    "count_items":646,
+                    "count_agree":609,
+                    "percentage_agree":94.27,
+                    "dataset_size":1292
+                },
+                "work-logistics":{
+                    "count_items":646,
+                    "count_agree":622,
+                    "percentage_agree":96.28,
+                    "dataset_size":1292
+                },
+                "work-pers":{
+                    "count_items":646,
+                    "count_agree":586,
+                    "percentage_agree":90.71,
+                    "dataset_size":1291
+                },
+                "work-relevant":{
+                    "count_items":646,
+                    "count_agree":576,
+                    "percentage_agree":89.16,
+                    "dataset_size":1292
+                }
+            },
+            "TIMESERIES":{
+                "ALL":{
+                    "2025-01-05":{
+                        "count_items":366,
+                        "count_agree":338,
+                        "percentage_agree":92.35
+                    },
+                    "2025-01-06":{
+                        "count_items":420,
+                        "count_agree":363,
+                        "percentage_agree":86.43
+                    },
+                    "2025-01-07":{
+                        "count_items":426,
+                        "count_agree":387,
+                        "percentage_agree":90.85
+                    },
+                    "2025-01-08":{
+                        "count_items":132,
+                        "count_agree":118,
+                        "percentage_agree":89.39
+                    },
+                    "2025-01-09":{
+                        "count_items":852,
+                        "count_agree":773,
+                        "percentage_agree":90.73
+                    },
+                    "2025-01-10":{
+                        "count_items":1392,
+                        "count_agree":1285,
+                        "percentage_agree":92.31
+                    },
+                    "2025-01-11":{
+                        "count_items":288,
+                        "count_agree":271,
+                        "percentage_agree":94.1
+                    }
+                },
+                "friend-group":{
+                    "2025-01-05":{
+                        "count_items":61,
+                        "count_agree":54,
+                        "percentage_agree":88.52
+                    },
+                    "2025-01-06":{
+                        "count_items":70,
+                        "count_agree":61,
+                        "percentage_agree":87.14
+                    },
+                    "2025-01-07":{
+                        "count_items":71,
+                        "count_agree":64,
+                        "percentage_agree":90.14
+                    },
+                    "2025-01-08":{
+                        "count_items":22,
+                        "count_agree":20,
+                        "percentage_agree":90.91
+                    },
+                    "2025-01-09":{
+                        "count_items":142,
+                        "count_agree":114,
+                        "percentage_agree":80.28
+                    },
+                    "2025-01-10":{
+                        "count_items":232,
+                        "count_agree":217,
+                        "percentage_agree":93.53
+                    },
+                    "2025-01-11":{
+                        "count_items":48,
+                        "count_agree":45,
+                        "percentage_agree":93.75
+                    }
+                },
+                "personal-interested":{
+                    "2025-01-05":{
+                        "count_items":61,
+                        "count_agree":50,
+                        "percentage_agree":81.97
+                    },
+                    "2025-01-06":{
+                        "count_items":70,
+                        "count_agree":56,
+                        "percentage_agree":80.0
+                    },
+                    "2025-01-07":{
+                        "count_items":71,
+                        "count_agree":65,
+                        "percentage_agree":91.55
+                    },
+                    "2025-01-08":{
+                        "count_items":22,
+                        "count_agree":19,
+                        "percentage_agree":86.36
+                    },
+                    "2025-01-09":{
+                        "count_items":142,
+                        "count_agree":131,
+                        "percentage_agree":92.25
+                    },
+                    "2025-01-10":{
+                        "count_items":232,
+                        "count_agree":203,
+                        "percentage_agree":87.5
+                    },
+                    "2025-01-11":{
+                        "count_items":48,
+                        "count_agree":43,
+                        "percentage_agree":89.58
+                    }
+                },
+                "urgency":{
+                    "2025-01-05":{
+                        "count_items":61,
+                        "count_agree":58,
+                        "percentage_agree":95.08
+                    },
+                    "2025-01-06":{
+                        "count_items":70,
+                        "count_agree":65,
+                        "percentage_agree":92.86
+                    },
+                    "2025-01-07":{
+                        "count_items":71,
+                        "count_agree":64,
+                        "percentage_agree":90.14
+                    },
+                    "2025-01-08":{
+                        "count_items":22,
+                        "count_agree":20,
+                        "percentage_agree":90.91
+                    },
+                    "2025-01-09":{
+                        "count_items":142,
+                        "count_agree":137,
+                        "percentage_agree":96.48
+                    },
+                    "2025-01-10":{
+                        "count_items":232,
+                        "count_agree":220,
+                        "percentage_agree":94.83
+                    },
+                    "2025-01-11":{
+                        "count_items":48,
+                        "count_agree":45,
+                        "percentage_agree":93.75
+                    }
+                },
+                "work-logistics":{
+                    "2025-01-05":{
+                        "count_items":61,
+                        "count_agree":60,
+                        "percentage_agree":98.36
+                    },
+                    "2025-01-06":{
+                        "count_items":70,
+                        "count_agree":62,
+                        "percentage_agree":88.57
+                    },
+                    "2025-01-07":{
+                        "count_items":71,
+                        "count_agree":70,
+                        "percentage_agree":98.59
+                    },
+                    "2025-01-08":{
+                        "count_items":22,
+                        "count_agree":21,
+                        "percentage_agree":95.45
+                    },
+                    "2025-01-09":{
+                        "count_items":142,
+                        "count_agree":136,
+                        "percentage_agree":95.77
+                    },
+                    "2025-01-10":{
+                        "count_items":232,
+                        "count_agree":226,
+                        "percentage_agree":97.41
+                    },
+                    "2025-01-11":{
+                        "count_items":48,
+                        "count_agree":47,
+                        "percentage_agree":97.92
+                    }
+                },
+                "work-pers":{
+                    "2025-01-05":{
+                        "count_items":61,
+                        "count_agree":57,
+                        "percentage_agree":93.44
+                    },
+                    "2025-01-06":{
+                        "count_items":70,
+                        "count_agree":63,
+                        "percentage_agree":90.0
+                    },
+                    "2025-01-07":{
+                        "count_items":71,
+                        "count_agree":62,
+                        "percentage_agree":87.32
+                    },
+                    "2025-01-08":{
+                        "count_items":22,
+                        "count_agree":17,
+                        "percentage_agree":77.27
+                    },
+                    "2025-01-09":{
+                        "count_items":142,
+                        "count_agree":132,
+                        "percentage_agree":92.96
+                    },
+                    "2025-01-10":{
+                        "count_items":232,
+                        "count_agree":209,
+                        "percentage_agree":90.09
+                    },
+                    "2025-01-11":{
+                        "count_items":48,
+                        "count_agree":46,
+                        "percentage_agree":95.83
+                    }
+                },
+                "work-relevant":{
+                    "2025-01-05":{
+                        "count_items":61,
+                        "count_agree":59,
+                        "percentage_agree":96.72
+                    },
+                    "2025-01-06":{
+                        "count_items":70,
+                        "count_agree":56,
+                        "percentage_agree":80.0
+                    },
+                    "2025-01-07":{
+                        "count_items":71,
+                        "count_agree":62,
+                        "percentage_agree":87.32
+                    },
+                    "2025-01-08":{
+                        "count_items":22,
+                        "count_agree":21,
+                        "percentage_agree":95.45
+                    },
+                    "2025-01-09":{
+                        "count_items":142,
+                        "count_agree":123,
+                        "percentage_agree":86.62
+                    },
+                    "2025-01-10":{
+                        "count_items":232,
+                        "count_agree":210,
+                        "percentage_agree":90.52
+                    },
+                    "2025-01-11":{
+                        "count_items":48,
+                        "count_agree":45,
+                        "percentage_agree":93.75
+                    }
+                }
+            }
+        },
+        "cohens_kappa_for_manual_classification_agreement":{
+            "ALL":{
+                "kappa_score":0.827
+            },
+            "friend-group":{
+                "kappa_score":0.743
+            },
+            "personal-interested":{
+                "kappa_score":0.696
+            },
+            "urgency":{
+                "kappa_score":0.596
+            },
+            "work-logistics":{
+                "kappa_score":0.687
+            },
+            "work-pers":{
+                "kappa_score":0.792
+            },
+            "work-relevant":{
+                "kappa_score":0.68
+            }
+        },
+        "pearsonr_for_eval_feedback":{
+            "ALL":{
+                "('phase2-vanilla4-mode2-01', 'correlation')":0.786,
+                "('phase2-vanilla4-mode2-01', 'p_value')":0.0,
+                "('phase2-vanilla4-mode2-01', 'item_count')":120,
+                "('phase2-vanilla4o-mode2-01', 'correlation')":0.881,
+                "('phase2-vanilla4o-mode2-01', 'p_value')":0.0,
+                "('phase2-vanilla4o-mode2-01', 'item_count')":150
+            },
+            "friend-group":{
+                "('phase2-vanilla4-mode2-01', 'correlation')":0.661,
+                "('phase2-vanilla4-mode2-01', 'p_value')":0.0015,
+                "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                "('phase2-vanilla4o-mode2-01', 'correlation')":0.811,
+                "('phase2-vanilla4o-mode2-01', 'p_value')":0.0,
+                "('phase2-vanilla4o-mode2-01', 'item_count')":25
+            },
+            "personal-interested":{
+                "('phase2-vanilla4-mode2-01', 'correlation')":0.875,
+                "('phase2-vanilla4-mode2-01', 'p_value')":0.0,
+                "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                "('phase2-vanilla4o-mode2-01', 'correlation')":0.614,
+                "('phase2-vanilla4o-mode2-01', 'p_value')":0.0011,
+                "('phase2-vanilla4o-mode2-01', 'item_count')":25
+            },
+            "urgency":{
+                "('phase2-vanilla4-mode2-01', 'correlation')":0.532,
+                "('phase2-vanilla4-mode2-01', 'p_value')":0.0157,
+                "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                "('phase2-vanilla4o-mode2-01', 'correlation')":0.693,
+                "('phase2-vanilla4o-mode2-01', 'p_value')":0.0001,
+                "('phase2-vanilla4o-mode2-01', 'item_count')":25
+            },
+            "work-logistics":{
+                "('phase2-vanilla4-mode2-01', 'correlation')":0.802,
+                "('phase2-vanilla4-mode2-01', 'p_value')":0.0,
+                "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                "('phase2-vanilla4o-mode2-01', 'correlation')":0.896,
+                "('phase2-vanilla4o-mode2-01', 'p_value')":0.0,
+                "('phase2-vanilla4o-mode2-01', 'item_count')":25
+            },
+            "work-pers":{
+                "('phase2-vanilla4-mode2-01', 'correlation')":0.853,
+                "('phase2-vanilla4-mode2-01', 'p_value')":0.0,
+                "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                "('phase2-vanilla4o-mode2-01', 'correlation')":0.902,
+                "('phase2-vanilla4o-mode2-01', 'p_value')":0.0,
+                "('phase2-vanilla4o-mode2-01', 'item_count')":25
+            },
+            "work-relevant":{
+                "('phase2-vanilla4-mode2-01', 'correlation')":0.83,
+                "('phase2-vanilla4-mode2-01', 'p_value')":0.0,
+                "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                "('phase2-vanilla4o-mode2-01', 'correlation')":0.956,
+                "('phase2-vanilla4o-mode2-01', 'p_value')":0.0,
+                "('phase2-vanilla4o-mode2-01', 'item_count')":25
+            }
+        },
+        "pointbiserialr_for_eval_agreement":{
+            "ALL":{
+                "('phase2-vanilla4-mode2-01', 'correlation')":0.325,
+                "('phase2-vanilla4-mode2-01', 'p_value')":0.0,
+                "('phase2-vanilla4-mode2-01', 'item_count')":1009,
+                "('phase2-vanilla4o-mode2-01', 'correlation')":0.453,
+                "('phase2-vanilla4o-mode2-01', 'p_value')":0.0,
+                "('phase2-vanilla4o-mode2-01', 'item_count')":1050
+            },
+            "friend-group":{
+                "('phase2-vanilla4-mode2-01', 'correlation')":0.292,
+                "('phase2-vanilla4-mode2-01', 'p_value')":0.0001,
+                "('phase2-vanilla4-mode2-01', 'item_count')":168,
+                "('phase2-vanilla4o-mode2-01', 'correlation')":0.395,
+                "('phase2-vanilla4o-mode2-01', 'p_value')":0.0,
+                "('phase2-vanilla4o-mode2-01', 'item_count')":175
+            },
+            "personal-interested":{
+                "('phase2-vanilla4-mode2-01', 'correlation')":0.249,
+                "('phase2-vanilla4-mode2-01', 'p_value')":0.0011,
+                "('phase2-vanilla4-mode2-01', 'item_count')":168,
+                "('phase2-vanilla4o-mode2-01', 'correlation')":0.316,
+                "('phase2-vanilla4o-mode2-01', 'p_value')":0.0,
+                "('phase2-vanilla4o-mode2-01', 'item_count')":175
+            },
+            "urgency":{
+                "('phase2-vanilla4-mode2-01', 'correlation')":0.246,
+                "('phase2-vanilla4-mode2-01', 'p_value')":0.0013,
+                "('phase2-vanilla4-mode2-01', 'item_count')":168,
+                "('phase2-vanilla4o-mode2-01', 'correlation')":0.469,
+                "('phase2-vanilla4o-mode2-01', 'p_value')":0.0,
+                "('phase2-vanilla4o-mode2-01', 'item_count')":175
+            },
+            "work-logistics":{
+                "('phase2-vanilla4-mode2-01', 'correlation')":0.245,
+                "('phase2-vanilla4-mode2-01', 'p_value')":0.0014,
+                "('phase2-vanilla4-mode2-01', 'item_count')":168,
+                "('phase2-vanilla4o-mode2-01', 'correlation')":0.5,
+                "('phase2-vanilla4o-mode2-01', 'p_value')":0.0,
+                "('phase2-vanilla4o-mode2-01', 'item_count')":175
+            },
+            "work-pers":{
+                "('phase2-vanilla4-mode2-01', 'correlation')":0.442,
+                "('phase2-vanilla4-mode2-01', 'p_value')":0.0,
+                "('phase2-vanilla4-mode2-01', 'item_count')":169,
+                "('phase2-vanilla4o-mode2-01', 'correlation')":0.464,
+                "('phase2-vanilla4o-mode2-01', 'p_value')":0.0,
+                "('phase2-vanilla4o-mode2-01', 'item_count')":175
+            },
+            "work-relevant":{
+                "('phase2-vanilla4-mode2-01', 'correlation')":0.444,
+                "('phase2-vanilla4-mode2-01', 'p_value')":0.0,
+                "('phase2-vanilla4-mode2-01', 'item_count')":168,
+                "('phase2-vanilla4o-mode2-01', 'correlation')":0.561,
+                "('phase2-vanilla4o-mode2-01', 'p_value')":0.0,
+                "('phase2-vanilla4o-mode2-01', 'item_count')":175
+            }
+        },
+        "avg_and_spread_for_eval_difference":{
+            "ALL":{
+                "('phase2-vanilla4-mode2-01', 'average')":0.0,
+                "('phase2-vanilla4-mode2-01', 'stddev')":0.96,
+                "('phase2-vanilla4-mode2-01', 'median')":0,
+                "('phase2-vanilla4-mode2-01', 'mode')":[
+                    0
+                ],
+                "('phase2-vanilla4-mode2-01', 'counts')":{
+                    "-4":2,
+                    "-3":1,
+                    "-2":1,
+                    "-1":11,
+                    "0":92,
+                    "1":5,
+                    "2":6,
+                    "3":1,
+                    "4":1
+                },
+                "('phase2-vanilla4-mode2-01', 'item_count')":120,
+                "('phase2-vanilla4o-mode2-01', 'average')":0.11,
+                "('phase2-vanilla4o-mode2-01', 'stddev')":0.49,
+                "('phase2-vanilla4o-mode2-01', 'median')":0,
+                "('phase2-vanilla4o-mode2-01', 'mode')":[
+                    0
+                ],
+                "('phase2-vanilla4o-mode2-01', 'counts')":{
+                    "-2":1,
+                    "-1":5,
+                    "0":124,
+                    "1":17,
+                    "2":3
+                },
+                "('phase2-vanilla4o-mode2-01', 'item_count')":150
+            },
+            "friend-group":{
+                "('phase2-vanilla4-mode2-01', 'average')":-0.05,
+                "('phase2-vanilla4-mode2-01', 'stddev')":1.32,
+                "('phase2-vanilla4-mode2-01', 'median')":0,
+                "('phase2-vanilla4-mode2-01', 'mode')":[
+                    0
+                ],
+                "('phase2-vanilla4-mode2-01', 'counts')":{
+                    "-4":1,
+                    "-1":1,
+                    "0":17,
+                    "4":1
+                },
+                "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                "('phase2-vanilla4o-mode2-01', 'average')":0.12,
+                "('phase2-vanilla4o-mode2-01', 'stddev')":0.53,
+                "('phase2-vanilla4o-mode2-01', 'median')":0,
+                "('phase2-vanilla4o-mode2-01', 'mode')":[
+                    0
+                ],
+                "('phase2-vanilla4o-mode2-01', 'counts')":{
+                    "-1":1,
+                    "0":21,
+                    "1":2,
+                    "2":1
+                },
+                "('phase2-vanilla4o-mode2-01', 'item_count')":25
+            },
+            "personal-interested":{
+                "('phase2-vanilla4-mode2-01', 'average')":-0.05,
+                "('phase2-vanilla4-mode2-01', 'stddev')":0.69,
+                "('phase2-vanilla4-mode2-01', 'median')":0,
+                "('phase2-vanilla4-mode2-01', 'mode')":[
+                    0
+                ],
+                "('phase2-vanilla4-mode2-01', 'counts')":{
+                    "-2":1,
+                    "-1":1,
+                    "0":17,
+                    "2":1
+                },
+                "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                "('phase2-vanilla4o-mode2-01', 'average')":-0.04,
+                "('phase2-vanilla4o-mode2-01', 'stddev')":0.45,
+                "('phase2-vanilla4o-mode2-01', 'median')":0,
+                "('phase2-vanilla4o-mode2-01', 'mode')":[
+                    0
+                ],
+                "('phase2-vanilla4o-mode2-01', 'counts')":{
+                    "-2":1,
+                    "0":23,
+                    "1":1
+                },
+                "('phase2-vanilla4o-mode2-01', 'item_count')":25
+            },
+            "urgency":{
+                "('phase2-vanilla4-mode2-01', 'average')":-0.1,
+                "('phase2-vanilla4-mode2-01', 'stddev')":0.72,
+                "('phase2-vanilla4-mode2-01', 'median')":0,
+                "('phase2-vanilla4-mode2-01', 'mode')":[
+                    0
+                ],
+                "('phase2-vanilla4-mode2-01', 'counts')":{
+                    "-1":5,
+                    "0":13,
+                    "1":1,
+                    "2":1
+                },
+                "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                "('phase2-vanilla4o-mode2-01', 'average')":0.04,
+                "('phase2-vanilla4o-mode2-01', 'stddev')":0.35,
+                "('phase2-vanilla4o-mode2-01', 'median')":0,
+                "('phase2-vanilla4o-mode2-01', 'mode')":[
+                    0
+                ],
+                "('phase2-vanilla4o-mode2-01', 'counts')":{
+                    "-1":1,
+                    "0":22,
+                    "1":2
+                },
+                "('phase2-vanilla4o-mode2-01', 'item_count')":25
+            },
+            "work-logistics":{
+                "('phase2-vanilla4-mode2-01', 'average')":0.4,
+                "('phase2-vanilla4-mode2-01', 'stddev')":0.99,
+                "('phase2-vanilla4-mode2-01', 'median')":0,
+                "('phase2-vanilla4-mode2-01', 'mode')":[
+                    0
+                ],
+                "('phase2-vanilla4-mode2-01', 'counts')":{
+                    "-1":3,
+                    "0":10,
+                    "1":3,
+                    "2":4
+                },
+                "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                "('phase2-vanilla4o-mode2-01', 'average')":0.16,
+                "('phase2-vanilla4o-mode2-01', 'stddev')":0.47,
+                "('phase2-vanilla4o-mode2-01', 'median')":0,
+                "('phase2-vanilla4o-mode2-01', 'mode')":[
+                    0
+                ],
+                "('phase2-vanilla4o-mode2-01', 'counts')":{
+                    "0":22,
+                    "1":2,
+                    "2":1
+                },
+                "('phase2-vanilla4o-mode2-01', 'item_count')":25
+            },
+            "work-pers":{
+                "('phase2-vanilla4-mode2-01', 'average')":-0.15,
+                "('phase2-vanilla4-mode2-01', 'stddev')":0.93,
+                "('phase2-vanilla4-mode2-01', 'median')":0,
+                "('phase2-vanilla4-mode2-01', 'mode')":[
+                    0
+                ],
+                "('phase2-vanilla4-mode2-01', 'counts')":{
+                    "-4":1,
+                    "0":18,
+                    "1":1
+                },
+                "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                "('phase2-vanilla4o-mode2-01', 'average')":0.4,
+                "('phase2-vanilla4o-mode2-01', 'stddev')":0.58,
+                "('phase2-vanilla4o-mode2-01', 'median')":0,
+                "('phase2-vanilla4o-mode2-01', 'mode')":[
+                    0
+                ],
+                "('phase2-vanilla4o-mode2-01', 'counts')":{
+                    "0":16,
+                    "1":8,
+                    "2":1
+                },
+                "('phase2-vanilla4o-mode2-01', 'item_count')":25
+            },
+            "work-relevant":{
+                "('phase2-vanilla4-mode2-01', 'average')":-0.05,
+                "('phase2-vanilla4-mode2-01', 'stddev')":1.0,
+                "('phase2-vanilla4-mode2-01', 'median')":0,
+                "('phase2-vanilla4-mode2-01', 'mode')":[
+                    0
+                ],
+                "('phase2-vanilla4-mode2-01', 'counts')":{
+                    "-3":1,
+                    "-1":1,
+                    "0":17,
+                    "3":1
+                },
+                "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                "('phase2-vanilla4o-mode2-01', 'average')":-0.04,
+                "('phase2-vanilla4o-mode2-01', 'stddev')":0.45,
+                "('phase2-vanilla4o-mode2-01', 'median')":0,
+                "('phase2-vanilla4o-mode2-01', 'mode')":[
+                    0
+                ],
+                "('phase2-vanilla4o-mode2-01', 'counts')":{
+                    "-1":3,
+                    "0":20,
+                    "1":2
+                },
+                "('phase2-vanilla4o-mode2-01', 'item_count')":25
+            }
+        },
+        "phi_coefficient_for_mode3_agreement":{
+            "ALL":{
+                "('phase2-vanilla4-mode3-01', 'phi_coefficient')":0.352,
+                "('phase2-vanilla4-mode3-01', 'p_value')":0.0,
+                "('phase2-vanilla4-mode3-01', 'contingency_cells_desc')":{
+                    "disagree":{
+                        "both_disagree":81,
+                        "only_eval_disagree":179,
+                        "_note1":"In this case, the data is for 'disagree', where the mode3 eval and/or manual classification disagree with the evaluated classification",
+                        "_note2":"Where 'both_disagree', the mode3 eval matches the manual classification and is likely correct (true negative).  Where 'only_eval_disagree', the mode3 eval does not match with the manual classification and is likely incorrect (false negative)"
+                    },
+                    "agree":{
+                        "only_eval_agree":54,
+                        "both_agree":1198,
+                        "_note1":"In this case, the data is for 'agree', where the mode3 eval and/or manual classification agree with the evaluated classification",
+                        "_note2":"Where 'both_agree', the mode3 eval matches the manual classification and is likely correct (true positive).  Where 'only_eval_agree', the mode3 eval does not match with the manual classification and is likely incorrect (false positive)"
+                    }
+                },
+                "('phase2-vanilla4-mode3-01', 'contingency_cells_raw')":{
+                    "0":{
+                        "0":81,
+                        "1":179
+                    },
+                    "1":{
+                        "0":54,
+                        "1":1198
+                    }
+                },
+                "('phase2-vanilla4-mode3-01', 'counts')":{
+                    "total_items":1512,
+                    "matches":{
+                        "count":1279,
+                        "percentage":84.59
+                    },
+                    "mismatches":{
+                        "count":233,
+                        "percentage":15.41
+                    }
+                },
+                "('phase2-vanilla4o-mode3-01', 'phi_coefficient')":0.353,
+                "('phase2-vanilla4o-mode3-01', 'p_value')":0.0,
+                "('phase2-vanilla4o-mode3-01', 'contingency_cells_desc')":{
+                    "disagree":{
+                        "both_disagree":73,
+                        "only_eval_disagree":164,
+                        "_note1":"In this case, the data is for 'disagree', where the mode3 eval and/or manual classification disagree with the evaluated classification",
+                        "_note2":"Where 'both_disagree', the mode3 eval matches the manual classification and is likely correct (true negative).  Where 'only_eval_disagree', the mode3 eval does not match with the manual classification and is likely incorrect (false negative)"
+                    },
+                    "agree":{
+                        "only_eval_agree":49,
+                        "both_agree":1166,
+                        "_note1":"In this case, the data is for 'agree', where the mode3 eval and/or manual classification agree with the evaluated classification",
+                        "_note2":"Where 'both_agree', the mode3 eval matches the manual classification and is likely correct (true positive).  Where 'only_eval_agree', the mode3 eval does not match with the manual classification and is likely incorrect (false positive)"
+                    }
+                },
+                "('phase2-vanilla4o-mode3-01', 'contingency_cells_raw')":{
+                    "0":{
+                        "0":73,
+                        "1":164
+                    },
+                    "1":{
+                        "0":49,
+                        "1":1166
+                    }
+                },
+                "('phase2-vanilla4o-mode3-01', 'counts')":{
+                    "total_items":1452,
+                    "matches":{
+                        "count":1239,
+                        "percentage":85.33
+                    },
+                    "mismatches":{
+                        "count":213,
+                        "percentage":14.67
+                    }
+                }
+            },
+            "friend-group":{
+                "('phase2-vanilla4-mode3-01', 'phi_coefficient')":0.293,
+                "('phase2-vanilla4-mode3-01', 'p_value')":0.0,
+                "('phase2-vanilla4-mode3-01', 'contingency_cells_desc')":{
+                    "disagree":{
+                        "both_disagree":16,
+                        "only_eval_disagree":28,
+                        "_note1":"In this case, the data is for 'disagree', where the mode3 eval and/or manual classification disagree with the evaluated classification",
+                        "_note2":"Where 'both_disagree', the mode3 eval matches the manual classification and is likely correct (true negative).  Where 'only_eval_disagree', the mode3 eval does not match with the manual classification and is likely incorrect (false negative)"
+                    },
+                    "agree":{
+                        "only_eval_agree":18,
+                        "both_agree":190,
+                        "_note1":"In this case, the data is for 'agree', where the mode3 eval and/or manual classification agree with the evaluated classification",
+                        "_note2":"Where 'both_agree', the mode3 eval matches the manual classification and is likely correct (true positive).  Where 'only_eval_agree', the mode3 eval does not match with the manual classification and is likely incorrect (false positive)"
+                    }
+                },
+                "('phase2-vanilla4-mode3-01', 'contingency_cells_raw')":{
+                    "0":{
+                        "0":16,
+                        "1":28
+                    },
+                    "1":{
+                        "0":18,
+                        "1":190
+                    }
+                },
+                "('phase2-vanilla4-mode3-01', 'counts')":{
+                    "total_items":252,
+                    "matches":{
+                        "count":206,
+                        "percentage":81.75
+                    },
+                    "mismatches":{
+                        "count":46,
+                        "percentage":18.25
+                    }
+                },
+                "('phase2-vanilla4o-mode3-01', 'phi_coefficient')":0.37,
+                "('phase2-vanilla4o-mode3-01', 'p_value')":0.0,
+                "('phase2-vanilla4o-mode3-01', 'contingency_cells_desc')":{
+                    "disagree":{
+                        "both_disagree":16,
+                        "only_eval_disagree":21,
+                        "_note1":"In this case, the data is for 'disagree', where the mode3 eval and/or manual classification disagree with the evaluated classification",
+                        "_note2":"Where 'both_disagree', the mode3 eval matches the manual classification and is likely correct (true negative).  Where 'only_eval_disagree', the mode3 eval does not match with the manual classification and is likely incorrect (false negative)"
+                    },
+                    "agree":{
+                        "only_eval_agree":15,
+                        "both_agree":190,
+                        "_note1":"In this case, the data is for 'agree', where the mode3 eval and/or manual classification agree with the evaluated classification",
+                        "_note2":"Where 'both_agree', the mode3 eval matches the manual classification and is likely correct (true positive).  Where 'only_eval_agree', the mode3 eval does not match with the manual classification and is likely incorrect (false positive)"
+                    }
+                },
+                "('phase2-vanilla4o-mode3-01', 'contingency_cells_raw')":{
+                    "0":{
+                        "0":16,
+                        "1":21
+                    },
+                    "1":{
+                        "0":15,
+                        "1":190
+                    }
+                },
+                "('phase2-vanilla4o-mode3-01', 'counts')":{
+                    "total_items":242,
+                    "matches":{
+                        "count":206,
+                        "percentage":85.12
+                    },
+                    "mismatches":{
+                        "count":36,
+                        "percentage":14.88
+                    }
+                }
+            },
+            "personal-interested":{
+                "('phase2-vanilla4-mode3-01', 'phi_coefficient')":0.236,
+                "('phase2-vanilla4-mode3-01', 'p_value')":0.0002,
+                "('phase2-vanilla4-mode3-01', 'contingency_cells_desc')":{
+                    "disagree":{
+                        "both_disagree":14,
+                        "only_eval_disagree":37,
+                        "_note1":"In this case, the data is for 'disagree', where the mode3 eval and/or manual classification disagree with the evaluated classification",
+                        "_note2":"Where 'both_disagree', the mode3 eval matches the manual classification and is likely correct (true negative).  Where 'only_eval_disagree', the mode3 eval does not match with the manual classification and is likely incorrect (false negative)"
+                    },
+                    "agree":{
+                        "only_eval_agree":15,
+                        "both_agree":186,
+                        "_note1":"In this case, the data is for 'agree', where the mode3 eval and/or manual classification agree with the evaluated classification",
+                        "_note2":"Where 'both_agree', the mode3 eval matches the manual classification and is likely correct (true positive).  Where 'only_eval_agree', the mode3 eval does not match with the manual classification and is likely incorrect (false positive)"
+                    }
+                },
+                "('phase2-vanilla4-mode3-01', 'contingency_cells_raw')":{
+                    "0":{
+                        "0":14,
+                        "1":37
+                    },
+                    "1":{
+                        "0":15,
+                        "1":186
+                    }
+                },
+                "('phase2-vanilla4-mode3-01', 'counts')":{
+                    "total_items":252,
+                    "matches":{
+                        "count":200,
+                        "percentage":79.37
+                    },
+                    "mismatches":{
+                        "count":52,
+                        "percentage":20.63
+                    }
+                },
+                "('phase2-vanilla4o-mode3-01', 'phi_coefficient')":0.207,
+                "('phase2-vanilla4o-mode3-01', 'p_value')":0.0013,
+                "('phase2-vanilla4o-mode3-01', 'contingency_cells_desc')":{
+                    "disagree":{
+                        "both_disagree":9,
+                        "only_eval_disagree":26,
+                        "_note1":"In this case, the data is for 'disagree', where the mode3 eval and/or manual classification disagree with the evaluated classification",
+                        "_note2":"Where 'both_disagree', the mode3 eval matches the manual classification and is likely correct (true negative).  Where 'only_eval_disagree', the mode3 eval does not match with the manual classification and is likely incorrect (false negative)"
+                    },
+                    "agree":{
+                        "only_eval_agree":14,
+                        "both_agree":193,
+                        "_note1":"In this case, the data is for 'agree', where the mode3 eval and/or manual classification agree with the evaluated classification",
+                        "_note2":"Where 'both_agree', the mode3 eval matches the manual classification and is likely correct (true positive).  Where 'only_eval_agree', the mode3 eval does not match with the manual classification and is likely incorrect (false positive)"
+                    }
+                },
+                "('phase2-vanilla4o-mode3-01', 'contingency_cells_raw')":{
+                    "0":{
+                        "0":9,
+                        "1":26
+                    },
+                    "1":{
+                        "0":14,
+                        "1":193
+                    }
+                },
+                "('phase2-vanilla4o-mode3-01', 'counts')":{
+                    "total_items":242,
+                    "matches":{
+                        "count":202,
+                        "percentage":83.47
+                    },
+                    "mismatches":{
+                        "count":40,
+                        "percentage":16.53
+                    }
+                }
+            },
+            "urgency":{
+                "('phase2-vanilla4-mode3-01', 'phi_coefficient')":0.219,
+                "('phase2-vanilla4-mode3-01', 'p_value')":0.0005,
+                "('phase2-vanilla4-mode3-01', 'contingency_cells_desc')":{
+                    "disagree":{
+                        "both_disagree":5,
+                        "only_eval_disagree":23,
+                        "_note1":"In this case, the data is for 'disagree', where the mode3 eval and/or manual classification disagree with the evaluated classification",
+                        "_note2":"Where 'both_disagree', the mode3 eval matches the manual classification and is likely correct (true negative).  Where 'only_eval_disagree', the mode3 eval does not match with the manual classification and is likely incorrect (false negative)"
+                    },
+                    "agree":{
+                        "only_eval_agree":5,
+                        "both_agree":219,
+                        "_note1":"In this case, the data is for 'agree', where the mode3 eval and/or manual classification agree with the evaluated classification",
+                        "_note2":"Where 'both_agree', the mode3 eval matches the manual classification and is likely correct (true positive).  Where 'only_eval_agree', the mode3 eval does not match with the manual classification and is likely incorrect (false positive)"
+                    }
+                },
+                "('phase2-vanilla4-mode3-01', 'contingency_cells_raw')":{
+                    "0":{
+                        "0":5,
+                        "1":23
+                    },
+                    "1":{
+                        "0":5,
+                        "1":219
+                    }
+                },
+                "('phase2-vanilla4-mode3-01', 'counts')":{
+                    "total_items":252,
+                    "matches":{
+                        "count":224,
+                        "percentage":88.89
+                    },
+                    "mismatches":{
+                        "count":28,
+                        "percentage":11.11
+                    }
+                },
+                "('phase2-vanilla4o-mode3-01', 'phi_coefficient')":0.408,
+                "('phase2-vanilla4o-mode3-01', 'p_value')":0.0,
+                "('phase2-vanilla4o-mode3-01', 'contingency_cells_desc')":{
+                    "disagree":{
+                        "both_disagree":5,
+                        "only_eval_disagree":7,
+                        "_note1":"In this case, the data is for 'disagree', where the mode3 eval and/or manual classification disagree with the evaluated classification",
+                        "_note2":"Where 'both_disagree', the mode3 eval matches the manual classification and is likely correct (true negative).  Where 'only_eval_disagree', the mode3 eval does not match with the manual classification and is likely incorrect (false negative)"
+                    },
+                    "agree":{
+                        "only_eval_agree":4,
+                        "both_agree":226,
+                        "_note1":"In this case, the data is for 'agree', where the mode3 eval and/or manual classification agree with the evaluated classification",
+                        "_note2":"Where 'both_agree', the mode3 eval matches the manual classification and is likely correct (true positive).  Where 'only_eval_agree', the mode3 eval does not match with the manual classification and is likely incorrect (false positive)"
+                    }
+                },
+                "('phase2-vanilla4o-mode3-01', 'contingency_cells_raw')":{
+                    "0":{
+                        "0":5,
+                        "1":7
+                    },
+                    "1":{
+                        "0":4,
+                        "1":226
+                    }
+                },
+                "('phase2-vanilla4o-mode3-01', 'counts')":{
+                    "total_items":242,
+                    "matches":{
+                        "count":231,
+                        "percentage":95.45
+                    },
+                    "mismatches":{
+                        "count":11,
+                        "percentage":4.55
+                    }
+                }
+            },
+            "work-logistics":{
+                "('phase2-vanilla4-mode3-01', 'phi_coefficient')":0.278,
+                "('phase2-vanilla4-mode3-01', 'p_value')":0.0,
+                "('phase2-vanilla4-mode3-01', 'contingency_cells_desc')":{
+                    "disagree":{
+                        "both_disagree":7,
+                        "only_eval_disagree":37,
+                        "_note1":"In this case, the data is for 'disagree', where the mode3 eval and/or manual classification disagree with the evaluated classification",
+                        "_note2":"Where 'both_disagree', the mode3 eval matches the manual classification and is likely correct (true negative).  Where 'only_eval_disagree', the mode3 eval does not match with the manual classification and is likely incorrect (false negative)"
+                    },
+                    "agree":{
+                        "only_eval_agree":2,
+                        "both_agree":206,
+                        "_note1":"In this case, the data is for 'agree', where the mode3 eval and/or manual classification agree with the evaluated classification",
+                        "_note2":"Where 'both_agree', the mode3 eval matches the manual classification and is likely correct (true positive).  Where 'only_eval_agree', the mode3 eval does not match with the manual classification and is likely incorrect (false positive)"
+                    }
+                },
+                "('phase2-vanilla4-mode3-01', 'contingency_cells_raw')":{
+                    "0":{
+                        "0":7,
+                        "1":37
+                    },
+                    "1":{
+                        "0":2,
+                        "1":206
+                    }
+                },
+                "('phase2-vanilla4-mode3-01', 'counts')":{
+                    "total_items":252,
+                    "matches":{
+                        "count":213,
+                        "percentage":84.52
+                    },
+                    "mismatches":{
+                        "count":39,
+                        "percentage":15.48
+                    }
+                },
+                "('phase2-vanilla4o-mode3-01', 'phi_coefficient')":0.385,
+                "('phase2-vanilla4o-mode3-01', 'p_value')":0.0,
+                "('phase2-vanilla4o-mode3-01', 'contingency_cells_desc')":{
+                    "disagree":{
+                        "both_disagree":8,
+                        "only_eval_disagree":27,
+                        "_note1":"In this case, the data is for 'disagree', where the mode3 eval and/or manual classification disagree with the evaluated classification",
+                        "_note2":"Where 'both_disagree', the mode3 eval matches the manual classification and is likely correct (true negative).  Where 'only_eval_disagree', the mode3 eval does not match with the manual classification and is likely incorrect (false negative)"
+                    },
+                    "agree":{
+                        "only_eval_agree":1,
+                        "both_agree":206,
+                        "_note1":"In this case, the data is for 'agree', where the mode3 eval and/or manual classification agree with the evaluated classification",
+                        "_note2":"Where 'both_agree', the mode3 eval matches the manual classification and is likely correct (true positive).  Where 'only_eval_agree', the mode3 eval does not match with the manual classification and is likely incorrect (false positive)"
+                    }
+                },
+                "('phase2-vanilla4o-mode3-01', 'contingency_cells_raw')":{
+                    "0":{
+                        "0":8,
+                        "1":27
+                    },
+                    "1":{
+                        "0":1,
+                        "1":206
+                    }
+                },
+                "('phase2-vanilla4o-mode3-01', 'counts')":{
+                    "total_items":242,
+                    "matches":{
+                        "count":214,
+                        "percentage":88.43
+                    },
+                    "mismatches":{
+                        "count":28,
+                        "percentage":11.57
+                    }
+                }
+            },
+            "work-pers":{
+                "('phase2-vanilla4-mode3-01', 'phi_coefficient')":0.365,
+                "('phase2-vanilla4-mode3-01', 'p_value')":0.0,
+                "('phase2-vanilla4-mode3-01', 'contingency_cells_desc')":{
+                    "disagree":{
+                        "both_disagree":17,
+                        "only_eval_disagree":34,
+                        "_note1":"In this case, the data is for 'disagree', where the mode3 eval and/or manual classification disagree with the evaluated classification",
+                        "_note2":"Where 'both_disagree', the mode3 eval matches the manual classification and is likely correct (true negative).  Where 'only_eval_disagree', the mode3 eval does not match with the manual classification and is likely incorrect (false negative)"
+                    },
+                    "agree":{
+                        "only_eval_agree":9,
+                        "both_agree":192,
+                        "_note1":"In this case, the data is for 'agree', where the mode3 eval and/or manual classification agree with the evaluated classification",
+                        "_note2":"Where 'both_agree', the mode3 eval matches the manual classification and is likely correct (true positive).  Where 'only_eval_agree', the mode3 eval does not match with the manual classification and is likely incorrect (false positive)"
+                    }
+                },
+                "('phase2-vanilla4-mode3-01', 'contingency_cells_raw')":{
+                    "0":{
+                        "0":17,
+                        "1":34
+                    },
+                    "1":{
+                        "0":9,
+                        "1":192
+                    }
+                },
+                "('phase2-vanilla4-mode3-01', 'counts')":{
+                    "total_items":252,
+                    "matches":{
+                        "count":209,
+                        "percentage":82.94
+                    },
+                    "mismatches":{
+                        "count":43,
+                        "percentage":17.06
+                    }
+                },
+                "('phase2-vanilla4o-mode3-01', 'phi_coefficient')":0.223,
+                "('phase2-vanilla4o-mode3-01', 'p_value')":0.0005,
+                "('phase2-vanilla4o-mode3-01', 'contingency_cells_desc')":{
+                    "disagree":{
+                        "both_disagree":17,
+                        "only_eval_disagree":67,
+                        "_note1":"In this case, the data is for 'disagree', where the mode3 eval and/or manual classification disagree with the evaluated classification",
+                        "_note2":"Where 'both_disagree', the mode3 eval matches the manual classification and is likely correct (true negative).  Where 'only_eval_disagree', the mode3 eval does not match with the manual classification and is likely incorrect (false negative)"
+                    },
+                    "agree":{
+                        "only_eval_agree":8,
+                        "both_agree":150,
+                        "_note1":"In this case, the data is for 'agree', where the mode3 eval and/or manual classification agree with the evaluated classification",
+                        "_note2":"Where 'both_agree', the mode3 eval matches the manual classification and is likely correct (true positive).  Where 'only_eval_agree', the mode3 eval does not match with the manual classification and is likely incorrect (false positive)"
+                    }
+                },
+                "('phase2-vanilla4o-mode3-01', 'contingency_cells_raw')":{
+                    "0":{
+                        "0":17,
+                        "1":67
+                    },
+                    "1":{
+                        "0":8,
+                        "1":150
+                    }
+                },
+                "('phase2-vanilla4o-mode3-01', 'counts')":{
+                    "total_items":242,
+                    "matches":{
+                        "count":167,
+                        "percentage":69.01
+                    },
+                    "mismatches":{
+                        "count":75,
+                        "percentage":30.99
+                    }
+                }
+            },
+            "work-relevant":{
+                "('phase2-vanilla4-mode3-01', 'phi_coefficient')":0.585,
+                "('phase2-vanilla4-mode3-01', 'p_value')":0.0,
+                "('phase2-vanilla4-mode3-01', 'contingency_cells_desc')":{
+                    "disagree":{
+                        "both_disagree":22,
+                        "only_eval_disagree":20,
+                        "_note1":"In this case, the data is for 'disagree', where the mode3 eval and/or manual classification disagree with the evaluated classification",
+                        "_note2":"Where 'both_disagree', the mode3 eval matches the manual classification and is likely correct (true negative).  Where 'only_eval_disagree', the mode3 eval does not match with the manual classification and is likely incorrect (false negative)"
+                    },
+                    "agree":{
+                        "only_eval_agree":5,
+                        "both_agree":205,
+                        "_note1":"In this case, the data is for 'agree', where the mode3 eval and/or manual classification agree with the evaluated classification",
+                        "_note2":"Where 'both_agree', the mode3 eval matches the manual classification and is likely correct (true positive).  Where 'only_eval_agree', the mode3 eval does not match with the manual classification and is likely incorrect (false positive)"
+                    }
+                },
+                "('phase2-vanilla4-mode3-01', 'contingency_cells_raw')":{
+                    "0":{
+                        "0":22,
+                        "1":20
+                    },
+                    "1":{
+                        "0":5,
+                        "1":205
+                    }
+                },
+                "('phase2-vanilla4-mode3-01', 'counts')":{
+                    "total_items":252,
+                    "matches":{
+                        "count":227,
+                        "percentage":90.08
+                    },
+                    "mismatches":{
+                        "count":25,
+                        "percentage":9.92
+                    }
+                },
+                "('phase2-vanilla4o-mode3-01', 'phi_coefficient')":0.546,
+                "('phase2-vanilla4o-mode3-01', 'p_value')":0.0,
+                "('phase2-vanilla4o-mode3-01', 'contingency_cells_desc')":{
+                    "disagree":{
+                        "both_disagree":18,
+                        "only_eval_disagree":16,
+                        "_note1":"In this case, the data is for 'disagree', where the mode3 eval and/or manual classification disagree with the evaluated classification",
+                        "_note2":"Where 'both_disagree', the mode3 eval matches the manual classification and is likely correct (true negative).  Where 'only_eval_disagree', the mode3 eval does not match with the manual classification and is likely incorrect (false negative)"
+                    },
+                    "agree":{
+                        "only_eval_agree":7,
+                        "both_agree":201,
+                        "_note1":"In this case, the data is for 'agree', where the mode3 eval and/or manual classification agree with the evaluated classification",
+                        "_note2":"Where 'both_agree', the mode3 eval matches the manual classification and is likely correct (true positive).  Where 'only_eval_agree', the mode3 eval does not match with the manual classification and is likely incorrect (false positive)"
+                    }
+                },
+                "('phase2-vanilla4o-mode3-01', 'contingency_cells_raw')":{
+                    "0":{
+                        "0":18,
+                        "1":16
+                    },
+                    "1":{
+                        "0":7,
+                        "1":201
+                    }
+                },
+                "('phase2-vanilla4o-mode3-01', 'counts')":{
+                    "total_items":242,
+                    "matches":{
+                        "count":219,
+                        "percentage":90.5
+                    },
+                    "mismatches":{
+                        "count":23,
+                        "percentage":9.5
+                    }
+                }
+            }
+        },
+        "text_stats_evaluation_likert":{
+            "evaluation_likert_text":{
+                "ALL":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":1342,
+                            "percentage":69.9
+                        },
+                        "STRONGLY_DISAGREE":{
+                            "count":210,
+                            "percentage":10.94
+                        },
+                        "AGREE":{
+                            "count":133,
+                            "percentage":6.93
+                        },
+                        "DISAGREE":{
+                            "count":119,
+                            "percentage":6.2
+                        },
+                        "NEUTRAL":{
+                            "count":116,
+                            "percentage":6.04
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":1920,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":1313,
+                            "percentage":66.48
+                        },
+                        "AGREE":{
+                            "count":351,
+                            "percentage":17.77
+                        },
+                        "NEUTRAL":{
+                            "count":140,
+                            "percentage":7.09
+                        },
+                        "DISAGREE":{
+                            "count":89,
+                            "percentage":4.51
+                        },
+                        "STRONGLY_DISAGREE":{
+                            "count":82,
+                            "percentage":4.15
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":1975
+                },
+                "friend-group":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":243,
+                            "percentage":75.94
+                        },
+                        "STRONGLY_DISAGREE":{
+                            "count":29,
+                            "percentage":9.06
+                        },
+                        "AGREE":{
+                            "count":20,
+                            "percentage":6.25
+                        },
+                        "NEUTRAL":{
+                            "count":16,
+                            "percentage":5.0
+                        },
+                        "DISAGREE":{
+                            "count":12,
+                            "percentage":3.75
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":320,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":245,
+                            "percentage":74.47
+                        },
+                        "AGREE":{
+                            "count":34,
+                            "percentage":10.33
+                        },
+                        "NEUTRAL":{
+                            "count":28,
+                            "percentage":8.51
+                        },
+                        "STRONGLY_DISAGREE":{
+                            "count":12,
+                            "percentage":3.65
+                        },
+                        "DISAGREE":{
+                            "count":10,
+                            "percentage":3.04
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":329
+                },
+                "personal-interested":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":149,
+                            "percentage":46.56
+                        },
+                        "AGREE":{
+                            "count":52,
+                            "percentage":16.25
+                        },
+                        "NEUTRAL":{
+                            "count":50,
+                            "percentage":15.62
+                        },
+                        "STRONGLY_DISAGREE":{
+                            "count":37,
+                            "percentage":11.56
+                        },
+                        "DISAGREE":{
+                            "count":32,
+                            "percentage":10.0
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":320,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":149,
+                            "percentage":45.29
+                        },
+                        "AGREE":{
+                            "count":126,
+                            "percentage":38.3
+                        },
+                        "NEUTRAL":{
+                            "count":27,
+                            "percentage":8.21
+                        },
+                        "STRONGLY_DISAGREE":{
+                            "count":14,
+                            "percentage":4.26
+                        },
+                        "DISAGREE":{
+                            "count":13,
+                            "percentage":3.95
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":329
+                },
+                "urgency":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":230,
+                            "percentage":71.88
+                        },
+                        "DISAGREE":{
+                            "count":28,
+                            "percentage":8.75
+                        },
+                        "NEUTRAL":{
+                            "count":27,
+                            "percentage":8.44
+                        },
+                        "AGREE":{
+                            "count":23,
+                            "percentage":7.19
+                        },
+                        "STRONGLY_DISAGREE":{
+                            "count":12,
+                            "percentage":3.75
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":320,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":259,
+                            "percentage":78.72
+                        },
+                        "AGREE":{
+                            "count":48,
+                            "percentage":14.59
+                        },
+                        "DISAGREE":{
+                            "count":11,
+                            "percentage":3.34
+                        },
+                        "NEUTRAL":{
+                            "count":8,
+                            "percentage":2.43
+                        },
+                        "STRONGLY_DISAGREE":{
+                            "count":3,
+                            "percentage":0.91
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":329
+                },
+                "work-logistics":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":238,
+                            "percentage":74.38
+                        },
+                        "STRONGLY_DISAGREE":{
+                            "count":43,
+                            "percentage":13.44
+                        },
+                        "DISAGREE":{
+                            "count":16,
+                            "percentage":5.0
+                        },
+                        "NEUTRAL":{
+                            "count":12,
+                            "percentage":3.75
+                        },
+                        "AGREE":{
+                            "count":11,
+                            "percentage":3.44
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":320,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":256,
+                            "percentage":77.81
+                        },
+                        "AGREE":{
+                            "count":27,
+                            "percentage":8.21
+                        },
+                        "DISAGREE":{
+                            "count":22,
+                            "percentage":6.69
+                        },
+                        "NEUTRAL":{
+                            "count":18,
+                            "percentage":5.47
+                        },
+                        "STRONGLY_DISAGREE":{
+                            "count":6,
+                            "percentage":1.82
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":329
+                },
+                "work-pers":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":239,
+                            "percentage":74.69
+                        },
+                        "STRONGLY_DISAGREE":{
+                            "count":45,
+                            "percentage":14.06
+                        },
+                        "AGREE":{
+                            "count":16,
+                            "percentage":5.0
+                        },
+                        "DISAGREE":{
+                            "count":13,
+                            "percentage":4.06
+                        },
+                        "NEUTRAL":{
+                            "count":7,
+                            "percentage":2.19
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":320,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":170,
+                            "percentage":51.67
+                        },
+                        "AGREE":{
+                            "count":73,
+                            "percentage":22.19
+                        },
+                        "NEUTRAL":{
+                            "count":48,
+                            "percentage":14.59
+                        },
+                        "STRONGLY_DISAGREE":{
+                            "count":23,
+                            "percentage":6.99
+                        },
+                        "DISAGREE":{
+                            "count":15,
+                            "percentage":4.56
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":329
+                },
+                "work-relevant":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":243,
+                            "percentage":75.94
+                        },
+                        "STRONGLY_DISAGREE":{
+                            "count":44,
+                            "percentage":13.75
+                        },
+                        "DISAGREE":{
+                            "count":18,
+                            "percentage":5.62
+                        },
+                        "AGREE":{
+                            "count":11,
+                            "percentage":3.44
+                        },
+                        "NEUTRAL":{
+                            "count":4,
+                            "percentage":1.25
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":320,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":234,
+                            "percentage":70.91
+                        },
+                        "AGREE":{
+                            "count":43,
+                            "percentage":13.03
+                        },
+                        "STRONGLY_DISAGREE":{
+                            "count":24,
+                            "percentage":7.27
+                        },
+                        "DISAGREE":{
+                            "count":18,
+                            "percentage":5.45
+                        },
+                        "NEUTRAL":{
+                            "count":11,
+                            "percentage":3.33
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":330
+                }
+            },
+            "feedback_evaluation_likert_text":{
+                "ALL":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":77,
+                            "percentage":64.17
+                        },
+                        "AGREE":{
+                            "count":17,
+                            "percentage":14.17
+                        },
+                        "STRONGLY_DISAGREE":{
+                            "count":17,
+                            "percentage":14.17
+                        },
+                        "NEUTRAL":{
+                            "count":5,
+                            "percentage":4.17
+                        },
+                        "DISAGREE":{
+                            "count":4,
+                            "percentage":3.33
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":120,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":115,
+                            "percentage":76.67
+                        },
+                        "AGREE":{
+                            "count":20,
+                            "percentage":13.33
+                        },
+                        "DISAGREE":{
+                            "count":6,
+                            "percentage":4.0
+                        },
+                        "NEUTRAL":{
+                            "count":5,
+                            "percentage":3.33
+                        },
+                        "STRONGLY_DISAGREE":{
+                            "count":4,
+                            "percentage":2.67
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":150
+                },
+                "friend-group":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":16,
+                            "percentage":80.0
+                        },
+                        "STRONGLY_DISAGREE":{
+                            "count":4,
+                            "percentage":20.0
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":22,
+                            "percentage":88.0
+                        },
+                        "DISAGREE":{
+                            "count":2,
+                            "percentage":8.0
+                        },
+                        "AGREE":{
+                            "count":1,
+                            "percentage":4.0
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":25
+                },
+                "personal-interested":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":13,
+                            "percentage":65.0
+                        },
+                        "AGREE":{
+                            "count":2,
+                            "percentage":10.0
+                        },
+                        "NEUTRAL":{
+                            "count":2,
+                            "percentage":10.0
+                        },
+                        "STRONGLY_DISAGREE":{
+                            "count":2,
+                            "percentage":10.0
+                        },
+                        "DISAGREE":{
+                            "count":1,
+                            "percentage":5.0
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":18,
+                            "percentage":72.0
+                        },
+                        "AGREE":{
+                            "count":6,
+                            "percentage":24.0
+                        },
+                        "NEUTRAL":{
+                            "count":1,
+                            "percentage":4.0
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":25
+                },
+                "urgency":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":10,
+                            "percentage":50.0
+                        },
+                        "AGREE":{
+                            "count":9,
+                            "percentage":45.0
+                        },
+                        "NEUTRAL":{
+                            "count":1,
+                            "percentage":5.0
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":19,
+                            "percentage":76.0
+                        },
+                        "AGREE":{
+                            "count":6,
+                            "percentage":24.0
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":25
+                },
+                "work-logistics":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":11,
+                            "percentage":55.0
+                        },
+                        "AGREE":{
+                            "count":4,
+                            "percentage":20.0
+                        },
+                        "NEUTRAL":{
+                            "count":2,
+                            "percentage":10.0
+                        },
+                        "STRONGLY_DISAGREE":{
+                            "count":2,
+                            "percentage":10.0
+                        },
+                        "DISAGREE":{
+                            "count":1,
+                            "percentage":5.0
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":21,
+                            "percentage":84.0
+                        },
+                        "AGREE":{
+                            "count":2,
+                            "percentage":8.0
+                        },
+                        "DISAGREE":{
+                            "count":2,
+                            "percentage":8.0
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":25
+                },
+                "work-pers":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":15,
+                            "percentage":75.0
+                        },
+                        "STRONGLY_DISAGREE":{
+                            "count":5,
+                            "percentage":25.0
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":18,
+                            "percentage":72.0
+                        },
+                        "AGREE":{
+                            "count":3,
+                            "percentage":12.0
+                        },
+                        "NEUTRAL":{
+                            "count":3,
+                            "percentage":12.0
+                        },
+                        "STRONGLY_DISAGREE":{
+                            "count":1,
+                            "percentage":4.0
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":25
+                },
+                "work-relevant":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":12,
+                            "percentage":60.0
+                        },
+                        "STRONGLY_DISAGREE":{
+                            "count":4,
+                            "percentage":20.0
+                        },
+                        "DISAGREE":{
+                            "count":2,
+                            "percentage":10.0
+                        },
+                        "AGREE":{
+                            "count":2,
+                            "percentage":10.0
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "STRONGLY_AGREE":{
+                            "count":17,
+                            "percentage":68.0
+                        },
+                        "STRONGLY_DISAGREE":{
+                            "count":3,
+                            "percentage":12.0
+                        },
+                        "AGREE":{
+                            "count":2,
+                            "percentage":8.0
+                        },
+                        "DISAGREE":{
+                            "count":2,
+                            "percentage":8.0
+                        },
+                        "NEUTRAL":{
+                            "count":1,
+                            "percentage":4.0
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":25
+                }
+            },
+            "evaluation_likert_simple":{
+                "ALL":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":1475,
+                            "percentage":76.82
+                        },
+                        "DISAGREE":{
+                            "count":329,
+                            "percentage":17.14
+                        },
+                        "NEUTRAL":{
+                            "count":116,
+                            "percentage":6.04
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":1920,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":1664,
+                            "percentage":84.25
+                        },
+                        "DISAGREE":{
+                            "count":171,
+                            "percentage":8.66
+                        },
+                        "NEUTRAL":{
+                            "count":140,
+                            "percentage":7.09
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":1975
+                },
+                "friend-group":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":263,
+                            "percentage":82.19
+                        },
+                        "DISAGREE":{
+                            "count":41,
+                            "percentage":12.81
+                        },
+                        "NEUTRAL":{
+                            "count":16,
+                            "percentage":5.0
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":320,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":279,
+                            "percentage":84.8
+                        },
+                        "NEUTRAL":{
+                            "count":28,
+                            "percentage":8.51
+                        },
+                        "DISAGREE":{
+                            "count":22,
+                            "percentage":6.69
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":329
+                },
+                "personal-interested":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":201,
+                            "percentage":62.81
+                        },
+                        "DISAGREE":{
+                            "count":69,
+                            "percentage":21.56
+                        },
+                        "NEUTRAL":{
+                            "count":50,
+                            "percentage":15.62
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":320,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":275,
+                            "percentage":83.59
+                        },
+                        "DISAGREE":{
+                            "count":27,
+                            "percentage":8.21
+                        },
+                        "NEUTRAL":{
+                            "count":27,
+                            "percentage":8.21
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":329
+                },
+                "urgency":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":253,
+                            "percentage":79.06
+                        },
+                        "DISAGREE":{
+                            "count":40,
+                            "percentage":12.5
+                        },
+                        "NEUTRAL":{
+                            "count":27,
+                            "percentage":8.44
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":320,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":307,
+                            "percentage":93.31
+                        },
+                        "DISAGREE":{
+                            "count":14,
+                            "percentage":4.26
+                        },
+                        "NEUTRAL":{
+                            "count":8,
+                            "percentage":2.43
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":329
+                },
+                "work-logistics":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":249,
+                            "percentage":77.81
+                        },
+                        "DISAGREE":{
+                            "count":59,
+                            "percentage":18.44
+                        },
+                        "NEUTRAL":{
+                            "count":12,
+                            "percentage":3.75
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":320,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":283,
+                            "percentage":86.02
+                        },
+                        "DISAGREE":{
+                            "count":28,
+                            "percentage":8.51
+                        },
+                        "NEUTRAL":{
+                            "count":18,
+                            "percentage":5.47
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":329
+                },
+                "work-pers":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":255,
+                            "percentage":79.69
+                        },
+                        "DISAGREE":{
+                            "count":58,
+                            "percentage":18.12
+                        },
+                        "NEUTRAL":{
+                            "count":7,
+                            "percentage":2.19
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":320,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":243,
+                            "percentage":73.86
+                        },
+                        "NEUTRAL":{
+                            "count":48,
+                            "percentage":14.59
+                        },
+                        "DISAGREE":{
+                            "count":38,
+                            "percentage":11.55
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":329
+                },
+                "work-relevant":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":254,
+                            "percentage":79.38
+                        },
+                        "DISAGREE":{
+                            "count":62,
+                            "percentage":19.38
+                        },
+                        "NEUTRAL":{
+                            "count":4,
+                            "percentage":1.25
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":320,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":277,
+                            "percentage":83.94
+                        },
+                        "DISAGREE":{
+                            "count":42,
+                            "percentage":12.73
+                        },
+                        "NEUTRAL":{
+                            "count":11,
+                            "percentage":3.33
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":330
+                }
+            },
+            "feedback_evaluation_likert_simple":{
+                "ALL":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":94,
+                            "percentage":78.33
+                        },
+                        "DISAGREE":{
+                            "count":21,
+                            "percentage":17.5
+                        },
+                        "NEUTRAL":{
+                            "count":5,
+                            "percentage":4.17
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":120,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":135,
+                            "percentage":90.0
+                        },
+                        "DISAGREE":{
+                            "count":10,
+                            "percentage":6.67
+                        },
+                        "NEUTRAL":{
+                            "count":5,
+                            "percentage":3.33
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":150
+                },
+                "friend-group":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":16,
+                            "percentage":80.0
+                        },
+                        "DISAGREE":{
+                            "count":4,
+                            "percentage":20.0
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":23,
+                            "percentage":92.0
+                        },
+                        "DISAGREE":{
+                            "count":2,
+                            "percentage":8.0
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":25
+                },
+                "personal-interested":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":15,
+                            "percentage":75.0
+                        },
+                        "DISAGREE":{
+                            "count":3,
+                            "percentage":15.0
+                        },
+                        "NEUTRAL":{
+                            "count":2,
+                            "percentage":10.0
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":24,
+                            "percentage":96.0
+                        },
+                        "NEUTRAL":{
+                            "count":1,
+                            "percentage":4.0
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":25
+                },
+                "urgency":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":19,
+                            "percentage":95.0
+                        },
+                        "NEUTRAL":{
+                            "count":1,
+                            "percentage":5.0
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":25,
+                            "percentage":100.0
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":25
+                },
+                "work-logistics":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":15,
+                            "percentage":75.0
+                        },
+                        "DISAGREE":{
+                            "count":3,
+                            "percentage":15.0
+                        },
+                        "NEUTRAL":{
+                            "count":2,
+                            "percentage":10.0
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":23,
+                            "percentage":92.0
+                        },
+                        "DISAGREE":{
+                            "count":2,
+                            "percentage":8.0
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":25
+                },
+                "work-pers":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":15,
+                            "percentage":75.0
+                        },
+                        "DISAGREE":{
+                            "count":5,
+                            "percentage":25.0
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":21,
+                            "percentage":84.0
+                        },
+                        "NEUTRAL":{
+                            "count":3,
+                            "percentage":12.0
+                        },
+                        "DISAGREE":{
+                            "count":1,
+                            "percentage":4.0
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":25
+                },
+                "work-relevant":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":14,
+                            "percentage":70.0
+                        },
+                        "DISAGREE":{
+                            "count":6,
+                            "percentage":30.0
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "AGREE":{
+                            "count":19,
+                            "percentage":76.0
+                        },
+                        "DISAGREE":{
+                            "count":5,
+                            "percentage":20.0
+                        },
+                        "NEUTRAL":{
+                            "count":1,
+                            "percentage":4.0
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":25
+                }
+            },
+            "feedback_evaluation_difference_text":{
+                "ALL":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "SAME":{
+                            "count":92,
+                            "percentage":76.67
+                        },
+                        "SIMILAR":{
+                            "count":16,
+                            "percentage":13.33
+                        },
+                        "DIFFERENT":{
+                            "count":9,
+                            "percentage":7.5
+                        },
+                        "VERY_DIFFERENT":{
+                            "count":3,
+                            "percentage":2.5
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":120,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "SAME":{
+                            "count":124,
+                            "percentage":82.67
+                        },
+                        "SIMILAR":{
+                            "count":22,
+                            "percentage":14.67
+                        },
+                        "DIFFERENT":{
+                            "count":4,
+                            "percentage":2.67
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":150
+                },
+                "friend-group":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "SAME":{
+                            "count":17,
+                            "percentage":85.0
+                        },
+                        "VERY_DIFFERENT":{
+                            "count":2,
+                            "percentage":10.0
+                        },
+                        "SIMILAR":{
+                            "count":1,
+                            "percentage":5.0
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "SAME":{
+                            "count":21,
+                            "percentage":84.0
+                        },
+                        "SIMILAR":{
+                            "count":3,
+                            "percentage":12.0
+                        },
+                        "DIFFERENT":{
+                            "count":1,
+                            "percentage":4.0
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":25
+                },
+                "personal-interested":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "SAME":{
+                            "count":17,
+                            "percentage":85.0
+                        },
+                        "DIFFERENT":{
+                            "count":2,
+                            "percentage":10.0
+                        },
+                        "SIMILAR":{
+                            "count":1,
+                            "percentage":5.0
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "SAME":{
+                            "count":23,
+                            "percentage":92.0
+                        },
+                        "DIFFERENT":{
+                            "count":1,
+                            "percentage":4.0
+                        },
+                        "SIMILAR":{
+                            "count":1,
+                            "percentage":4.0
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":25
+                },
+                "urgency":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "SAME":{
+                            "count":13,
+                            "percentage":65.0
+                        },
+                        "SIMILAR":{
+                            "count":6,
+                            "percentage":30.0
+                        },
+                        "DIFFERENT":{
+                            "count":1,
+                            "percentage":5.0
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "SAME":{
+                            "count":22,
+                            "percentage":88.0
+                        },
+                        "SIMILAR":{
+                            "count":3,
+                            "percentage":12.0
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":25
+                },
+                "work-logistics":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "SAME":{
+                            "count":10,
+                            "percentage":50.0
+                        },
+                        "SIMILAR":{
+                            "count":6,
+                            "percentage":30.0
+                        },
+                        "DIFFERENT":{
+                            "count":4,
+                            "percentage":20.0
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "SAME":{
+                            "count":22,
+                            "percentage":88.0
+                        },
+                        "SIMILAR":{
+                            "count":2,
+                            "percentage":8.0
+                        },
+                        "DIFFERENT":{
+                            "count":1,
+                            "percentage":4.0
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":25
+                },
+                "work-pers":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "SAME":{
+                            "count":18,
+                            "percentage":90.0
+                        },
+                        "SIMILAR":{
+                            "count":1,
+                            "percentage":5.0
+                        },
+                        "VERY_DIFFERENT":{
+                            "count":1,
+                            "percentage":5.0
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "SAME":{
+                            "count":16,
+                            "percentage":64.0
+                        },
+                        "SIMILAR":{
+                            "count":8,
+                            "percentage":32.0
+                        },
+                        "DIFFERENT":{
+                            "count":1,
+                            "percentage":4.0
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":25
+                },
+                "work-relevant":{
+                    "('phase2-vanilla4-mode2-01', 'occurrences')":{
+                        "SAME":{
+                            "count":17,
+                            "percentage":85.0
+                        },
+                        "DIFFERENT":{
+                            "count":2,
+                            "percentage":10.0
+                        },
+                        "SIMILAR":{
+                            "count":1,
+                            "percentage":5.0
+                        }
+                    },
+                    "('phase2-vanilla4-mode2-01', 'item_count')":20,
+                    "('phase2-vanilla4o-mode2-01', 'occurrences')":{
+                        "SAME":{
+                            "count":20,
+                            "percentage":80.0
+                        },
+                        "SIMILAR":{
+                            "count":5,
+                            "percentage":20.0
+                        }
+                    },
+                    "('phase2-vanilla4o-mode2-01', 'item_count')":25
+                }
+            }
+        },
+        "evaluation_results_likert":{
+            "ALL":{
+                "('phase2-vanilla4-mode2-01', 'mean_likert')":4.19,
+                "('phase2-vanilla4-mode2-01', 'stddev')":1.58,
+                "('phase2-vanilla4-mode2-01', 'agreement_percentage')":76.82,
+                "('phase2-vanilla4-mode2-01', 'weighted_agreement_score')":0.8,
+                "('phase2-vanilla4-mode2-01', 'total_count')":1920,
+                "('phase2-vanilla4o-mode2-01', 'mean_likert')":4.38,
+                "('phase2-vanilla4o-mode2-01', 'stddev')":1.58,
+                "('phase2-vanilla4o-mode2-01', 'agreement_percentage')":84.25,
+                "('phase2-vanilla4o-mode2-01', 'weighted_agreement_score')":0.84,
+                "('phase2-vanilla4o-mode2-01', 'total_count')":1975
+            },
+            "friend-group":{
+                "('phase2-vanilla4-mode2-01', 'mean_likert')":4.36,
+                "('phase2-vanilla4-mode2-01', 'stddev')":1.58,
+                "('phase2-vanilla4-mode2-01', 'agreement_percentage')":82.19,
+                "('phase2-vanilla4-mode2-01', 'weighted_agreement_score')":0.84,
+                "('phase2-vanilla4-mode2-01', 'total_count')":320,
+                "('phase2-vanilla4o-mode2-01', 'mean_likert')":4.49,
+                "('phase2-vanilla4o-mode2-01', 'stddev')":1.58,
+                "('phase2-vanilla4o-mode2-01', 'agreement_percentage')":84.8,
+                "('phase2-vanilla4o-mode2-01', 'weighted_agreement_score')":0.87,
+                "('phase2-vanilla4o-mode2-01', 'total_count')":329
+            },
+            "personal-interested":{
+                "('phase2-vanilla4-mode2-01', 'mean_likert')":3.76,
+                "('phase2-vanilla4-mode2-01', 'stddev')":1.58,
+                "('phase2-vanilla4-mode2-01', 'agreement_percentage')":62.81,
+                "('phase2-vanilla4-mode2-01', 'weighted_agreement_score')":0.69,
+                "('phase2-vanilla4-mode2-01', 'total_count')":320,
+                "('phase2-vanilla4o-mode2-01', 'mean_likert')":4.16,
+                "('phase2-vanilla4o-mode2-01', 'stddev')":1.58,
+                "('phase2-vanilla4o-mode2-01', 'agreement_percentage')":83.59,
+                "('phase2-vanilla4o-mode2-01', 'weighted_agreement_score')":0.79,
+                "('phase2-vanilla4o-mode2-01', 'total_count')":329
+            },
+            "urgency":{
+                "('phase2-vanilla4-mode2-01', 'mean_likert')":4.35,
+                "('phase2-vanilla4-mode2-01', 'stddev')":1.58,
+                "('phase2-vanilla4-mode2-01', 'agreement_percentage')":79.06,
+                "('phase2-vanilla4-mode2-01', 'weighted_agreement_score')":0.84,
+                "('phase2-vanilla4-mode2-01', 'total_count')":320,
+                "('phase2-vanilla4o-mode2-01', 'mean_likert')":4.67,
+                "('phase2-vanilla4o-mode2-01', 'stddev')":1.58,
+                "('phase2-vanilla4o-mode2-01', 'agreement_percentage')":93.31,
+                "('phase2-vanilla4o-mode2-01', 'weighted_agreement_score')":0.92,
+                "('phase2-vanilla4o-mode2-01', 'total_count')":329
+            },
+            "work-logistics":{
+                "('phase2-vanilla4-mode2-01', 'mean_likert')":4.2,
+                "('phase2-vanilla4-mode2-01', 'stddev')":1.58,
+                "('phase2-vanilla4-mode2-01', 'agreement_percentage')":77.81,
+                "('phase2-vanilla4-mode2-01', 'weighted_agreement_score')":0.8,
+                "('phase2-vanilla4-mode2-01', 'total_count')":320,
+                "('phase2-vanilla4o-mode2-01', 'mean_likert')":4.53,
+                "('phase2-vanilla4o-mode2-01', 'stddev')":1.58,
+                "('phase2-vanilla4o-mode2-01', 'agreement_percentage')":86.02,
+                "('phase2-vanilla4o-mode2-01', 'weighted_agreement_score')":0.88,
+                "('phase2-vanilla4o-mode2-01', 'total_count')":329
+            },
+            "work-pers":{
+                "('phase2-vanilla4-mode2-01', 'mean_likert')":4.22,
+                "('phase2-vanilla4-mode2-01', 'stddev')":1.58,
+                "('phase2-vanilla4-mode2-01', 'agreement_percentage')":79.69,
+                "('phase2-vanilla4-mode2-01', 'weighted_agreement_score')":0.81,
+                "('phase2-vanilla4-mode2-01', 'total_count')":320,
+                "('phase2-vanilla4o-mode2-01', 'mean_likert')":4.07,
+                "('phase2-vanilla4o-mode2-01', 'stddev')":1.58,
+                "('phase2-vanilla4o-mode2-01', 'agreement_percentage')":73.86,
+                "('phase2-vanilla4o-mode2-01', 'weighted_agreement_score')":0.77,
+                "('phase2-vanilla4o-mode2-01', 'total_count')":329
+            },
+            "work-relevant":{
+                "('phase2-vanilla4-mode2-01', 'mean_likert')":4.22,
+                "('phase2-vanilla4-mode2-01', 'stddev')":1.58,
+                "('phase2-vanilla4-mode2-01', 'agreement_percentage')":79.38,
+                "('phase2-vanilla4-mode2-01', 'weighted_agreement_score')":0.81,
+                "('phase2-vanilla4-mode2-01', 'total_count')":320,
+                "('phase2-vanilla4o-mode2-01', 'mean_likert')":4.35,
+                "('phase2-vanilla4o-mode2-01', 'stddev')":1.58,
+                "('phase2-vanilla4o-mode2-01', 'agreement_percentage')":83.94,
+                "('phase2-vanilla4o-mode2-01', 'weighted_agreement_score')":0.84,
+                "('phase2-vanilla4o-mode2-01', 'total_count')":330
+            }
+        },
+        "evaluation_results_mode3":{
+            "ALL":{
+                "('phase2-vanilla4-mode3-01', 'agreement_percentage')":81.54,
+                "('phase2-vanilla4-mode3-01', 'weighted_agreement_score')":0.82,
+                "('phase2-vanilla4-mode3-01', 'total_count')":2790,
+                "('phase2-vanilla4o-mode3-01', 'agreement_percentage')":81.85,
+                "('phase2-vanilla4o-mode3-01', 'weighted_agreement_score')":0.82,
+                "('phase2-vanilla4o-mode3-01', 'total_count')":2700
+            },
+            "friend-group":{
+                "('phase2-vanilla4-mode3-01', 'agreement_percentage')":82.37,
+                "('phase2-vanilla4-mode3-01', 'weighted_agreement_score')":0.82,
+                "('phase2-vanilla4-mode3-01', 'total_count')":465,
+                "('phase2-vanilla4o-mode3-01', 'agreement_percentage')":84.22,
+                "('phase2-vanilla4o-mode3-01', 'weighted_agreement_score')":0.84,
+                "('phase2-vanilla4o-mode3-01', 'total_count')":450
+            },
+            "personal-interested":{
+                "('phase2-vanilla4-mode3-01', 'agreement_percentage')":76.77,
+                "('phase2-vanilla4-mode3-01', 'weighted_agreement_score')":0.77,
+                "('phase2-vanilla4-mode3-01', 'total_count')":465,
+                "('phase2-vanilla4o-mode3-01', 'agreement_percentage')":82.0,
+                "('phase2-vanilla4o-mode3-01', 'weighted_agreement_score')":0.82,
+                "('phase2-vanilla4o-mode3-01', 'total_count')":450
+            },
+            "urgency":{
+                "('phase2-vanilla4-mode3-01', 'agreement_percentage')":87.74,
+                "('phase2-vanilla4-mode3-01', 'weighted_agreement_score')":0.88,
+                "('phase2-vanilla4-mode3-01', 'total_count')":465,
+                "('phase2-vanilla4o-mode3-01', 'agreement_percentage')":92.0,
+                "('phase2-vanilla4o-mode3-01', 'weighted_agreement_score')":0.92,
+                "('phase2-vanilla4o-mode3-01', 'total_count')":450
+            },
+            "work-logistics":{
+                "('phase2-vanilla4-mode3-01', 'agreement_percentage')":81.72,
+                "('phase2-vanilla4-mode3-01', 'weighted_agreement_score')":0.82,
+                "('phase2-vanilla4-mode3-01', 'total_count')":465,
+                "('phase2-vanilla4o-mode3-01', 'agreement_percentage')":85.33,
+                "('phase2-vanilla4o-mode3-01', 'weighted_agreement_score')":0.85,
+                "('phase2-vanilla4o-mode3-01', 'total_count')":450
+            },
+            "work-pers":{
+                "('phase2-vanilla4-mode3-01', 'agreement_percentage')":80.0,
+                "('phase2-vanilla4-mode3-01', 'weighted_agreement_score')":0.8,
+                "('phase2-vanilla4-mode3-01', 'total_count')":465,
+                "('phase2-vanilla4o-mode3-01', 'agreement_percentage')":64.44,
+                "('phase2-vanilla4o-mode3-01', 'weighted_agreement_score')":0.64,
+                "('phase2-vanilla4o-mode3-01', 'total_count')":450
+            },
+            "work-relevant":{
+                "('phase2-vanilla4-mode3-01', 'agreement_percentage')":80.65,
+                "('phase2-vanilla4-mode3-01', 'weighted_agreement_score')":0.81,
+                "('phase2-vanilla4-mode3-01', 'total_count')":465,
+                "('phase2-vanilla4o-mode3-01', 'agreement_percentage')":83.11,
+                "('phase2-vanilla4o-mode3-01', 'weighted_agreement_score')":0.83,
+                "('phase2-vanilla4o-mode3-01', 'total_count')":450
+            }
+        }
+    }
+}

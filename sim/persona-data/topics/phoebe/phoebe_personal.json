@@ -1,0 +1,26 @@
+{
+   "use_history": true,
+   "openai_model": "{{openai_model_sim}}",
+   "dramatis_personae": "{{phoebe_personal_dramatis_personae}}",
+   "entities": "{{phoebe_personal_entities}}",
+   "topics":[
+      {
+         "category":"phoebe-friends-university",
+         "enabled": true,
+         "items_multiplier": 1,
+         "topic":"General chat between a group of friends who all studied together at Borsetshire University and graduated two years ago.  This close group of friends stays in touch - mainly via this chat - and sometimes organises meetings.  They discuss how each other’s careers and personal lives are doing.  Topics are wide-ranging, including general jokes and light chat in addition to talking about what they are doing or arranging to meet.  Message content should be unique and not duplicated. The tone of the messages should be informal British English with British spellings."
+      },
+      {
+         "category":"phoebe-friends-work",
+         "enabled": true,
+         "items_multiplier": 2,
+         "topic":"General chat between a small group of friends who currently work together at Brightstone Accountancy Firm, the workplace of our fictional protagonist, Phoebe Aldridge.  This chat is outside of normal work channels and can include arrangements to meet up and office gossip as well as general jokes and light chat.  Message content should be unique and not duplicated. The tone of the messages should be informal British English with British spellings."
+      },
+      {
+         "category":"phoebe-family-chat",
+         "enabled": true,
+         "items_multiplier": 2,
+         "topic":"General chat between members of a fictional British family, as seen by our protagonist, Phoebe Aldridge.  The chat is a lighthearted exchange between immediate family members Phoebe, Brian, Jennifer, Debbie, Adam, Kate and Alice, and also wider family members.  Do not include messages from non-family.  Topics include anything a family might discuss, but can also include village gossip, family personal and work happenings and milestones, and requests for assistance or favours. While Phoebe lives in London now, most of the family live in the village of Ambridge, while wider family and friends are dotted around local villages Penny Hassett, Loxley Barrett, Darrington, Hollerton, Edgeley, Waterley Cross and Lakey Green.  The main local city is the cathedral city of Felpersham where Usha works as a partner in Felpersham Law.  Message content should be unique and not duplicated.  The tone of the messages should be informal British English with British spellings."
+      }
+   ]
+}
