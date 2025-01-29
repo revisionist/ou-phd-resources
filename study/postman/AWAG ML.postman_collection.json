@@ -1,0 +1,757 @@
+{
+	"info": {
+		"_postman_id": "e826b13a-a0c5-451f-9ee2-756264aea641",
+		"name": "AWAG ML",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "9715575"
+	},
+	"item": [
+		{
+			"name": "AwAgML Create Model",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n   \"model\":\"{{model_id}}-2\",\r\n   \"desc\":\"Description of {{model_id}}-2\",\r\n   \"agent\":\"{{agent_id}}\",\r\n   \"classifications\":[\"a\",\"b\",\"c\"]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url_prefix}}/api/v1/awag/ml/createmodel",
+					"host": [
+						"{{url_prefix}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"awag",
+						"ml",
+						"createmodel"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AwAgML Add Classifications",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n   \"model\":\"{{model_id}}\",\r\n   \"agent\":\"{{agent_id}}\",\r\n   \"classifications\":[\"c\",\"d\",\"e\"]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url_prefix}}/api/v1/awag/ml/addclassifications",
+					"host": [
+						"{{url_prefix}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"awag",
+						"ml",
+						"addclassifications"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AwAgML Get Classifications",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n   \"model\":\"{{model_id}}\",\r\n   \"agent\":\"{{agent_id}}\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url_prefix}}/api/v1/awag/ml/getclassifications",
+					"host": [
+						"{{url_prefix}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"awag",
+						"ml",
+						"getclassifications"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AwAgML Delete Model",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n   \"model\":\"work-urgency\",\r\n   \"agent\":\"{{agent_id_adam}}\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url_prefix}}/api/v1/awag/ml/deletemodel",
+					"host": [
+						"{{url_prefix}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"awag",
+						"ml",
+						"deletemodel"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AwAgML Classify",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{agent-id-test-1}}",
+							"type": "string"
+						},
+						{
+							"key": "password",
+							"value": "eb059f77-bb22-4dde-9607-{{agent_id_test_1}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n   \"model\":\"{{model_id}}\",\r\n   \"agent\":\"{{agent_id}}\",\r\n   \"data\":[\r\n      \"This is a test!\"\r\n   ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url_prefix}}/api/v1/awag/ml/classify",
+					"host": [
+						"{{url_prefix}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"awag",
+						"ml",
+						"classify"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AwAgML Classify Adam",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{agent-id-test-1}}",
+							"type": "string"
+						},
+						{
+							"key": "password",
+							"value": "eb059f77-bb22-4dde-9607-{{agent_id_test_1}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n   \"model\":\"cycling-logistics\",\r\n   \"agent\":\"{{agent_id_adam}}\",\r\n   \"data\":[\r\n      \"logistics\"\r\n   ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url_prefix}}/api/v1/awag/ml/classify",
+					"host": [
+						"{{url_prefix}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"awag",
+						"ml",
+						"classify"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AwAgML Classify Usha",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{agent-id-test-1}}",
+							"type": "string"
+						},
+						{
+							"key": "password",
+							"value": "eb059f77-bb22-4dde-9607-{{agent_id_test_1}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n   \"model\":\"urgency\",\r\n   \"agent\":\"{{agent_id_usha}}\",\r\n   \"data\":[\r\n      \"Hello this is a test\"\r\n   ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url_prefix}}/api/v1/awag/ml/classify",
+					"host": [
+						"{{url_prefix}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"awag",
+						"ml",
+						"classify"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AwAgML Classify Kenton",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{agent-id-kenton}}",
+							"type": "string"
+						},
+						{
+							"key": "password",
+							"value": "eb059f77-bb22-4dde-9607-{{agent_id_test_1}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n   \"model\":\"urgency\",\r\n   \"agent\":\"{{agent_id_kenton}}\",\r\n   \"data\":[\r\n      \"This is a test!\"\r\n   ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url_prefix}}/api/v1/awag/ml/classify",
+					"host": [
+						"{{url_prefix}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"awag",
+						"ml",
+						"classify"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AwAgML Classify Susan",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{agent-id-kenton}}",
+							"type": "string"
+						},
+						{
+							"key": "password",
+							"value": "eb059f77-bb22-4dde-9607-{{agent_id_test_1}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n   \"model\":\"interested\",\r\n   \"agent\":\"{{agent_id_susan}}\",\r\n   \"data\":[\r\n      \"This is a test!\"\r\n   ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url_prefix}}/api/v1/awag/ml/classify",
+					"host": [
+						"{{url_prefix}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"awag",
+						"ml",
+						"classify"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AwAgML Add Rows",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{agent_id}}",
+							"type": "string"
+						},
+						{
+							"key": "password",
+							"value": "eb059f77-bb22-4dde-9607-{{agent_id_test_1}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n   \"model\":\"{{model_id}}\",\r\n   \"agent\":\"{{agent_id}}\",\r\n   \"items\":[{\"data\":\"This should get a classification: a\", \"target\":\"a\"},{\"data\":\"This should get a classification: e\",\"target\":\"e\"}]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url_prefix}}/api/v1/awag/ml/addrows",
+					"host": [
+						"{{url_prefix}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"awag",
+						"ml",
+						"addrows"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AwAgML Add Rows Kenton",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{agent_id_kenton}}",
+							"type": "string"
+						},
+						{
+							"key": "password",
+							"value": "eb059f77-bb22-4dde-9607-{{agent_id_test_1}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n   \"model\":\"interested\",\r\n   \"agent\":\"{{agent_id_kenton}}\",\r\n   \"items\":[{\"data\":\"Test value\", \"target\":\"work\"},{\"data\":\"Test value\",\"target\":\"personal\"}, {\"data\":\"Test value\", \"target\":\"not\"},{\"data\":\"Test value\", \"target\":\"work\"},{\"data\":\"Test value\",\"target\":\"personal\"}, {\"data\":\"Test value\", \"target\":\"not\"}]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url_prefix}}/api/v1/awag/ml/addrows",
+					"host": [
+						"{{url_prefix}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"awag",
+						"ml",
+						"addrows"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AwAgML Add Rows Susan",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n   \"model\":\"tennis-arrangements\",\r\n   \"agent\":\"{{agent_id_susan}}\",\r\n   \"items\":[\r\n      {\r\n         \"data\":\"arrangements\",\r\n         \"target\":\"arrangements\"\r\n      },\r\n      {\r\n         \"data\":\"not\",\r\n         \"target\":\"not\"\r\n      },\r\n      {\r\n         \"data\":\"arrangements\",\r\n         \"target\":\"arrangements\"\r\n      },\r\n      {\r\n         \"data\":\"not\",\r\n         \"target\":\"not\"\r\n      }\r\n   ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url_prefix}}/api/v1/awag/ml/addrows",
+					"host": [
+						"{{url_prefix}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"awag",
+						"ml",
+						"addrows"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AwAgML Add Rows Adam",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n   \"model\":\"cycling-logistics\",\r\n   \"agent\":\"{{agent_id_adam}}\",\r\n   \"items\":[\r\n      {\r\n         \"data\":\"logistics\",\r\n         \"target\":\"logistics\"\r\n      },\r\n      {\r\n         \"data\":\"not\",\r\n         \"target\":\"not\"\r\n      },\r\n      {\r\n         \"data\":\"logistics\",\r\n         \"target\":\"logistics\"\r\n      },\r\n      {\r\n         \"data\":\"not\",\r\n         \"target\":\"not\"\r\n      }\r\n  ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url_prefix}}/api/v1/awag/ml/addrows",
+					"host": [
+						"{{url_prefix}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"awag",
+						"ml",
+						"addrows"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AwAgML Update Model Desc",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{agent-id-test-1}}",
+							"type": "string"
+						},
+						{
+							"key": "password",
+							"value": "eb059f77-bb22-4dde-9607-{{agent_id_test_1}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n   \"agent\":\"{{agent_id}}\",\r\n   \"model\":\"{{model_id}}\",\r\n   \"desc\":\"A new description for model {{model_id}}\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url_prefix}}/api/v1/awag/ml/updatemodeldesc",
+					"host": [
+						"{{url_prefix}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"awag",
+						"ml",
+						"updatemodeldesc"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AwAgML Get Models",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{agent-id-test-1}}",
+							"type": "string"
+						},
+						{
+							"key": "password",
+							"value": "eb059f77-bb22-4dde-9607-{{agent_id_test_1}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url_prefix}}/api/v1/awag/ml/getmodels?agent={{agent_id_adam}}",
+					"host": [
+						"{{url_prefix}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"awag",
+						"ml",
+						"getmodels"
+					],
+					"query": [
+						{
+							"key": "agent",
+							"value": "{{agent_id_adam}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AwAgML Get Models Kenton",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{agent_id_kenton}}",
+							"type": "string"
+						},
+						{
+							"key": "password",
+							"value": "eb059f77-bb22-4dde-9607-{{agent_id_test_1}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url_prefix}}/api/v1/awag/ml/getmodels?agent={{agent_id_kenton}}",
+					"host": [
+						"{{url_prefix}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"awag",
+						"ml",
+						"getmodels"
+					],
+					"query": [
+						{
+							"key": "agent",
+							"value": "{{agent_id_kenton}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AwAgML Get Model Desc",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{agent-id-test-1}}",
+							"type": "string"
+						},
+						{
+							"key": "password",
+							"value": "eb059f77-bb22-4dde-9607-{{agent_id_test_1}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url_prefix}}/api/v1/awag/ml/getmodeldesc?agent={{agent_id_susan}}&model=interested",
+					"host": [
+						"{{url_prefix}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"awag",
+						"ml",
+						"getmodeldesc"
+					],
+					"query": [
+						{
+							"key": "agent",
+							"value": "{{agent_id_susan}}"
+						},
+						{
+							"key": "model",
+							"value": "interested"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AwAgML Restricted",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{agent-id-test-1}}",
+							"type": "string"
+						},
+						{
+							"key": "password",
+							"value": "eb059f77-bb22-4dde-9607-{{agent_id_test_1}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url_prefix}}/api/v1/awag/ml/restricted",
+					"host": [
+						"{{url_prefix}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"awag",
+						"ml",
+						"restricted"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}

@@ -1,0 +1,1 @@
+This directory contains exported Postman collections and environment (https://www.postman.com/) with calls that were used to interact with the awagdata and awagml services to debug and administer study tasks.
