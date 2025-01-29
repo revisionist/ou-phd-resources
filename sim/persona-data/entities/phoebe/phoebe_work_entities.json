@@ -1,0 +1,178 @@
+[
+   {
+      "name":"Brightstone Accountancy Firm",
+      "also_known_as":[
+         "Brightstone",
+         "BAF"
+      ],
+      "type":"Employer",
+      "notes":"Phoebe's accountancy firm in London where she is on the management fast track. It offers rotational roles across departments for career growth",
+      "people":[
+         
+      ]
+   },
+   {
+      "name":"Felix & Co.",
+      "type":"Client",
+      "notes":"A medium-sized retail client that Phoebe worked with during one of her rotations",
+      "people":[
+         {
+            "name":"Tom Jacobs",
+            "role":"Finance Director"
+         },
+         {
+            "name":"Emily Clarke",
+            "role":"Account Manager"
+         },
+         {
+            "name":"Raj Mehta",
+            "role":"CFO"
+         },
+         {
+            "name":"Anna White",
+            "role":"Assistant Accountant; contact of Phoebe"
+         },
+         {
+            "name":"James Hill",
+            "role":"Junior Analyst; contact of Phoebe"
+         }
+      ]
+   },
+   {
+      "name":"Henderson Logistics",
+      "type":"Client",
+      "notes":"A logistics and supply chain management company seeking auditing services from Brightstone",
+      "people":[
+         {
+            "name":"Liam Turner",
+            "role":"Operations Director"
+         },
+         {
+            "name":"Nina Kim",
+            "role":"Head of Finance"
+         },
+         {
+            "name":"Olivia Brown",
+            "role":"Finance Assistant; contact of Phoebe"
+         },
+         {
+            "name":"Robert Green",
+            "role":"Supply Chain Coordinator; contact of Phoebe"
+         }
+      ]
+   },
+   {
+      "name":"GreenWave Technologies",
+      "type":"Client",
+      "notes":"A startup company providing sustainable tech solutions, working with Brightstone for tax consulting",
+      "people":[
+         {
+            "name":"Ethan Harris",
+            "role":"CEO"
+         },
+         {
+            "name":"Amara Shah",
+            "role":"Chief Technology Officer"
+         },
+         {
+            "name":"Lucy Evans",
+            "role":"Junior Engineer; contact of Phoebe"
+         },
+         {
+            "name":"Jack Moore",
+            "role":"Accounts Assistant; contact of Phoebe"
+         }
+      ]
+   },
+   {
+      "name":"EuroCommerce Ltd",
+      "type":"Client",
+      "notes":"An international trading firm for which Brightstone performs risk and financial audits",
+      "people":[
+         {
+            "name":"Oliver Smith",
+            "role":"Head of Risk Management"
+         },
+         {
+            "name":"Claire Peterson",
+            "role":"Finance Officer"
+         },
+         {
+            "name":"Sophie Martin",
+            "role":"Risk Analyst; contact of Phoebe"
+         },
+         {
+            "name":"Daniel Lewis",
+            "role":"Junior Accountant; contact of Phoebe"
+         }
+      ]
+   },
+   {
+      "name":"Beacon Industries",
+      "type":"Client",
+      "notes":"A manufacturing company specializing in industrial machinery, seeking advice on regulatory compliance and cost management",
+      "people":[
+         {
+            "name":"Michael Scott",
+            "role":"Plant Manager"
+         },
+         {
+            "name":"Sara Lee",
+            "role":"Compliance Officer; contact of Phoebe"
+         },
+         {
+            "name":"Elliot Brown",
+            "role":"Production Analyst; contact of Phoebe"
+         }
+      ]
+   },
+   {
+      "name":"Northshore Pharmaceuticals",
+      "type":"Client",
+      "notes":"A regional pharmaceutical company looking for auditing and tax compliance services",
+      "people":[
+         {
+            "name":"Rachel Adams",
+            "role":"Chief Accountant; contact of Phoebe"
+         },
+         {
+            "name":"Ryan Taylor",
+            "role":"Junior Auditor; contact of Phoebe"
+         },
+         {
+            "name":"Lisa Bennett",
+            "role":"Finance Assistant; contact of Phoebe"
+         }
+      ]
+   },
+   {
+      "name":"Alpha Accounting Services",
+      "type":"Competitor",
+      "notes":"A mid-sized accountancy firm specializing in small business audits and consulting",
+      "people":[
+         {
+            "name":"David Clark",
+            "role":"Managing Partner"
+         },
+         {
+            "name":"Emma Brown",
+            "role":"Senior Consultant"
+         }
+      ]
+   },
+   {
+      "name":"Prime Ledger LLP",
+      "type":"Competitor",
+      "notes":"A competing firm known for its aggressive pricing and focus on large-scale enterprises",
+      "people":[
+         {
+            "name":"Henry Black",
+            "role":"Director of Business Development"
+         },
+         {
+            "name":"Olivia Davis",
+            "role":"Tax Specialist"
+         }
+      ]
+   }
+]
